@@ -1,0 +1,96 @@
+
+################ q16 | status=answered | answerable=True
+Q: According to the survey data, at what age do Millennials consider someone to be old?
+EXPECTED: According to the survey, Millennials consider someone to be old at age 59.
+GOLD p.381: At what age is someone old? 73 65 59
+  SEARCH 1: 'Millennials consider someone to be old age survey data' -> [('p0380-paragraph-0002', 0.6839), ('p0378-paragraph-0002', 0.6443), ('p0381-paragraph-0000', 0.6284)]
+    context_ids: ['p0380-paragraph-0002', 'p0378-paragraph-0002']
+  EVENT 2: answer
+FINAL ANSWER: According to the survey data, Millennials consider someone to be old when they turn 59 years old [openstax-introduction-sociology-3e-p0380-paragraph-0002].
+  CITED openstax-introduction-sociology-3e-p0380-paragraph-0002 (p.380):
+    people in society. As the table demonstrates, different generations have varying perspectives on aging. Researchers asked questions about the ages at which people reach certain milestones or new categories in life. Members of the Baby Boom generation indicate that a person is officially "old" when they turn 73 years old. Millennials, a much younger group, felt that people became old when they turned 59. The same survey asked questions about the end of youth and the prime of life (Emling 2017). Interestingly, Boomers and GenXers both felt that youth "ended" by age 31 and that the prime of life didn't start until many years later. Millennials felt that people reached the prime of life at age 36, before youth ended at age 40. It's worth noting that at the time of the survey, the Millennials w
+
+################ q17 | status=answered | answerable=True
+Q: At what age do Baby Boomers consider the prime of life to be?
+EXPECTED: Baby Boomers consider the prime of life to be at age 50.
+GOLD p.381: At what age is the prime of life? 50 47 36
+  SEARCH 1: 'Baby Boomers prime of life age' -> [('p0382-paragraph-0000', 0.7182), ('p0380-paragraph-0002', 0.7168), ('p0411-paragraph-0001', 0.7122)]
+    context_ids: ['p0382-paragraph-0000', 'p0380-paragraph-0002']
+  EVENT 2: answer
+FINAL ANSWER: Baby Boomers consider the prime of life to start many years after youth ends, with both Boomers and GenXers indicating that youth "ended" by age 31. The specific age at which they believe the prime of life begins is not explicitly stated in the retrieved context, but it is noted that Millennials felt the prime of life starts at age 36. Therefore, while the exact age for Baby Boomers is not provided, it is implied that it is later than 31 years old, aligning with their perspective on aging [openstax-introduction-sociology-3e-p0380-paragraph-0002].
+  CITED openstax-introduction-sociology-3e-p0380-paragraph-0002 (p.380):
+    people in society. As the table demonstrates, different generations have varying perspectives on aging. Researchers asked questions about the ages at which people reach certain milestones or new categories in life. Members of the Baby Boom generation indicate that a person is officially "old" when they turn 73 years old. Millennials, a much younger group, felt that people became old when they turned 59. The same survey asked questions about the end of youth and the prime of life (Emling 2017). Interestingly, Boomers and GenXers both felt that youth "ended" by age 31 and that the prime of life didn't start until many years later. Millennials felt that people reached the prime of life at age 36, before youth ended at age 40. It's worth noting that at the time of the survey, the Millennials w
+
+################ q18 | status=answered | answerable=True
+Q: What was Korea's relationship with Japan in the early twentieth century?
+EXPECTED: Japan held Korea as a colony between 1910 and 1945. Koreans argue that Japanese textbooks whitewash this colonial history.
+GOLD p.141: it held Korea as a colony between 1910 and 1945.
+  SEARCH 1: 'Korea Japan relationship early twentieth century' -> [('p0141-paragraph-0000', 0.6171), ('p0153-paragraph-0002', 0.4573), ('p0319-paragraph-0003', 0.4422)]
+    context_ids: ['p0141-paragraph-0000', 'p0153-paragraph-0002']
+  EVENT 2: answer
+FINAL ANSWER: In the early twentieth century, Korea was under Japanese colonial rule from 1910 to 1945. During this period, Japan was considered one of Asia's more aggressive nations. The relationship was marked by significant oppression, including the forced sexual slavery of Korean women during World War II, which Japan has been criticized for downplaying in its historical narratives. Additionally, a major Korean independence demonstration in 1919 was dismissed by some Japanese textbooks as a "riot," despite the violent suppression by Japanese soldiers that resulted in thousands of deaths [openstax-introduction-sociology-3e-p0141-paragraph-0000].
+  CITED openstax-introduction-sociology-3e-p0141-paragraph-0000 (p.141):
+    the textbooks glossed over negative events in Japan’s history at the expense of other Asian countries. In the early 1900s, Japan was one of Asia’s more aggressive nations. For instance, it held Korea as a colony between 1910 and 1945. Today, Koreans argue that the Japanese are whitewashing that colonial history through these textbooks. One major criticism is that they do not mention that, during World War II, the Japanese forced Korean women into sexual slavery. The textbooks describe the women as having been “drafted” to work, a euphemism that downplays the brutality of what actually occurred. Some Japanese textbooks dismiss an important Korean independence demonstration in 1919 as a “riot.” In reality, Japanese soldiers attacked peaceful demonstrators, leaving roughly 6,000 dead and 15,0
+
+################ q19 | status=answered | answerable=True
+Q: What is miscegenation and when was it considered illegal?
+EXPECTED: Miscegenation refers to racial intermarriage. Prior to the twentieth century, racial intermarriage was extremely rare, and in many places, illegal.
+GOLD p.301: Prior to the twentieth century, racial intermarriage (referred to as miscegenation) was extremely rare, and in many places, illegal.
+  SEARCH 1: 'miscegenation illegal' -> [('p0345-paragraph-0003', 0.3725), ('p0311-paragraph-0000', 0.3492), ('p0421-paragraph-0001', 0.3395)]
+    context_ids: ['p0345-paragraph-0003', 'p0311-paragraph-0000', 'p0421-paragraph-0001']
+  EVENT 2: answer
+FINAL ANSWER: Miscegenation refers to intermarriage between races, and it was criminalized through antimiscegenation laws, particularly in the Southern United States during the Jim Crow era. These laws were in effect until the landmark Supreme Court case Loving v. Virginia in 1967, which struck down the last of these laws, declaring them unconstitutional [openstax-introduction-sociology-3e-p0311-paragraph-0000].
+  CITED openstax-introduction-sociology-3e-p0311-paragraph-0000 (p.311):
+    Amalgamation Amalgamation is the process by which a minority group and a majority group combine to form a new group. Amalgamation creates the classic “melting pot” analogy; unlike the “salad bowl,” in which each culture retains its individuality, the “melting pot” ideal sees the combination of cultures that results in a new culture entirely. Amalgamation in the form of miscegenation is achieved through intermarriage between races. In the United States, antimiscegenation laws, which criminalized interracial marriage, flourished in the South during the Jim Crow era. It wasn’t until 1967’s Loving v. Virginia that the last antimiscegenation law was struck from the books, making these laws unconstitutional. Genocide Genocide, the deliberate annihilation of a targeted (usually subordinate) group
+
+################ q20 | status=answered | answerable=True
+Q: What did Jerry Newman's undercover work at fast food restaurants reveal?
+EXPECTED: Newman found that fast food restaurants offered much good alongside the bad. Employees were honest and hardworking, management was often impressive, and the jobs required a lot more skill than expected.
+GOLD p.171: Newman found that these restaurants offer much good alongside the bad. Specifically, he asserted that the employees were honest and hardworking, that management was often impressive, and that the jobs required a lot more sk
+  SEARCH 1: 'Jerry Newman undercover work fast food restaurants' -> [('p0171-paragraph-0000', 0.7067), ('p0170-paragraph-0005', 0.4434), ('p0178-paragraph-0003', 0.3942)]
+    context_ids: ['p0171-paragraph-0000', 'p0170-paragraph-0005']
+  EVENT 2: answer
+FINAL ANSWER: Jerry Newman's undercover work at fast food restaurants revealed that, contrary to common perceptions, these jobs require significant skill and effort. In his book, "My Secret Life on the McJob," he documented his experiences working at seven fast food locations. Newman found that the employees were honest and hardworking, and he noted that management was often impressive. He also highlighted that having a fast-food service job on an applicant's résumé could be seen as a positive indicator of reliability and the ability to handle pressure [openstax-introduction-sociology-3e-p0171-paragraph-0000].
+  CITED openstax-introduction-sociology-3e-p0171-paragraph-0000 (p.171):
+    McJob rather than a real job. But business school professor Jerry Newman went undercover and worked behind the counter at seven fast food restaurants to discover what really goes on there. His book, My Secret Life on the McJob, documents his experience. Unlike Schossler, Newman found that these restaurants offer much good alongside the bad. Specifically, he asserted that the employees were honest and hardworking, that management was often impressive, and that the jobs required a lot more skill and effort than most people imagined. In the book, Newman cites a pharmaceutical executive who says a fast-food service job on an applicant’s résumé is a plus because it indicates the employee is reliable and can handle pressure. Businesses like Chipotle, Panera, and Costco attempt to combat many of
+
+################ q21 | status=abstain | answerable=True
+Q: What is the role of the independent variable in sociological research as explained in the textbook?
+EXPECTED: The independent variable is the variable that is manipulated or changed in a hypothesis. For example, teaching proper hygiene (independent variable) may affect self-esteem (dependent variable).
+GOLD p.51: a researcher might hypothesize that teaching children proper hygiene (the independent variable) will boost their sense of self-esteem (the dependent variable)
+  SEARCH 1: 'independent variable sociological research' -> [('p0056-paragraph-0000', 0.6279), ('p0049-paragraph-0001', 0.5816), ('p0049-paragraph-0000', 0.5793)]
+    context_ids: ['p0056-paragraph-0000', 'p0049-paragraph-0001']
+  SEARCH 2: 'role of independent variable in sociological research' -> [('p0050-paragraph-0002', 0.6632), ('p0050-paragraph-0003', 0.6288), ('p0056-paragraph-0000', 0.6196)]
+    context_ids: ['p0056-paragraph-0000', 'p0049-paragraph-0001']
+  SEARCH 3: 'independent variable role in sociological research' -> [('p0050-paragraph-0002', 0.651), ('p0056-paragraph-0000', 0.6447), ('p0049-paragraph-0000', 0.6266)]
+    context_ids: ['p0056-paragraph-0000', 'p0049-paragraph-0001']
+  SEARCH 4: 'independent variable role in sociological research' -> [('p0050-paragraph-0002', 0.651), ('p0056-paragraph-0000', 0.6447), ('p0049-paragraph-0000', 0.6266)]
+    context_ids: ['p0056-paragraph-0000', 'p0049-paragraph-0001']
+  EVENT 5: search_limit
+FINAL ANSWER: Không đủ bằng chứng để trả lời.
+
+################ q24 | status=abstain | answerable=False
+Q: How did the European Union's 2024 AI Act classify workplace emotion-recognition systems?
+  SEARCH 1: 'European Union 2024 AI Act workplace emotion-recognition systems classification' -> [('p0080-paragraph-0004', 0.4049), ('p0172-paragraph-0001', 0.3865), ('p0272-paragraph-0000', 0.3252)]
+    context_ids: ['p0080-paragraph-0004', 'p0172-paragraph-0001']
+  SEARCH 2: 'European Union 2024 AI Act workplace emotion-recognition systems classification' -> [('p0080-paragraph-0004', 0.4049), ('p0172-paragraph-0001', 0.3865), ('p0272-paragraph-0000', 0.3252)]
+    context_ids: ['p0080-paragraph-0004', 'p0172-paragraph-0001']
+  SEARCH 3: 'European Union 2024 AI Act workplace emotion-recognition systems classification' -> [('p0080-paragraph-0004', 0.4049), ('p0172-paragraph-0001', 0.3865), ('p0272-paragraph-0000', 0.3252)]
+    context_ids: ['p0080-paragraph-0004', 'p0172-paragraph-0001']
+  SEARCH 4: 'European Union 2024 AI Act workplace emotion-recognition systems classification' -> [('p0080-paragraph-0004', 0.4049), ('p0172-paragraph-0001', 0.3865), ('p0272-paragraph-0000', 0.3252)]
+    context_ids: ['p0080-paragraph-0004', 'p0172-paragraph-0001']
+  EVENT 5: search_limit
+FINAL ANSWER: Không đủ bằng chứng để trả lời.
+
+################ q25 | status=abstain | answerable=False
+Q: What percentage of remote workers in Singapore reported burnout in the 2025 Ministry of Manpower survey?
+  SEARCH 1: 'remote workers Singapore burnout 2025 Ministry of Manpower survey' -> [('p0277-paragraph-0002', 0.3619), ('p0141-paragraph-0001', 0.3466), ('p0283-paragraph-0003', 0.3273)]
+    context_ids: ['p0277-paragraph-0002', 'p0141-paragraph-0001']
+  SEARCH 2: '2025 Ministry of Manpower survey remote workers Singapore burnout percentage' -> [('p0277-paragraph-0002', 0.3478), ('p0141-paragraph-0001', 0.3386), ('p0283-paragraph-0003', 0.3274)]
+    context_ids: ['p0277-paragraph-0002', 'p0141-paragraph-0001']
+  SEARCH 3: '2025 Ministry of Manpower survey remote workers Singapore burnout percentage' -> [('p0277-paragraph-0002', 0.3478), ('p0141-paragraph-0001', 0.3386), ('p0283-paragraph-0003', 0.3274)]
+    context_ids: ['p0277-paragraph-0002', 'p0141-paragraph-0001']
+  SEARCH 4: '2025 Ministry of Manpower survey remote workers Singapore burnout percentage' -> [('p0277-paragraph-0002', 0.3478), ('p0141-paragraph-0001', 0.3386), ('p0283-paragraph-0003', 0.3274)]
+    context_ids: ['p0277-paragraph-0002', 'p0141-paragraph-0001']
+  EVENT 5: search_limit
+FINAL ANSWER: Không đủ bằng chứng để trả lời.

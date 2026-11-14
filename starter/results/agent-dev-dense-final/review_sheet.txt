@@ -1,0 +1,241 @@
+
+################ q01 | status=answered | answerable=True
+Q: What is a latent function in sociology, and can it be harmful?
+EXPECTED: Latent functions are unintended consequences of social processes. They can be beneficial, neutral, or harmful. Harmful latent functions are called dysfunctions.
+GOLD p.31: Latent functions can be beneficial, neutral, or harmful. Social processes that have undesirable consequences for the operation of society are called dysfunctions.
+  SEARCH 1: 'latent function sociology harmful' -> [('p0031-paragraph-0000', 0.6551), ('p0483-paragraph-0002', 0.5937), ('p0030-paragraph-0004', 0.5917)]
+    context_ids: ['p0031-paragraph-0000', 'p0483-paragraph-0002']
+  EVENT 2: answer
+  RAW MODEL ANSWER: A latent function in sociology refers to the unintended and often unrecognized consequences of a social process or structure. These functions can be beneficial, neutral, or harmful. For example, in the context of education, while the primary function is to provide formal education, latent functions include social networking and courtship opportunities among students. However, latent functions can also have harmful effects, as indicated by the concept of dysfunctions, which are social processes that lead to undesirable consequences for society, such as poor academic performance or dropping out of school [openstax-introduction-sociology-3e-p0031-paragraph-0000][openstax-introduction-sociology-3e-p0483-paragraph-0002].
+FINAL ANSWER: A latent function in sociology refers to the unintended and often unrecognized consequences of a social process or structure. These functions can be beneficial, neutral, or harmful. For example, in the context of education, while the primary function is to provide formal education, latent functions include social networking and courtship opportunities among students. However, latent functions can also have harmful effects, as indicated by the concept of dysfunctions, which are social processes that lead to undesirable consequences for society, such as poor academic performance or dropping out of school [openstax-introduction-sociology-3e-p0031-paragraph-0000][openstax-introduction-sociology-3e-p0483-paragraph-0002].
+  CITED openstax-introduction-sociology-3e-p0031-paragraph-0000 (p.31):
+    a hierarchy of employment based on the level of education attained. Latent functions can be beneficial, neutral, or harmful. Social processes that have undesirable consequences for the operation of society are called dysfunctions. In education, examples of dysfunction include getting bad grades, truancy, dropping out, not graduating, and not finding suitable employment. Criticism One criticism of the structural-functional theory is that it can’t adequately explain social change even though the functions are processes. Also problematic is the somewhat circular nature of this theory: repetitive behavior patterns are assumed to have a function, yet we profess to know that they have a function only because they are repeated. Furthermore, dysfunctions may continue, even though they don’t serve
+  CITED openstax-introduction-sociology-3e-p0483-paragraph-0002 (p.483):
+    Functions Education also fulfills latent functions. As you well know, much goes on in a school that has little to do with formal education. For example, you might notice an attractive fellow student when he gives a particularly interesting answer in class—catching up with him and making a date speaks to the latent function of courtship fulfilled by exposure to a peer group in the educational setting. The educational setting introduces students to social networks that might last for years and can help people find jobs after their schooling is complete. Of course, with social media such as Facebook and LinkedIn, these networks are easier than ever to maintain. Another latent function is the ability to work with others in small groups, a skill that is transferable to a workplace and that mig
+
+################ q02 | status=answered | answerable=True
+Q: What are examples of dysfunctions in education according to structural-functional theory?
+EXPECTED: Examples of dysfunction in education include getting bad grades, truancy, dropping out, not graduating, and not finding suitable employment.
+GOLD p.31: In education, examples of dysfunction include getting bad grades, truancy, dropping out, not graduating, and not finding suitable employment.
+  SEARCH 1: 'dysfunctions in education structural-functional theory' -> [('p0031-paragraph-0000', 0.7669), ('p0496-paragraph-0000', 0.6366), ('p0482-paragraph-0003', 0.6335)]
+    context_ids: ['p0031-paragraph-0000', 'p0496-paragraph-0000']
+  EVENT 2: answer
+  RAW MODEL ANSWER: According to structural-functional theory, examples of dysfunctions in education include getting bad grades, truancy, dropping out, not graduating, and not finding suitable employment. These dysfunctions represent social processes that have undesirable consequences for the operation of society [openstax-introduction-sociology-3e-p0031-paragraph-0000].
+FINAL ANSWER: According to structural-functional theory, examples of dysfunctions in education include getting bad grades, truancy, dropping out, not graduating, and not finding suitable employment. These dysfunctions represent social processes that have undesirable consequences for the operation of society [openstax-introduction-sociology-3e-p0031-paragraph-0000].
+  CITED openstax-introduction-sociology-3e-p0031-paragraph-0000 (p.31):
+    a hierarchy of employment based on the level of education attained. Latent functions can be beneficial, neutral, or harmful. Social processes that have undesirable consequences for the operation of society are called dysfunctions. In education, examples of dysfunction include getting bad grades, truancy, dropping out, not graduating, and not finding suitable employment. Criticism One criticism of the structural-functional theory is that it can’t adequately explain social change even though the functions are processes. Also problematic is the somewhat circular nature of this theory: repetitive behavior patterns are assumed to have a function, yet we profess to know that they have a function only because they are repeated. Furthermore, dysfunctions may continue, even though they don’t serve
+
+################ q03 | status=abstain | answerable=True
+Q: What is the main criticism of structural-functional theory?
+EXPECTED: One criticism of the structural-functional theory is that it cannot adequately explain social change.
+GOLD p.31: One criticism of the structural-functional theory is that it can't adequately explain social change
+  SEARCH 1: 'criticism of structural-functional theory' -> [('p0030-paragraph-0001', 0.5597), ('p0038-paragraph-0001', 0.5098), ('p0031-paragraph-0000', 0.5094)]
+    context_ids: ['p0030-paragraph-0001', 'p0038-paragraph-0001']
+  SEARCH 2: 'criticism of structural-functional theory' -> [('p0030-paragraph-0001', 0.5597), ('p0038-paragraph-0001', 0.5098), ('p0031-paragraph-0000', 0.5094)]
+    context_ids: ['p0030-paragraph-0001', 'p0038-paragraph-0001']
+  SEARCH 3: 'criticism of structural-functional theory' -> [('p0030-paragraph-0001', 0.5597), ('p0038-paragraph-0001', 0.5098), ('p0031-paragraph-0000', 0.5094)]
+    context_ids: ['p0030-paragraph-0001', 'p0038-paragraph-0001']
+  SEARCH 4: 'criticism of structural-functional theory' -> [('p0030-paragraph-0001', 0.5597), ('p0038-paragraph-0001', 0.5098), ('p0031-paragraph-0000', 0.5094)]
+    context_ids: ['p0030-paragraph-0001', 'p0038-paragraph-0001']
+  EVENT 5: search_limit
+FINAL ANSWER: Không đủ bằng chứng để trả lời.
+
+################ q04 | status=answered | answerable=True
+Q: What is the Agricultural Revolution and when did it occur?
+EXPECTED: The Agricultural Revolution was an explosion of new technology that made farming possible and profitable, occurring around 10,000 B.C.E.
+GOLD p.111: Around 10,000 B.C.E., an explosion of new technology known as the Agricultural Revolution made farming possible—and profitable.
+  SEARCH 1: 'Agricultural Revolution' -> [('p0533-paragraph-0001', 0.6077), ('p0111-paragraph-0000', 0.5982), ('p0533-paragraph-0000', 0.5706)]
+    context_ids: ['p0533-paragraph-0001', 'p0111-paragraph-0000']
+  EVENT 2: answer
+  RAW MODEL ANSWER: The Agricultural Revolution refers to a significant transformation in human history that began around 10,000 B.C.E. This period marked an explosion of new technologies that made farming possible and profitable. During this time, farmers developed techniques such as crop rotation and the use of waste products like manure as fertilizer, which led to improved harvests and larger food surpluses. The revolution also saw the introduction of more effective metal tools for digging and harvesting, contributing to the growth of human settlements into towns and cities, and establishing centers of trade and commerce [openstax-introduction-sociology-3e-p0111-paragraph-0000]. 
+
+Additionally, agriculture began to emerge in various regions, including the eastern United States, central Mexico, and northern South America, between 5,000 and 3,000 years ago, further indicating the widespread impact of agricultural practices [openstax-introduction-sociology-3e-p0533-paragraph-0001].
+FINAL ANSWER: The Agricultural Revolution refers to a significant transformation in human history that began around 10,000 B.C.E. This period marked an explosion of new technologies that made farming possible and profitable. During this time, farmers developed techniques such as crop rotation and the use of waste products like manure as fertilizer, which led to improved harvests and larger food surpluses. The revolution also saw the introduction of more effective metal tools for digging and harvesting, contributing to the growth of human settlements into towns and cities, and establishing centers of trade and commerce [openstax-introduction-sociology-3e-p0111-paragraph-0000]. 
+
+Additionally, agriculture began to emerge in various regions, including the eastern United States, central Mexico, and northern South America, between 5,000 and 3,000 years ago, further indicating the widespread impact of agricultural practices [openstax-introduction-sociology-3e-p0533-paragraph-0001].
+  CITED openstax-introduction-sociology-3e-p0111-paragraph-0000 (p.111):
+    Agricultural While pastoral and horticultural societies used small, temporary tools such as digging sticks or hoes, agricultural societies relied on permanent tools for survival. Around 10,000 B.C.E., an explosion of new technology known as the Agricultural Revolution made farming possible—and profitable. Farmers learned to rotate the types of crops grown on their fields and to reuse waste products such as manure as fertilizer, which led to better harvests and bigger surpluses of food. New tools for digging and harvesting were made of metal, and this made them more effective and longer lasting. Human settlements grew into towns and cities, and particularly bountiful regions became centers of trade and commerce. This is also the age in which people had the time and comfort to engage in more
+  CITED openstax-introduction-sociology-3e-p0533-paragraph-0001 (p.533):
+    e, arising in what would become the eastern United States, central Mexico, and northern South America between 5,000 and 3,000 years ago (Diamond 2003). FIGURE 18.4 Agricultural practices have emerged in different societies at different times. (Information: Wikimedia Commons) Agriculture began with the simplest of technologies—for example, a pointed stick to break up the soil—but really took off when people harnessed animals to pull an even more efficient tool for the same task: a plow. With this new technology, one family could grow enough crops not only to feed themselves but also to feed others. Knowing there would be abundant food each year as long as crops were tended led people to abandon the nomadic life of hunter-gatherers and settle down to farm. The improved efficiency in food pro
+
+################ q05 | status=answered | answerable=True
+Q: How did farmers improve harvests during the Agricultural Revolution?
+EXPECTED: Farmers learned to rotate the types of crops grown on their fields and to reuse waste products such as manure as fertilizer, which led to better harvests and bigger food surpluses.
+GOLD p.111: Farmers learned to rotate the types of crops grown on their fields and to reuse waste products such as manure as fertilizer, which led to better harvests and bigger surpluses of food.
+  SEARCH 1: 'farmers improve harvests Agricultural Revolution' -> [('p0111-paragraph-0000', 0.6367), ('p0533-paragraph-0001', 0.6027), ('p0535-paragraph-0001', 0.5921)]
+    context_ids: ['p0111-paragraph-0000', 'p0533-paragraph-0001']
+  EVENT 2: answer
+  RAW MODEL ANSWER: Farmers improved harvests during the Agricultural Revolution through several key practices. They learned to rotate crops and reuse waste products like manure as fertilizer, which enhanced soil fertility and led to better harvests and larger food surpluses. Additionally, the introduction of metal tools for digging and harvesting made these tasks more effective and durable. The use of plows, which were pulled by animals, also significantly increased efficiency, allowing families to produce enough food not only for themselves but also for others, facilitating the transition from a nomadic lifestyle to settled farming communities [openstax-introduction-sociology-3e-p0111-paragraph-0000][openstax-introduction-sociology-3e-p0533-paragraph-0001].
+FINAL ANSWER: Farmers improved harvests during the Agricultural Revolution through several key practices. They learned to rotate crops and reuse waste products like manure as fertilizer, which enhanced soil fertility and led to better harvests and larger food surpluses. Additionally, the introduction of metal tools for digging and harvesting made these tasks more effective and durable. The use of plows, which were pulled by animals, also significantly increased efficiency, allowing families to produce enough food not only for themselves but also for others, facilitating the transition from a nomadic lifestyle to settled farming communities [openstax-introduction-sociology-3e-p0111-paragraph-0000][openstax-introduction-sociology-3e-p0533-paragraph-0001].
+  CITED openstax-introduction-sociology-3e-p0111-paragraph-0000 (p.111):
+    Agricultural While pastoral and horticultural societies used small, temporary tools such as digging sticks or hoes, agricultural societies relied on permanent tools for survival. Around 10,000 B.C.E., an explosion of new technology known as the Agricultural Revolution made farming possible—and profitable. Farmers learned to rotate the types of crops grown on their fields and to reuse waste products such as manure as fertilizer, which led to better harvests and bigger surpluses of food. New tools for digging and harvesting were made of metal, and this made them more effective and longer lasting. Human settlements grew into towns and cities, and particularly bountiful regions became centers of trade and commerce. This is also the age in which people had the time and comfort to engage in more
+  CITED openstax-introduction-sociology-3e-p0533-paragraph-0001 (p.533):
+    e, arising in what would become the eastern United States, central Mexico, and northern South America between 5,000 and 3,000 years ago (Diamond 2003). FIGURE 18.4 Agricultural practices have emerged in different societies at different times. (Information: Wikimedia Commons) Agriculture began with the simplest of technologies—for example, a pointed stick to break up the soil—but really took off when people harnessed animals to pull an even more efficient tool for the same task: a plow. With this new technology, one family could grow enough crops not only to feed themselves but also to feed others. Knowing there would be abundant food each year as long as crops were tended led people to abandon the nomadic life of hunter-gatherers and settle down to farm. The improved efficiency in food pro
+
+################ q06 | status=answered | answerable=True
+Q: According to conflict theorists, what divided people in Marx's time?
+EXPECTED: Marx believed people were divided into two main groups: those who owned factories (bourgeois capitalists) and those who worked in them (proletariats).
+GOLD p.261: People were divided into two main groups: they either owned factories or worked in them. In Marx's time, bourgeois capitalists owned high-producing businesses, factories, and land.
+  SEARCH 1: "conflict theorists Marx's time division" -> [('p0188-paragraph-0002', 0.6869), ('p0517-paragraph-0004', 0.6528), ('p0261-paragraph-0000', 0.6155)]
+    context_ids: ['p0188-paragraph-0002', 'p0517-paragraph-0004']
+  EVENT 2: answer
+  RAW MODEL ANSWER: According to conflict theorists, particularly Karl Marx, society in his time was divided into two main groups: the bourgeoisie and the proletariat. The bourgeoisie were the wealthy individuals who controlled the means of production and business, while the proletariat consisted of the workers who depended on the bourgeoisie for employment and survival. Marx believed that the bourgeoisie maintained their power and influence through government, laws, and other authority agencies to sustain and expand their positions in society [openstax-introduction-sociology-3e-p0188-paragraph-0002].
+FINAL ANSWER: According to conflict theorists, particularly Karl Marx, society in his time was divided into two main groups: the bourgeoisie and the proletariat. The bourgeoisie were the wealthy individuals who controlled the means of production and business, while the proletariat consisted of the workers who depended on the bourgeoisie for employment and survival. Marx believed that the bourgeoisie maintained their power and influence through government, laws, and other authority agencies to sustain and expand their positions in society [openstax-introduction-sociology-3e-p0188-paragraph-0002].
+  CITED openstax-introduction-sociology-3e-p0188-paragraph-0002 (p.188):
+    simplify social trends (Akers 1991). Conflict theorists also look for answers to the correlation of gender and race with wealth and crime. Karl Marx: An Unequal System Conflict theory was greatly influenced by the work of German philosopher, economist, and social scientist Karl Marx. Marx believed that the general population was divided into two groups. He labeled the wealthy, who controlled the means of production and business, the bourgeois. He labeled the workers who depended on the bourgeois for employment and survival the proletariat. Marx believed that the bourgeois centralized their power and influence through government, laws, and other authority agencies in order to maintain and expand their positions of power in society. Though Marx spoke little of deviance, his ideas created the
+
+################ q07 | status=answered | answerable=True
+Q: How did Karl Marx explain social stratification in the industrial era?
+EXPECTED: Marx believed social stratification resulted from people's relationship to production. The bourgeoisie owned capital and means of production, while the proletariat performed manual labor.
+GOLD p.261: Marx believed social stratification resulted from people's relationship to production.
+  SEARCH 1: 'Karl Marx social stratification industrial era' -> [('p0261-paragraph-0000', 0.7195), ('p0266-paragraph-0001', 0.6916), ('p0560-paragraph-0003', 0.664)]
+    context_ids: ['p0261-paragraph-0000', 'p0266-paragraph-0001']
+  EVENT 2: answer
+  RAW MODEL ANSWER: Karl Marx explained social stratification in the industrial era as a result of people's relationship to production. He identified two main groups: the bourgeoisie, who owned factories and businesses, and the proletariat, who worked in them. The bourgeois capitalists accumulated wealth and power, while the proletariat earned low wages and faced struggles for survival. This division created opposing interests between the two groups, leading to significant differences in wealth and power. Marx also noted that workers experienced alienation, isolation, and misery due to their position within this stratified system [openstax-introduction-sociology-3e-p0261-paragraph-0000].
+FINAL ANSWER: Karl Marx explained social stratification in the industrial era as a result of people's relationship to production. He identified two main groups: the bourgeoisie, who owned factories and businesses, and the proletariat, who worked in them. The bourgeois capitalists accumulated wealth and power, while the proletariat earned low wages and faced struggles for survival. This division created opposing interests between the two groups, leading to significant differences in wealth and power. Marx also noted that workers experienced alienation, isolation, and misery due to their position within this stratified system [openstax-introduction-sociology-3e-p0261-paragraph-0000].
+  CITED openstax-introduction-sociology-3e-p0261-paragraph-0000 (p.261):
+    Many conflict theorists draw on the work of Karl Marx. During the nineteenth-century era of industrialization, Marx believed social stratification resulted from people’s relationship to production. People were divided into two main groups: they either owned factories or worked in them. In Marx’s time, bourgeois capitalists owned high-producing businesses, factories, and land, as they still do today. Proletariats were the workers who performed the manual labor to produce goods. Upper-class capitalists raked in profits and got rich, while working-class proletariats earned skimpy wages and struggled to survive. With such opposing interests, the two groups were divided by differences of wealth and power. Marx believed workers experience deep alienation, isolation and misery resulting from powe
+
+################ q08 | status=answered | answerable=True
+Q: What did music research find about the emotions recognized by tribal members listening to Western piano?
+EXPECTED: Tribal members were able to recognize three basic emotions: happiness, sadness, and fear, suggesting music is a kind of universal language.
+GOLD p.81: they were able to recognize three basic emotions: happiness, sadness, and fear. Music, the study suggested, is a sort of universal language.
+  SEARCH 1: 'music research emotions tribal members Western piano' -> [('p0081-paragraph-0000', 0.6551), ('p0080-paragraph-0005', 0.5365), ('p0080-paragraph-0004', 0.5218)]
+    context_ids: ['p0081-paragraph-0000', 'p0080-paragraph-0005', 'p0080-paragraph-0004']
+  EVENT 2: answer
+  RAW MODEL ANSWER: Music research found that tribal members, specifically the Mafa tribe from Cameroon who had never been exposed to Western culture, were able to recognize three basic emotions while listening to a Western piano piece: happiness, sadness, and fear. This suggests that music may serve as a universal language that transcends cultural boundaries [openstax-introduction-sociology-3e-p0081-paragraph-0000].
+FINAL ANSWER: Music research found that tribal members, specifically the Mafa tribe from Cameroon who had never been exposed to Western culture, were able to recognize three basic emotions while listening to a Western piano piece: happiness, sadness, and fear. This suggests that music may serve as a universal language that transcends cultural boundaries [openstax-introduction-sociology-3e-p0081-paragraph-0000].
+  CITED openstax-introduction-sociology-3e-p0081-paragraph-0000 (p.81):
+    experience within which to interpret its music. Even so, as the tribal members listened to a Western piano piece, they were able to recognize three basic emotions: happiness, sadness, and fear. Music, the study suggested, is a sort of universal language. Researchers also found that music can foster a sense of wholeness within a group. In fact, scientists who study the evolution of language have concluded that originally language (an established component of group identity) and music were one (Darwin, 1871). Additionally, since music is largely nonverbal, the sounds of music can cross societal boundaries more easily than words. Music allows people to make connections, where language might be a more difficult barricade. As Fritz and his team found, music and the emotions it conveys are cultu
+
+################ q09 | status=answered | answerable=True
+Q: What is cyberfeminism?
+EXPECTED: Cyberfeminism is the application to, and promotion of, feminism online.
+GOLD p.231: cyberfeminism, the application to, and promotion of, feminism online.
+  SEARCH 1: 'cyberfeminism' -> [('p0232-paragraph-0000', 0.7088), ('p0231-paragraph-0000', 0.6217), ('p0647-paragraph-0001', 0.5235)]
+    context_ids: ['p0232-paragraph-0000', 'p0231-paragraph-0000']
+  EVENT 2: answer
+  RAW MODEL ANSWER: Cyberfeminism is defined as "the application to and promotion of feminism online" [openstax-introduction-sociology-3e-p0231-paragraph-0000]. It encompasses a range of research topics, including the use of blogs by women in conflict zones and the analysis of specific websites that engage with feminist themes.
+FINAL ANSWER: Cyberfeminism is defined as "the application to and promotion of feminism online" [openstax-introduction-sociology-3e-p0231-paragraph-0000]. It encompasses a range of research topics, including the use of blogs by women in conflict zones and the analysis of specific websites that engage with feminist themes.
+  CITED openstax-introduction-sociology-3e-p0231-paragraph-0000 (p.231):
+    access, at the same time new media could offer alternative forums for feminist groups and the exchange of feminist ideas. Still, the committee warned against the relatively unregulated environment of new media and the potential for antifeminist activities, from pornography to human trafficking, to flourish there. Increasingly prominent in the discussion of new media and feminism is cyberfeminism, the application to, and promotion of, feminism online. Research on cyberfeminism runs the gamut from the liberating use of blogs by women living in Iraq during the second Gulf War (Peirce 2011) to an investigation of the Suicide Girls web site (Magnet 2007). Symbolic Interactionism Technology itself may act as a symbol for many. The kind of computer you own, the kind of car you drive, your ability
+
+################ q10 | status=answered | answerable=True
+Q: What is the control theory in sociology?
+EXPECTED: Control theory is a theory that states social control is directly affected by the strength of social bonds and that deviance results from a feeling of disconnection from society.
+GOLD p.201: control theory a theory that states social control is directly affected by the strength of social bonds and that deviance results from a feeling of disconnection from society
+  SEARCH 1: 'control theory in sociology' -> [('p0193-paragraph-0001', 0.6983), ('p0201-paragraph-0000', 0.6136), ('p0193-paragraph-0000', 0.6114)]
+    context_ids: ['p0193-paragraph-0001', 'p0201-paragraph-0000']
+  EVENT 2: answer
+  RAW MODEL ANSWER: Control theory in sociology posits that social control is influenced by the strength of social bonds, suggesting that deviance arises from a sense of disconnection from society. According to this theory, individuals who feel integrated into society are less likely to engage in criminal behavior. Travis Hirschi identified four types of social bonds that connect individuals to society: attachment, commitment, involvement, and belief. These bonds help individuals conform to societal norms to gain approval and avoid disapproval from others [openstax-introduction-sociology-3e-p0193-paragraph-0001][openstax-introduction-sociology-3e-p0201-paragraph-0000].
+FINAL ANSWER: Control theory in sociology posits that social control is influenced by the strength of social bonds, suggesting that deviance arises from a sense of disconnection from society. According to this theory, individuals who feel integrated into society are less likely to engage in criminal behavior. Travis Hirschi identified four types of social bonds that connect individuals to society: attachment, commitment, involvement, and belief. These bonds help individuals conform to societal norms to gain approval and avoid disapproval from others [openstax-introduction-sociology-3e-p0193-paragraph-0001][openstax-introduction-sociology-3e-p0201-paragraph-0000].
+  CITED openstax-introduction-sociology-3e-p0193-paragraph-0001 (p.193):
+    s, control theory states that social control is directly affected by the strength of social bonds and that deviance results from a feeling of disconnection from society. Individuals who believe they are a part of society are less likely to commit crimes against it. Travis Hirschi (1969) identified four types of social bonds that connect people to society: 1. Attachment measures our connections to others. When we are closely attached to people, we worry about their opinions of us. People conform to society’s norms in order to gain approval (and prevent disapproval) from family, friends, and romantic partners. 2. Commitment refers to the investments we make in the community. A well-respected local businessperson who volunteers at their synagogue and is a member of the neighborhood block orga
+  CITED openstax-introduction-sociology-3e-p0201-paragraph-0000 (p.201):
+    Key Terms conflict theory a theory that examines social and economic factors as the causes of criminal deviance control theory a theory that states social control is directly affected by the strength of social bonds and that deviance results from a feeling of disconnection from society corporate crime crime committed by white-collar workers in a business environment corrections system the system tasked with supervising individuals who have been arrested for, convicted of, or sentenced for criminal offenses court a system that has the authority to make decisions based on law crime a behavior that violates official law and is punishable through formal sanctions criminal justice system an organization that exists to enforce a legal code deviance a violation of contextual, cultural, or social
+
+################ q11 | status=answered | answerable=True
+Q: What is corporate crime?
+EXPECTED: Corporate crime is crime committed by white-collar workers in a business environment.
+GOLD p.201: corporate crime crime committed by white-collar workers in a business environment
+  SEARCH 1: 'corporate crime' -> [('p0195-paragraph-0001', 0.649), ('p0203-paragraph-0002', 0.5865), ('p0189-paragraph-0001', 0.5008)]
+    context_ids: ['p0195-paragraph-0001', 'p0203-paragraph-0002']
+  EVENT 2: answer
+  RAW MODEL ANSWER: Corporate crime refers to offenses committed by white-collar workers in a business environment. Examples of corporate crime include embezzlement, insider trading, and identity theft. These crimes, while often receiving less media attention than street crimes, can have severe consequences, such as financial frauds that devastate families by causing them to lose their savings or homes [openstax-introduction-sociology-3e-p0195-paragraph-0001].
+FINAL ANSWER: Corporate crime refers to offenses committed by white-collar workers in a business environment. Examples of corporate crime include embezzlement, insider trading, and identity theft. These crimes, while often receiving less media attention than street crimes, can have severe consequences, such as financial frauds that devastate families by causing them to lose their savings or homes [openstax-introduction-sociology-3e-p0195-paragraph-0001].
+  CITED openstax-introduction-sociology-3e-p0195-paragraph-0001 (p.195):
+    e, or offenses committed by ordinary people against other people or organizations, usually in public spaces. An often overlooked category is corporate crime, or crime committed by white-collar workers in a business environment. Embezzlement, insider trading, and identity theft are all types of corporate crime. Although these types of offenses rarely receive the same amount of media coverage as street crimes, they can be far more damaging. Financial frauds such as insurance scams, Ponzi schemes, and improper practices by banks can devastate families who lose their savings or home. An often-debated third type of crime is victimless crime. Crimes are called victimless when the perpetrator is not explicitly harming another person. As opposed to battery or theft, which clearly have a victim, a
+
+################ q12 | status=answered | answerable=True
+Q: What is the conflict theory of criminal deviance?
+EXPECTED: Conflict theory examines social and economic factors as the causes of criminal deviance.
+GOLD p.201: conflict theory a theory that examines social and economic factors as the causes of criminal deviance
+  SEARCH 1: 'conflict theory of criminal deviance' -> [('p0201-paragraph-0000', 0.8001), ('p0193-paragraph-0003', 0.745), ('p0202-paragraph-0000', 0.7244)]
+    context_ids: ['p0201-paragraph-0000', 'p0193-paragraph-0003']
+  EVENT 2: answer
+  RAW MODEL ANSWER: The conflict theory of criminal deviance examines social and economic factors as the causes of criminal behavior. It posits that deviance arises from an unequal system, where inequalities in wealth and power, as highlighted by Karl Marx, contribute to criminal acts. Additionally, C. Wright Mills' concept of the power elite suggests that those in power define deviance in ways that maintain the status quo, further influencing societal perceptions of criminal behavior [openstax-introduction-sociology-3e-p0193-paragraph-0003][openstax-introduction-sociology-3e-p0201-paragraph-0000].
+FINAL ANSWER: The conflict theory of criminal deviance examines social and economic factors as the causes of criminal behavior. It posits that deviance arises from an unequal system, where inequalities in wealth and power, as highlighted by Karl Marx, contribute to criminal acts. Additionally, C. Wright Mills' concept of the power elite suggests that those in power define deviance in ways that maintain the status quo, further influencing societal perceptions of criminal behavior [openstax-introduction-sociology-3e-p0193-paragraph-0003][openstax-introduction-sociology-3e-p0201-paragraph-0000].
+  CITED openstax-introduction-sociology-3e-p0193-paragraph-0003 (p.193):
+    ry University of Chicago researchers Weak social ties and a lack of social control; society has lost the ability to enforce norms with some groups Conflict Theory Associated Theorist Deviance arises from: Unequal System Karl Marx Inequalities in wealth and power that arise from the economic system Power Elite C. Wright Mills Ability of those in power to define deviance in ways that maintain the status quo Symbolic Interactionism Associated Theorist Deviance arises from: Labeling Theory Edwin Lemert The reactions of others, particularly those in power who are able to determine labels TABLE 7.2 7.2 • Theoretical Perspectives on Deviance and Crime 181
+  CITED openstax-introduction-sociology-3e-p0201-paragraph-0000 (p.201):
+    Key Terms conflict theory a theory that examines social and economic factors as the causes of criminal deviance control theory a theory that states social control is directly affected by the strength of social bonds and that deviance results from a feeling of disconnection from society corporate crime crime committed by white-collar workers in a business environment corrections system the system tasked with supervising individuals who have been arrested for, convicted of, or sentenced for criminal offenses court a system that has the authority to make decisions based on law crime a behavior that violates official law and is punishable through formal sanctions criminal justice system an organization that exists to enforce a legal code deviance a violation of contextual, cultural, or social
+
+################ q13 | status=answered | answerable=True
+Q: How is polygamy described in terms of prevalence in societies where it is most common?
+EXPECTED: In societies where polygamy is most common, only an average of 11 percent of the population lives in arrangements that include more than one spouse.
+GOLD p.421: only an average of 11 percent of the population lives in arrangements that include more than one spouse
+  SEARCH 1: 'polygamy prevalence in societies' -> [('p0420-paragraph-0005', 0.7493), ('p0421-paragraph-0000', 0.7429), ('p0442-paragraph-0002', 0.7398)]
+    context_ids: ['p0420-paragraph-0005', 'p0421-paragraph-0000', 'p0442-paragraph-0002']
+  EVENT 2: answer
+  RAW MODEL ANSWER: Polygamy is described as being most common in certain regions, particularly northern Africa and east Asia. However, even in these areas, only an average of 11 percent of the population lives in polygamous arrangements. These relationships typically involve a man married to multiple women, with the average plural marriage consisting of no more than three wives. For instance, Negev Bedouin men in Israel usually have two wives, although they can have up to four. Additionally, as urbanization increases, polygamy is expected to decline due to greater access to mass media, technology, and education [openstax-introduction-sociology-3e-p0420-paragraph-0005][openstax-introduction-sociology-3e-p0421-paragraph-0000].
+FINAL ANSWER: Polygamy is described as being most common in certain regions, particularly northern Africa and east Asia. However, even in these areas, only an average of 11 percent of the population lives in polygamous arrangements. These relationships typically involve a man married to multiple women, with the average plural marriage consisting of no more than three wives. For instance, Negev Bedouin men in Israel usually have two wives, although they can have up to four. Additionally, as urbanization increases, polygamy is expected to decline due to greater access to mass media, technology, and education [openstax-introduction-sociology-3e-p0420-paragraph-0005][openstax-introduction-sociology-3e-p0421-paragraph-0000].
+  CITED openstax-introduction-sociology-3e-p0420-paragraph-0005 (p.420):
+    existing in northern Africa and east Asia (OECD 2019). Instances of polygamy are almost exclusively in the form of a man being married to more than one woman at the same time, rather than a woman being married to more than one man (Altman and Ginat 1996). While the majority of societies accept polygamy, the majority of people do not practice it. Even in the regions 408 14 • Relationships, Marriage, and Family Access for free at openstax.org
+  CITED openstax-introduction-sociology-3e-p0421-paragraph-0000 (p.421):
+    where it is most common, only an average of 11 percent of the population lives in arrangements that include more than one spouse (Kramer 2020). In these relationships, the husbands are often older, wealthy, high- status men (Altman and Ginat 1996). The average plural marriage involves no more than three wives. Negev Bedouin men in Israel, for example, typically have two wives, although it is acceptable to have up to four (Griver 2008). As urbanization increases in these cultures, polygamy is likely to decrease as a result of greater access to mass media, technology, and education (Altman and Ginat 1996). In the United States, polygamy is illegal. A recent Gallup poll showed that 21 percent of people believe polygamy is morally acceptable, which is a major increase since earlier versions of
+
+################ q14 | status=answered | answerable=True
+Q: What are the key concepts of Taoism according to the textbook?
+EXPECTED: The ying-yang symbol and the concept of polar forces are central Taoist ideas. Taoism is concerned with a more spiritual level of being, in contrast to Confucianism which focuses on day-to-day rules of conduct.
+GOLD p.461: The ying-yang symbol and the concept of polar forces are central Taoist ideas
+  SEARCH 1: 'Taoism key concepts' -> [('p0460-paragraph-0002', 0.6706), ('p0460-paragraph-0001', 0.5817), ('p0461-paragraph-0000', 0.5491)]
+    context_ids: ['p0460-paragraph-0002', 'p0460-paragraph-0001', 'p0461-paragraph-0000']
+  EVENT 2: answer
+  RAW MODEL ANSWER: The key concepts of Taoism include the following:
+
+1. **Tao**: Often translated as "way" or "path," it represents a spiritual reality and the order of the universe.
+2. **Virtues**: Taoist beliefs emphasize compassion and moderation as essential virtues.
+3. **Purpose of Life**: In Taoism, the purpose of life is to live in harmony with the Tao.
+4. **Yin-Yang**: The yin-yang symbol and the concept of polar forces are central ideas in Taoism, representing balance and duality in the universe.
+
+These concepts highlight the spiritual and philosophical dimensions of Taoism, distinguishing it from more practical systems like Confucianism, which focuses on day-to-day conduct [openstax-introduction-sociology-3e-p0460-paragraph-0002][openstax-introduction-sociology-3e-p0461-paragraph-0000].
+FINAL ANSWER: The key concepts of Taoism include the following:
+
+1. **Tao**: Often translated as "way" or "path," it represents a spiritual reality and the order of the universe.
+2. **Virtues**: Taoist beliefs emphasize compassion and moderation as essential virtues.
+3. **Purpose of Life**: In Taoism, the purpose of life is to live in harmony with the Tao.
+4. **Yin-Yang**: The yin-yang symbol and the concept of polar forces are central ideas in Taoism, representing balance and duality in the universe.
+
+These concepts highlight the spiritual and philosophical dimensions of Taoism, distinguishing it from more practical systems like Confucianism, which focuses on day-to-day conduct [openstax-introduction-sociology-3e-p0460-paragraph-0002][openstax-introduction-sociology-3e-p0461-paragraph-0000].
+  CITED openstax-introduction-sociology-3e-p0460-paragraph-0002 (p.460):
+    ner peace and harmony. Tao is usually translated as “way” or “path.” The founder of the religion is generally recognized to be a man named Laozi, who lived sometime in the sixth century B.C.E. in China. Taoist beliefs emphasize the virtues of compassion and moderation. The central concept of tao can be understood to describe a spiritual reality, the order of the universe, or the 448 15 • Religion Access for free at openstax.org
+  CITED openstax-introduction-sociology-3e-p0461-paragraph-0000 (p.461):
+    way of modern life in harmony with the former two. The ying-yang symbol and the concept of polar forces are central Taoist ideas (Smith 1991). Some scholars have compared this Chinese tradition to its Confucian counterpart by saying that “whereas Confucianism is concerned with day-to-day rules of conduct, Taoism is concerned with a more spiritual level of being” (Feng and English 1972). Judaism After their Exodus from Egypt in the thirteenth century B.C.E., Jews, a nomadic society, became monotheistic, worshipping only one God. The Jews’ covenant, or promise of a special relationship with Adonai or HaShem (God), is an important element of Judaism. (Different denominations of Judaism use different words to refer to God.) Abraham, a key figure in the foundation of the Jewish faith, is also r
+
+################ q15 | status=abstain | answerable=True
+Q: What happened to maternal deaths according to Millennium Development Goal 5?
+EXPECTED: Much progress was made on MDG 5, with maternal deaths decreasing by 34 percent. However, almost all maternal deaths occurred in developing countries, with the African region still experiencing high numbers.
+GOLD p.581: Much progress has been made on MDG 5, with maternal deaths decreasing by 34 percent.
+  SEARCH 1: 'Millennium Development Goal 5 maternal deaths' -> [('p0580-paragraph-0002', 0.5795), ('p0580-paragraph-0003', 0.5541), ('p0570-paragraph-0003', 0.5487)]
+    context_ids: ['p0580-paragraph-0002', 'p0580-paragraph-0003']
+  SEARCH 2: 'Millennium Development Goal 5 maternal deaths outcomes' -> [('p0580-paragraph-0002', 0.576), ('p0570-paragraph-0003', 0.5483), ('p0580-paragraph-0003', 0.5411)]
+    context_ids: ['p0580-paragraph-0002', 'p0580-paragraph-0003']
+  SEARCH 3: 'Millennium Development Goal 5 maternal deaths outcomes' -> [('p0580-paragraph-0002', 0.576), ('p0570-paragraph-0003', 0.5483), ('p0580-paragraph-0003', 0.5411)]
+    context_ids: ['p0580-paragraph-0002', 'p0580-paragraph-0003']
+  SEARCH 4: 'Millennium Development Goal 5 maternal deaths outcomes' -> [('p0580-paragraph-0002', 0.576), ('p0570-paragraph-0003', 0.5483), ('p0580-paragraph-0003', 0.5411)]
+    context_ids: ['p0580-paragraph-0002', 'p0580-paragraph-0003']
+  EVENT 5: search_limit
+FINAL ANSWER: Không đủ bằng chứng để trả lời.
+
+################ q22 | status=abstain | answerable=False
+Q: What are the main changes in Vietnam's 2024 Law on Social Insurance regarding voluntary pension contributions?
+  SEARCH 1: 'Vietnam 2024 Law on Social Insurance voluntary pension contributions' -> [('p0384-paragraph-0000', 0.3931), ('p0401-paragraph-0002', 0.3663), ('p0225-paragraph-0002', 0.3149)]
+    context_ids: ['p0384-paragraph-0000', 'p0401-paragraph-0002']
+  SEARCH 2: 'Vietnam 2024 Law on Social Insurance voluntary pension contributions changes' -> [('p0384-paragraph-0000', 0.3844), ('p0401-paragraph-0002', 0.3562), ('p0649-paragraph-0003', 0.3346)]
+    context_ids: ['p0384-paragraph-0000', 'p0401-paragraph-0002', 'p0649-paragraph-0003']
+  SEARCH 3: 'Vietnam 2024 Law on Social Insurance changes voluntary pension contributions' -> [('p0384-paragraph-0000', 0.3985), ('p0401-paragraph-0002', 0.3684), ('p0649-paragraph-0003', 0.3371)]
+    context_ids: ['p0384-paragraph-0000', 'p0401-paragraph-0002', 'p0649-paragraph-0003']
+  SEARCH 4: 'Vietnam 2024 Law on Social Insurance changes voluntary pension contributions' -> [('p0384-paragraph-0000', 0.3985), ('p0401-paragraph-0002', 0.3684), ('p0649-paragraph-0003', 0.3371)]
+    context_ids: ['p0384-paragraph-0000', 'p0401-paragraph-0002', 'p0649-paragraph-0003']
+  EVENT 5: search_limit
+FINAL ANSWER: Không đủ bằng chứng để trả lời.
+
+################ q23 | status=abstain | answerable=False
+Q: What was the exact global Gini coefficient reported by the World Bank in 2025?
+  SEARCH 1: 'global Gini coefficient World Bank 2025' -> [('p0272-paragraph-0003', 0.6068), ('p0273-paragraph-0000', 0.5067), ('p0293-paragraph-0002', 0.4423)]
+    context_ids: ['p0272-paragraph-0003', 'p0273-paragraph-0000']
+  SEARCH 2: 'global Gini coefficient World Bank 2025' -> [('p0272-paragraph-0003', 0.6068), ('p0273-paragraph-0000', 0.5067), ('p0293-paragraph-0002', 0.4423)]
+    context_ids: ['p0272-paragraph-0003', 'p0273-paragraph-0000']
+  EVENT 3: invalid_or_missing_citations
+  RAW MODEL ANSWER: There is insufficient evidence in the provided documents regarding the exact global Gini coefficient reported by the World Bank in 2025. The retrieved context discusses the Gini coefficient and its implications but does not provide specific data or statistics for the year 2025.
+FINAL ANSWER: Không đủ bằng chứng để trả lời.

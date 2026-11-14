@@ -1,0 +1,1474 @@
+[
+  {
+    "query_id": "q16",
+    "question": "According to the survey data, at what age do Millennials consider someone to be old?",
+    "answerable": true,
+    "model": "openai/gpt-4o-mini",
+    "method": "hybrid",
+    "elapsed_s": 2.861,
+    "usage": [
+      {
+        "latency_ms": 1404.28,
+        "prompt_tokens": 276,
+        "completion_tokens": 23,
+        "total_tokens": 299
+      },
+      {
+        "latency_ms": 1430.71,
+        "prompt_tokens": 1080,
+        "completion_tokens": 41,
+        "total_tokens": 1121
+      }
+    ],
+    "total_tokens": 1420,
+    "status": "answered",
+    "answer": "According to the survey data, Millennials consider someone to be old when they turn 59 years old [openstax-introduction-sociology-3e-p0380-paragraph-0002].",
+    "citations": [
+      "openstax-introduction-sociology-3e-p0380-paragraph-0002"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Millennials consider someone to be old age survey data",
+        "filter": null,
+        "results": [
+          {
+            "id": "openstax-introduction-sociology-3e-p0380-paragraph-0002",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 380,
+            "text": "people in\nsociety. As the table demonstrates, different generations have varying perspectives on aging. Researchers\nasked questions about the ages at which people reach certain milestones or new categories in life. Members of\nthe Baby Boom generation indicate that a person is officially \"old\" when they turn 73 years old. Millennials, a\nmuch younger group, felt that people became old when they turned 59. The same survey asked questions\nabout the end of youth and the prime of life (Emling 2017). Interestingly, Boomers and GenXers both felt that\nyouth \"ended\" by age 31 and that the prime of life didn't start until many years later. Millennials felt that people\nreached the prime of life at age 36, before youth ended at age 40. It's worth noting that at the time of the survey,\nthe Millennials w",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.032787
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0381-paragraph-0000",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 381,
+            "text": "Boomer response Gen X response Millennial response\nAt what age does youth end? 31 31 40\nAt what age is the prime of life? 50 47 36\nAt what age is someone old? 73 65 59\nTABLE 13.1 A survey conducted by the U.S. Trust gathered opinion data on the aging\nmilestones and categories. Boomers, Gen X people, and Millennials had generally different\nviews.\nDemographically, the U.S. population has undergone a massive shift both in the overall population of elderly\npeople and their share of the total population. Both are significant and impactful on major policy decisions and\nday-to-day life. In 1900, the population of U.S people over sixty-five years old was 3 million, representing about\n4 percent of the total population. That number increased to 33 million in 1994, and was roughly 12 percent of\nthe t",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.032002
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0420-paragraph-0001",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 420,
+            "text": "the fundamentals of emotional closeness and support are still present. Most\nresponders to the Pew survey stated that their family today is at least as close (45 percent) or closer (40\npercent) than the family with which they grew up (Pew Research Center 2010).\nAs you may have seen in the chapter on Aging and the Elderly, different generations have varying living\nsituations and views on aging. The same goes for living situations with family. The Pew Research Center\nanalyzed living situation of 40-year-olds from different generations. At that age, Millennials indicated that 45\npercent of them were not living in a family of their own. In contrast, when Gen Xers and Baby Boomers were\nabout 40 years old (around 2003 and 1987, respectively), an average of 33 percent of them lived outside of a\nfa",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.03101
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0145-paragraph-0000",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 145,
+            "text": "The Long Road to Adulthood for Millennials\nSocialization differences also vary by generation. As you will see in the chapter on Aging and the Elderly, Millennials\n(those born from the early 1980's to the middle 1990's) have very different attitudes about when childhood ends,\nthe prime of life begins, and when people become \"old.\" (Preview: Millennials thought childhood ended later and\npeople became old earlier than did Baby Boomers and Gen Xers at the same age.)\nMillennials were deeply affected by the financial Recession in 2008. While the recession was in full swing, many\nwere in the process of entering, attending, or graduating from high school and college. With employment prospects\nat historic lows, large numbers of graduates were unable to find work, sometimes moving back in with their",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.030798
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0377-paragraph-0005",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 377,
+            "text": "r they define “old age” in terms of greater years than their current\nage (Logan 1992). Many people want to postpone old age and regard it as a phase that will never arrive. For\nexample, many older Americans keep working well past what people consider retirement age, due to financial\npressures or in order to remain, in their eyes, useful. Some older adults even succumb to stereotyping their\nown age group (Rothbaum 1983).\nIn the United States, the experience of being elderly has changed greatly over the past century. In the late\n13.1 • Who Are the Elderly? Aging in Society 365",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 581
+            },
+            "score": 0.030536
+          }
+        ],
+        "context": "[openstax-introduction-sociology-3e-p0380-paragraph-0002 | openstax-introduction-sociology-3e | page 380]\npeople in\nsociety. As the table demonstrates, different generations have varying perspectives on aging. Researchers\nasked questions about the ages at which people reach certain milestones or new categories in life. Members of\nthe Baby Boom generation indicate that a person is officially \"old\" when they turn 73 years old. Millennials, a\nmuch younger group, felt that people became old when they turned 59. The same survey asked questions\nabout the end of youth and the prime of life (Emling 2017). Interestingly, Boomers and GenXers both felt that\nyouth \"ended\" by age 31 and that the prime of life didn't start until many years later. Millennials felt that people\nreached the prime of life at age 36, before youth ended at age 40. It's worth noting that at the time of the survey,\nthe Millennials w\n\n[openstax-introduction-sociology-3e-p0381-paragraph-0000 | openstax-introduction-sociology-3e | page 381]\nBoomer response Gen X response Millennial response\nAt what age does youth end? 31 31 40\nAt what age is the prime of life? 50 47 36\nAt what age is someone old? 73 65 59\nTABLE 13.1 A survey conducted by the U.S. Trust gathered opinion data on the aging\nmilestones and categories. Boomers, Gen X people, and Millennials had generally different\nviews.\nDemographically, the U.S. population has undergone a massive shift both in the overall population of elderly\npeople and their share of the total population. Both are significant and impactful on major policy decisions and\nday-to-day life. In 1900, the population of U.S people over sixty-five years old was 3 million, representing about\n4 percent of the total population. That number increased to 33 million in 1994, and was roughly 12 percent of\nthe t\n\n[openstax-introduction-sociology-3e-p0420-paragraph-0001 | openstax-introduction-sociology-3e | page 420]\nthe fundamentals of emotional closeness and support are still present. Most\nresponders to the Pew survey stated that their family today is at least as close (45 percent) or closer (40\npercent) than the family with which they grew up (Pew Research Center 2010).\nAs you may have seen in the chapter on Aging and the Elderly, different generations have varying living\nsituations and views on aging. The same goes for living situations with family. The Pew Research Center\nanalyzed living situation of 40-year-olds from different generations. At that age, Millennials indicated that 45\npercent of them were not living in a family of their own. In contrast, when Gen Xers and Baby Boomers were\nabout 40 years old (around 2003 and 1987, respectively), an average of 33 percent of them lived outside of a\nfa",
+        "context_ids": [
+          "openstax-introduction-sociology-3e-p0380-paragraph-0002",
+          "openstax-introduction-sociology-3e-p0381-paragraph-0000",
+          "openstax-introduction-sociology-3e-p0420-paragraph-0001"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ]
+  },
+  {
+    "query_id": "q17",
+    "question": "At what age do Baby Boomers consider the prime of life to be?",
+    "answerable": true,
+    "model": "openai/gpt-4o-mini",
+    "method": "hybrid",
+    "elapsed_s": 3.718,
+    "usage": [
+      {
+        "latency_ms": 1182.42,
+        "prompt_tokens": 274,
+        "completion_tokens": 20,
+        "total_tokens": 294
+      },
+      {
+        "latency_ms": 2517.04,
+        "prompt_tokens": 1094,
+        "completion_tokens": 122,
+        "total_tokens": 1216
+      }
+    ],
+    "total_tokens": 1510,
+    "status": "answered",
+    "answer": "Baby Boomers consider the prime of life to start many years after youth ends, specifically indicating that youth \"ended\" by age 31. The context does not provide a specific age for when Baby Boomers believe the prime of life begins, but it does mention that Millennials felt people reached the prime of life at age 36. Therefore, while we know Baby Boomers view youth ending at 31, the exact age they consider the prime of life to begin is not explicitly stated in the retrieved context [openstax-introduction-sociology-3e-p0380-paragraph-0002].",
+    "citations": [
+      "openstax-introduction-sociology-3e-p0380-paragraph-0002"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Baby Boomers prime of life age",
+        "filter": null,
+        "results": [
+          {
+            "id": "openstax-introduction-sociology-3e-p0380-paragraph-0002",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 380,
+            "text": "people in\nsociety. As the table demonstrates, different generations have varying perspectives on aging. Researchers\nasked questions about the ages at which people reach certain milestones or new categories in life. Members of\nthe Baby Boom generation indicate that a person is officially \"old\" when they turn 73 years old. Millennials, a\nmuch younger group, felt that people became old when they turned 59. The same survey asked questions\nabout the end of youth and the prime of life (Emling 2017). Interestingly, Boomers and GenXers both felt that\nyouth \"ended\" by age 31 and that the prime of life didn't start until many years later. Millennials felt that people\nreached the prime of life at age 36, before youth ended at age 40. It's worth noting that at the time of the survey,\nthe Millennials w",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.032522
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0382-paragraph-0001",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 382,
+            "text": "ts designed to ward off the effects—or the signs—of aging.\nPrevious generations of people over sixty-five were “old.” Baby Boomers are in “later life” or “the third age”\n(Gilleard and Higgs 2007).\nThe baby boom generation is the cohort driving much of the dramatic increase in the over-sixty-five\npopulation. Figure 13.7 shows a comparison of the U.S. population by age and gender between 2000 and 2010.\nThe biggest bulge in the pyramid (representing the largest population group) moves up the pyramid over the\ncourse of the decade; in 2000, the largest population group was age thirty-five to fifty-five. In 2010, that group\nwas age forty-five to sixty-five, meaning the oldest baby Boomers were just reaching the age at which the U.S.\nCensus considers them elderly. By 2030, all Baby Boomers will b",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.031754
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0382-paragraph-0000",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 382,
+            "text": "FIGURE 13.6 This U.S. Census graph shows the number of males per 100 females. However, over the past two\ndecades, men have narrowed the percentage by which women outlive them. (Credit: the U.S. Census Bureau)\nBaby Boomers\nOf particular interest to gerontologists today is the population of Baby Boomers, the cohort born between\n1946 and 1964 and now reaching their 60s and 70s. Coming of age in the 1960s and early 1970s, the baby\nboom generation was the first group of children and teenagers with their own spending power and therefore\ntheir own marketing power (Macunovich 2000). As this group has aged, it has redefined what it means to be\nyoung, middle-aged, and now old. People in the Boomer generation do not want to grow old the way their\ngrandparents did; the result is a wide range of produc",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.031545
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0381-paragraph-0000",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 381,
+            "text": "Boomer response Gen X response Millennial response\nAt what age does youth end? 31 31 40\nAt what age is the prime of life? 50 47 36\nAt what age is someone old? 73 65 59\nTABLE 13.1 A survey conducted by the U.S. Trust gathered opinion data on the aging\nmilestones and categories. Boomers, Gen X people, and Millennials had generally different\nviews.\nDemographically, the U.S. population has undergone a massive shift both in the overall population of elderly\npeople and their share of the total population. Both are significant and impactful on major policy decisions and\nday-to-day life. In 1900, the population of U.S people over sixty-five years old was 3 million, representing about\n4 percent of the total population. That number increased to 33 million in 1994, and was roughly 12 percent of\nthe t",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.03031
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0145-paragraph-0000",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 145,
+            "text": "The Long Road to Adulthood for Millennials\nSocialization differences also vary by generation. As you will see in the chapter on Aging and the Elderly, Millennials\n(those born from the early 1980's to the middle 1990's) have very different attitudes about when childhood ends,\nthe prime of life begins, and when people become \"old.\" (Preview: Millennials thought childhood ended later and\npeople became old earlier than did Baby Boomers and Gen Xers at the same age.)\nMillennials were deeply affected by the financial Recession in 2008. While the recession was in full swing, many\nwere in the process of entering, attending, or graduating from high school and college. With employment prospects\nat historic lows, large numbers of graduates were unable to find work, sometimes moving back in with their",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.030159
+          }
+        ],
+        "context": "[openstax-introduction-sociology-3e-p0380-paragraph-0002 | openstax-introduction-sociology-3e | page 380]\npeople in\nsociety. As the table demonstrates, different generations have varying perspectives on aging. Researchers\nasked questions about the ages at which people reach certain milestones or new categories in life. Members of\nthe Baby Boom generation indicate that a person is officially \"old\" when they turn 73 years old. Millennials, a\nmuch younger group, felt that people became old when they turned 59. The same survey asked questions\nabout the end of youth and the prime of life (Emling 2017). Interestingly, Boomers and GenXers both felt that\nyouth \"ended\" by age 31 and that the prime of life didn't start until many years later. Millennials felt that people\nreached the prime of life at age 36, before youth ended at age 40. It's worth noting that at the time of the survey,\nthe Millennials w\n\n[openstax-introduction-sociology-3e-p0382-paragraph-0001 | openstax-introduction-sociology-3e | page 382]\nts designed to ward off the effects—or the signs—of aging.\nPrevious generations of people over sixty-five were “old.” Baby Boomers are in “later life” or “the third age”\n(Gilleard and Higgs 2007).\nThe baby boom generation is the cohort driving much of the dramatic increase in the over-sixty-five\npopulation. Figure 13.7 shows a comparison of the U.S. population by age and gender between 2000 and 2010.\nThe biggest bulge in the pyramid (representing the largest population group) moves up the pyramid over the\ncourse of the decade; in 2000, the largest population group was age thirty-five to fifty-five. In 2010, that group\nwas age forty-five to sixty-five, meaning the oldest baby Boomers were just reaching the age at which the U.S.\nCensus considers them elderly. By 2030, all Baby Boomers will b\n\n[openstax-introduction-sociology-3e-p0382-paragraph-0000 | openstax-introduction-sociology-3e | page 382]\nFIGURE 13.6 This U.S. Census graph shows the number of males per 100 females. However, over the past two\ndecades, men have narrowed the percentage by which women outlive them. (Credit: the U.S. Census Bureau)\nBaby Boomers\nOf particular interest to gerontologists today is the population of Baby Boomers, the cohort born between\n1946 and 1964 and now reaching their 60s and 70s. Coming of age in the 1960s and early 1970s, the baby\nboom generation was the first group of children and teenagers with their own spending power and therefore\ntheir own marketing power (Macunovich 2000). As this group has aged, it has redefined what it means to be\nyoung, middle-aged, and now old. People in the Boomer generation do not want to grow old the way their\ngrandparents did; the result is a wide range of produc",
+        "context_ids": [
+          "openstax-introduction-sociology-3e-p0380-paragraph-0002",
+          "openstax-introduction-sociology-3e-p0382-paragraph-0001",
+          "openstax-introduction-sociology-3e-p0382-paragraph-0000"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ]
+  },
+  {
+    "query_id": "q18",
+    "question": "What was Korea's relationship with Japan in the early twentieth century?",
+    "answerable": true,
+    "model": "openai/gpt-4o-mini",
+    "method": "hybrid",
+    "elapsed_s": 3.788,
+    "usage": [
+      {
+        "latency_ms": 1434.8,
+        "prompt_tokens": 272,
+        "completion_tokens": 20,
+        "total_tokens": 292
+      },
+      {
+        "latency_ms": 2337.11,
+        "prompt_tokens": 969,
+        "completion_tokens": 124,
+        "total_tokens": 1093
+      }
+    ],
+    "total_tokens": 1385,
+    "status": "answered",
+    "answer": "In the early twentieth century, Korea was under Japanese colonial rule from 1910 to 1945. During this period, Japan was considered one of Asia's more aggressive nations. The relationship was marked by significant oppression, including the forced sexual slavery of Korean women during World War II, which is often downplayed in Japanese textbooks. Additionally, a major Korean independence demonstration in 1919 was dismissed by some Japanese narratives as a mere \"riot,\" despite the violent suppression by Japanese soldiers that resulted in thousands of deaths [openstax-introduction-sociology-3e-p0141-paragraph-0000].",
+    "citations": [
+      "openstax-introduction-sociology-3e-p0141-paragraph-0000"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Korea Japan relationship early twentieth century",
+        "filter": null,
+        "results": [
+          {
+            "id": "openstax-introduction-sociology-3e-p0141-paragraph-0000",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 141,
+            "text": "the textbooks glossed over negative events in Japan’s history at the expense of other Asian countries.\nIn the early 1900s, Japan was one of Asia’s more aggressive nations. For instance, it held Korea as a colony\nbetween 1910 and 1945. Today, Koreans argue that the Japanese are whitewashing that colonial history through\nthese textbooks. One major criticism is that they do not mention that, during World War II, the Japanese forced\nKorean women into sexual slavery. The textbooks describe the women as having been “drafted” to work, a\neuphemism that downplays the brutality of what actually occurred. Some Japanese textbooks dismiss an\nimportant Korean independence demonstration in 1919 as a “riot.” In reality, Japanese soldiers attacked\npeaceful demonstrators, leaving roughly 6,000 dead and 15,0",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.032787
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0319-paragraph-0003",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 319,
+            "text": "government that negotiated with the U.S.\ngovernment to ensure the well-being of their immigrants. Japanese men were able to bring their wives and\nfamilies to the United States, and were thus able to produce second- and third-generation Japanese Americans\nmore quickly than their Chinese counterparts.\nThe most recent large-scale Asian immigration came from Korea and Vietnam and largely took place during\nthe second half of the twentieth century. While Korean immigration has been fairly gradual, Vietnamese\nimmigration occurred primarily post-1975, after the fall of Saigon and the establishment of restrictive\ncommunist policies in Vietnam. Whereas many Asian immigrants came to the United States to seek better\neconomic opportunities, Vietnamese immigrants came as political refugees, seeking asyl",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.032002
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0541-paragraph-0003",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 541,
+            "text": "ds continual\ntraining and retraining. Workers move from rural areas to cities as they become centers of economic activity,\nand the government takes a larger role in providing expanded public services (Kerr et al. 1960).\nSupporters of the theory point to Germany, France, and Japan—countries that rapidly rebuilt their economies\nafter World War II. They point out how, in the 1960s and 1970s, East Asian countries like Singapore, South\nKorea, and Taiwan converged with countries with developed economies. They are now considered developed\ncountries themselves.\n18.1 • Economic Systems 529",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 587
+            },
+            "score": 0.029437
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0153-paragraph-0002",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 153,
+            "text": "neontommy.com/news/2011/01/princess-effect-\nare-girls-too-tangled-disneys-fantasy).\nRoberts, Donald F., Ulla G. Foehr, and Victoria Rideout. 2005. “Parents, Children, and Media: A Kaiser Family\nFoundation Survey.” The Henry J. Kaiser Family Foundation. Retrieved February 14, 2012\n(http://www.kff.org/entmedia/upload/7638.pdf).\nRose, Steve. 2011. “Studio Ghibli: Leave the Boys Behind.” The Guardian, July 14. Retrieved August 2, 2011.\n(http://www.guardian.co.uk/film/2011/jul/14/studio-ghibli-arrietty-heroines).\n“South Koreans Sever Fingers in Anti-Japan Protest.” 2001. The Telegraph. Retrieved January 31, 2012\n(http://www.telegraph.co.uk/news/1337272/South-Koreans-sever-fingers-in-anti-Japan-protest.html).\nU.S. Bureau of Labor Statistics. 2014. “Number of Jobs Held, Labor Market Activity, and",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.016129
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0322-paragraph-0000",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 322,
+            "text": "on German, Irish, Italian, and Eastern European immigrants.\nWhy They Came\nWhite ethnic Europeans formed the second and third great waves of immigration, from the early nineteenth\ncentury to the mid-twentieth century. They joined a newly minted United States that was primarily made up of\nWhite Protestants from England. While most immigrants came searching for a better life, their experiences\nwere not all the same.\nThe first major influx of European immigrants came from Germany and Ireland, starting in the 1820s.\nGermans came both for economic opportunity and to escape political unrest and military conscription,\nespecially after the Revolutions of 1848. Many German immigrants of this period were political refugees:\nliberals who wanted to escape from an oppressive government. They were well-o",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.015873
+          }
+        ],
+        "context": "[openstax-introduction-sociology-3e-p0141-paragraph-0000 | openstax-introduction-sociology-3e | page 141]\nthe textbooks glossed over negative events in Japan’s history at the expense of other Asian countries.\nIn the early 1900s, Japan was one of Asia’s more aggressive nations. For instance, it held Korea as a colony\nbetween 1910 and 1945. Today, Koreans argue that the Japanese are whitewashing that colonial history through\nthese textbooks. One major criticism is that they do not mention that, during World War II, the Japanese forced\nKorean women into sexual slavery. The textbooks describe the women as having been “drafted” to work, a\neuphemism that downplays the brutality of what actually occurred. Some Japanese textbooks dismiss an\nimportant Korean independence demonstration in 1919 as a “riot.” In reality, Japanese soldiers attacked\npeaceful demonstrators, leaving roughly 6,000 dead and 15,0\n\n[openstax-introduction-sociology-3e-p0319-paragraph-0003 | openstax-introduction-sociology-3e | page 319]\ngovernment that negotiated with the U.S.\ngovernment to ensure the well-being of their immigrants. Japanese men were able to bring their wives and\nfamilies to the United States, and were thus able to produce second- and third-generation Japanese Americans\nmore quickly than their Chinese counterparts.\nThe most recent large-scale Asian immigration came from Korea and Vietnam and largely took place during\nthe second half of the twentieth century. While Korean immigration has been fairly gradual, Vietnamese\nimmigration occurred primarily post-1975, after the fall of Saigon and the establishment of restrictive\ncommunist policies in Vietnam. Whereas many Asian immigrants came to the United States to seek better\neconomic opportunities, Vietnamese immigrants came as political refugees, seeking asyl\n\n[openstax-introduction-sociology-3e-p0541-paragraph-0003 | openstax-introduction-sociology-3e | page 541]\nds continual\ntraining and retraining. Workers move from rural areas to cities as they become centers of economic activity,\nand the government takes a larger role in providing expanded public services (Kerr et al. 1960).\nSupporters of the theory point to Germany, France, and Japan—countries that rapidly rebuilt their economies\nafter World War II. They point out how, in the 1960s and 1970s, East Asian countries like Singapore, South\nKorea, and Taiwan converged with countries with developed economies. They are now considered developed\ncountries themselves.\n18.1 • Economic Systems 529",
+        "context_ids": [
+          "openstax-introduction-sociology-3e-p0141-paragraph-0000",
+          "openstax-introduction-sociology-3e-p0319-paragraph-0003",
+          "openstax-introduction-sociology-3e-p0541-paragraph-0003"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ]
+  },
+  {
+    "query_id": "q19",
+    "question": "What is miscegenation and when was it considered illegal?",
+    "answerable": true,
+    "model": "openai/gpt-4o-mini",
+    "method": "hybrid",
+    "elapsed_s": 3.117,
+    "usage": [
+      {
+        "latency_ms": 1054.84,
+        "prompt_tokens": 272,
+        "completion_tokens": 18,
+        "total_tokens": 290
+      },
+      {
+        "latency_ms": 2048.88,
+        "prompt_tokens": 1034,
+        "completion_tokens": 105,
+        "total_tokens": 1139
+      }
+    ],
+    "total_tokens": 1429,
+    "status": "answered",
+    "answer": "Miscegenation refers to the intermarriage between individuals of different racial backgrounds. In the United States, antimiscegenation laws, which criminalized such interracial marriages, were prevalent in the South during the Jim Crow era. These laws were considered illegal until they were declared unconstitutional by the Supreme Court in the 1967 case of Loving v. Virginia, which struck down the last remaining antimiscegenation laws [openstax-introduction-sociology-3e-p0311-paragraph-0000].",
+    "citations": [
+      "openstax-introduction-sociology-3e-p0311-paragraph-0000"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "miscegenation illegal",
+        "filter": {
+          "document_type": "textbook"
+        },
+        "results": [
+          {
+            "id": "openstax-introduction-sociology-3e-p0311-paragraph-0000",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 311,
+            "text": "Amalgamation\nAmalgamation is the process by which a minority group and a majority group combine to form a new group.\nAmalgamation creates the classic “melting pot” analogy; unlike the “salad bowl,” in which each culture retains\nits individuality, the “melting pot” ideal sees the combination of cultures that results in a new culture entirely.\nAmalgamation in the form of miscegenation is achieved through intermarriage between races. In the United\nStates, antimiscegenation laws, which criminalized interracial marriage, flourished in the South during the\nJim Crow era. It wasn’t until 1967’s Loving v. Virginia that the last antimiscegenation law was struck from the\nbooks, making these laws unconstitutional.\nGenocide\nGenocide, the deliberate annihilation of a targeted (usually subordinate) group",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.032002
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0301-paragraph-0000",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 301,
+            "text": "Multiple Identities\nFIGURE 11.2 Golfer Tiger Woods has Chinese, Thai, African American, Native American, and Dutch heritage.\nIndividuals with multiple ethnic backgrounds are becoming more common. (Credit: familymwr/flickr)\nPrior to the twentieth century, racial intermarriage (referred to as miscegenation) was extremely rare, and in\nmany places, illegal. While the sexual subordination of enslaved people did result in children of mixed race,\nthese children were usually considered Black, and therefore, property. There was no concept of multiple racial\nidentities with the possible exception of the Creole. Creole society developed in the port city of New Orleans,\nwhere a mixed-race culture grew from French and African inhabitants. Unlike in other parts of the country,\n“Creoles of color” had gre",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.031545
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0185-paragraph-0000",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 185,
+            "text": "spiking during the War on Drugs, with racially and ethnically disparate applications. But more recently, as\ndiscussed in the introduction, marijuana is once again seen as an important medical treatment and an\nacceptable recreational pursuit. What changed this time?\nPerceptions and proclamations of deviance have long been a means to oppress people by labeling their private\nbehavior as criminal. Until the 1970s and 1980s, same-sex acts were prohibited by state laws. It was illegal to\nbe gay or lesbian, and the restrictions extended to simple displays like holding hands. Other laws prohibited\nclothing deemed “inappropriate” for one’s biological sex. As a result, military service members and even war\nveterans were dishonorably discharged (losing all benefits) if they were discovered to be gay.",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.029211
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0600-paragraph-0000",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 600,
+            "text": "dealt a series of legal blows before the President reversed it. Later investigations determined that hundreds, if\nnot thousands, of children remained separated from their parents for extended periods of time (Spagat 2019).\nWhile the situations at the border are extremely threatening to children's health and safety, people and\npolicymakers in the United States are divided on how to address the situation. In many cases, these children are\nfleeing various kinds of violence and extreme poverty. The U.S. government has repeatedly indicated that the\nbest way to avoid these crises is to address those conditions in the migrants' home countries. But even with\nfinancial aid for those nations and pressure on their governments to crack down on illegal activity, it is unlikely\nthat the situation will c",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.027242
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0345-paragraph-0003",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 345,
+            "text": "dual can decide for\nthemselves (Behrens 2021). If a physical trait or medical condition prohibits a baby from urinating or\nperforming another bodily function (which is very rare), then a medical procedure such as surgery will be\nneeded; in other cases, hormonal issues related to intersex characteristics may require medical intervention.\n12.1 • Sex, Gender, Identity, and Expression 333",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 387
+            },
+            "score": 0.016393
+          }
+        ],
+        "context": "[openstax-introduction-sociology-3e-p0311-paragraph-0000 | openstax-introduction-sociology-3e | page 311]\nAmalgamation\nAmalgamation is the process by which a minority group and a majority group combine to form a new group.\nAmalgamation creates the classic “melting pot” analogy; unlike the “salad bowl,” in which each culture retains\nits individuality, the “melting pot” ideal sees the combination of cultures that results in a new culture entirely.\nAmalgamation in the form of miscegenation is achieved through intermarriage between races. In the United\nStates, antimiscegenation laws, which criminalized interracial marriage, flourished in the South during the\nJim Crow era. It wasn’t until 1967’s Loving v. Virginia that the last antimiscegenation law was struck from the\nbooks, making these laws unconstitutional.\nGenocide\nGenocide, the deliberate annihilation of a targeted (usually subordinate) group\n\n[openstax-introduction-sociology-3e-p0301-paragraph-0000 | openstax-introduction-sociology-3e | page 301]\nMultiple Identities\nFIGURE 11.2 Golfer Tiger Woods has Chinese, Thai, African American, Native American, and Dutch heritage.\nIndividuals with multiple ethnic backgrounds are becoming more common. (Credit: familymwr/flickr)\nPrior to the twentieth century, racial intermarriage (referred to as miscegenation) was extremely rare, and in\nmany places, illegal. While the sexual subordination of enslaved people did result in children of mixed race,\nthese children were usually considered Black, and therefore, property. There was no concept of multiple racial\nidentities with the possible exception of the Creole. Creole society developed in the port city of New Orleans,\nwhere a mixed-race culture grew from French and African inhabitants. Unlike in other parts of the country,\n“Creoles of color” had gre\n\n[openstax-introduction-sociology-3e-p0185-paragraph-0000 | openstax-introduction-sociology-3e | page 185]\nspiking during the War on Drugs, with racially and ethnically disparate applications. But more recently, as\ndiscussed in the introduction, marijuana is once again seen as an important medical treatment and an\nacceptable recreational pursuit. What changed this time?\nPerceptions and proclamations of deviance have long been a means to oppress people by labeling their private\nbehavior as criminal. Until the 1970s and 1980s, same-sex acts were prohibited by state laws. It was illegal to\nbe gay or lesbian, and the restrictions extended to simple displays like holding hands. Other laws prohibited\nclothing deemed “inappropriate” for one’s biological sex. As a result, military service members and even war\nveterans were dishonorably discharged (losing all benefits) if they were discovered to be gay.",
+        "context_ids": [
+          "openstax-introduction-sociology-3e-p0311-paragraph-0000",
+          "openstax-introduction-sociology-3e-p0301-paragraph-0000",
+          "openstax-introduction-sociology-3e-p0185-paragraph-0000"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ]
+  },
+  {
+    "query_id": "q20",
+    "question": "What did Jerry Newman's undercover work at fast food restaurants reveal?",
+    "answerable": true,
+    "model": "openai/gpt-4o-mini",
+    "method": "hybrid",
+    "elapsed_s": 3.618,
+    "usage": [
+      {
+        "latency_ms": 1047.68,
+        "prompt_tokens": 272,
+        "completion_tokens": 20,
+        "total_tokens": 292
+      },
+      {
+        "latency_ms": 2553.55,
+        "prompt_tokens": 1028,
+        "completion_tokens": 119,
+        "total_tokens": 1147
+      }
+    ],
+    "total_tokens": 1439,
+    "status": "answered",
+    "answer": "Jerry Newman's undercover work at fast food restaurants revealed that, contrary to common perceptions, these jobs require significant skill and effort. In his book, *My Secret Life on the McJob*, he documented his experiences working at seven fast food locations. Newman found that the employees were honest and hardworking, and he noted that management was often impressive. He also highlighted that having a fast-food service job on a résumé could be seen as a positive attribute, indicating reliability and the ability to handle pressure [openstax-introduction-sociology-3e-p0171-paragraph-0000].",
+    "citations": [
+      "openstax-introduction-sociology-3e-p0171-paragraph-0000"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Jerry Newman undercover work fast food restaurants",
+        "filter": null,
+        "results": [
+          {
+            "id": "openstax-introduction-sociology-3e-p0171-paragraph-0000",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 171,
+            "text": "McJob rather than a real job.\nBut business school professor Jerry Newman went undercover and worked behind the counter at seven fast food\nrestaurants to discover what really goes on there. His book, My Secret Life on the McJob, documents his experience.\nUnlike Schossler, Newman found that these restaurants offer much good alongside the bad. Specifically, he asserted\nthat the employees were honest and hardworking, that management was often impressive, and that the jobs\nrequired a lot more skill and effort than most people imagined. In the book, Newman cites a pharmaceutical\nexecutive who says a fast-food service job on an applicant’s résumé is a plus because it indicates the employee is\nreliable and can handle pressure.\nBusinesses like Chipotle, Panera, and Costco attempt to combat many of",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 799
+            },
+            "score": 0.032787
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0178-paragraph-0003",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 178,
+            "text": ".\nFuchs, Victor R.. 1997. “Managed Care and Merger Mania,” JAMA 277.11 (920-921).\nGoffman, Erving. 1961. Asylums: Essays on the Social Situation of Mental Patients and Other Inmates. Chicago,\nIL: Aldine.\nMichels, Robert. 1949 [1911]. Political Parties. Glencoe, IL: Free Press.\nNewman, Jerry. 2007. My Secret Life on the McJob. New York: McGraw-Hill.\nRitzer, George. 1993. The McDonaldization of Society. Thousand Oaks, CA: Pine Forge.\nSchlosser, Eric. 2001. Fast Food Nation: The Dark Side of the All-American Meal. Boston: Houghton Mifflin\nCompany.\nUnited States Department of Labor. Bureau of Labor Statistics Occupational Outlook Handbook, 2010–2011\nEdition. Retrieved February 10, 2012 (http://www.bls.gov/oco/ocos162.htm).\n166 6 • References\nAccess for free at openstax.org",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 779
+            },
+            "score": 0.032002
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0170-paragraph-0005",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 170,
+            "text": "Food Nation: The Dark Side of the All-American Meal by Eric Schossler, paint\nan ugly picture of what goes in, what goes on, and what comes out of fast food chains. From their environmental\nimpact to their role in the U.S. obesity epidemic, fast food chains are connected to numerous societal ills.\nFurthermore, working at a fast food restaurant is often disparaged, and even referred to dismissively, as having a\nSOCIOLOGY IN THE REAL WORLD\n158 6 • Groups and Organization\nAccess for free at openstax.org",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 504
+            },
+            "score": 0.031754
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0087-paragraph-0000",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 87,
+            "text": "Although informal norms define personal interactions, they extend into other systems as well. In the U.S.,\nthere are informal norms regarding behavior at fast food restaurants. Customers line up to order their food\nand leave when they are done. They don’t sit down at a table with strangers, sing loudly as they prepare their\ncondiments, or nap in a booth. Most people don’t commit even harmless breaches of informal norms.\nBreaching Experiments\nSociologist Harold Garfinkel (1917–2011) studied people’s customs in order to find out how societal rules and\nnorms not only influence behavior but also shape social order. He believed that members of society together\ncreate a social order (Weber, 2011). His resulting book, Studies in Ethno-methodology (1967) discusses people’s\nassumptions about the so",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.030536
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0116-paragraph-0002",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 116,
+            "text": "A cannery worker can spend a lifetime cleaning fish without ever knowing what\nproduct they are used for.\nAlienation from the process of one’s labor. A worker does not control the conditions of her job because she does\nnot own the means of production. If a person is hired to work in a fast food restaurant, she is expected to make\nthe food the way she is taught. All ingredients must be combined in a particular order and in a particular\nquantity; there is no room for creativity or change. An employee at Burger King cannot decide to change the\nspices used on the fries in the same way that an employee on a Ford assembly line cannot decide to place a\ncar’s headlights in a different position. Everything is decided by the bourgeoisie who then dictate orders to the\nlaborers.\nAlienation from others",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 799
+            },
+            "score": 0.02971
+          }
+        ],
+        "context": "[openstax-introduction-sociology-3e-p0171-paragraph-0000 | openstax-introduction-sociology-3e | page 171]\nMcJob rather than a real job.\nBut business school professor Jerry Newman went undercover and worked behind the counter at seven fast food\nrestaurants to discover what really goes on there. His book, My Secret Life on the McJob, documents his experience.\nUnlike Schossler, Newman found that these restaurants offer much good alongside the bad. Specifically, he asserted\nthat the employees were honest and hardworking, that management was often impressive, and that the jobs\nrequired a lot more skill and effort than most people imagined. In the book, Newman cites a pharmaceutical\nexecutive who says a fast-food service job on an applicant’s résumé is a plus because it indicates the employee is\nreliable and can handle pressure.\nBusinesses like Chipotle, Panera, and Costco attempt to combat many of\n\n[openstax-introduction-sociology-3e-p0178-paragraph-0003 | openstax-introduction-sociology-3e | page 178]\n.\nFuchs, Victor R.. 1997. “Managed Care and Merger Mania,” JAMA 277.11 (920-921).\nGoffman, Erving. 1961. Asylums: Essays on the Social Situation of Mental Patients and Other Inmates. Chicago,\nIL: Aldine.\nMichels, Robert. 1949 [1911]. Political Parties. Glencoe, IL: Free Press.\nNewman, Jerry. 2007. My Secret Life on the McJob. New York: McGraw-Hill.\nRitzer, George. 1993. The McDonaldization of Society. Thousand Oaks, CA: Pine Forge.\nSchlosser, Eric. 2001. Fast Food Nation: The Dark Side of the All-American Meal. Boston: Houghton Mifflin\nCompany.\nUnited States Department of Labor. Bureau of Labor Statistics Occupational Outlook Handbook, 2010–2011\nEdition. Retrieved February 10, 2012 (http://www.bls.gov/oco/ocos162.htm).\n166 6 • References\nAccess for free at openstax.org\n\n[openstax-introduction-sociology-3e-p0170-paragraph-0005 | openstax-introduction-sociology-3e | page 170]\nFood Nation: The Dark Side of the All-American Meal by Eric Schossler, paint\nan ugly picture of what goes in, what goes on, and what comes out of fast food chains. From their environmental\nimpact to their role in the U.S. obesity epidemic, fast food chains are connected to numerous societal ills.\nFurthermore, working at a fast food restaurant is often disparaged, and even referred to dismissively, as having a\nSOCIOLOGY IN THE REAL WORLD\n158 6 • Groups and Organization\nAccess for free at openstax.org",
+        "context_ids": [
+          "openstax-introduction-sociology-3e-p0171-paragraph-0000",
+          "openstax-introduction-sociology-3e-p0178-paragraph-0003",
+          "openstax-introduction-sociology-3e-p0170-paragraph-0005"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ]
+  },
+  {
+    "query_id": "q21",
+    "question": "What is the role of the independent variable in sociological research as explained in the textbook?",
+    "answerable": true,
+    "model": "openai/gpt-4o-mini",
+    "method": "hybrid",
+    "elapsed_s": 3.691,
+    "usage": [
+      {
+        "latency_ms": 1085.41,
+        "prompt_tokens": 277,
+        "completion_tokens": 19,
+        "total_tokens": 296
+      },
+      {
+        "latency_ms": 2588.59,
+        "prompt_tokens": 1073,
+        "completion_tokens": 153,
+        "total_tokens": 1226
+      }
+    ],
+    "total_tokens": 1522,
+    "status": "answered",
+    "answer": "In sociological research, the independent variable (IV) is defined as the cause of change, while the dependent variable (DV) is the effect or the outcome that is changed. Researchers establish one form of human behavior as the independent variable and observe its influence on the dependent variable. For example, in a hypothesis stating \"If unemployment increases, then the crime rate will increase,\" unemployment is the independent variable and the crime rate is the dependent variable. This relationship allows researchers to study how one variable influences another, which is a fundamental aspect of scientific sociological studies [openstax-introduction-sociology-3e-p0050-paragraph-0002][openstax-introduction-sociology-3e-p0050-paragraph-0004].",
+    "citations": [
+      "openstax-introduction-sociology-3e-p0050-paragraph-0002",
+      "openstax-introduction-sociology-3e-p0050-paragraph-0004"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "independent variable sociological research",
+        "filter": {
+          "document_type": "textbook"
+        },
+        "results": [
+          {
+            "id": "openstax-introduction-sociology-3e-p0050-paragraph-0002",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 50,
+            "text": ". For example, a hypothesis might be in the form of an “if, then” statement.\nLet’s relate this to our topic of crime: If unemployment increases, then the crime rate will increase.\nIn scientific research, we formulate hypotheses to include an independent variable (IV), which is the cause of\nthe change, and a dependent variable (DV), which is the effect, or thing that is changed. In the example above,\nunemployment is the independent variable and the crime rate is the dependent variable.\nIn a sociological study, the researcher would establish one form of human behavior as the independent\nvariable and observe the influence it has on a dependent variable. How does gender (the independent variable)\naffect rate of income (the dependent variable)? How does one’s religion (the independent variable)",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.031545
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0050-paragraph-0003",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 50,
+            "text": "affect family\nsize (the dependent variable)? How is social class (the dependent variable) affected by level of education (the\nindependent variable)?\nHypothesis Independent\nVariable\nDependent\nVariable\nThe greater the availability of affordable housing, the lower the\nhomeless rate. Affordable Housing Homeless Rate\nThe greater the availability of math tutoring, the higher the math\ngrades. Math Tutoring Math Grades\nThe greater the police patrol presence, the safer the neighborhood. Police Patrol Presence Safer Neighborhood\nThe greater the factory lighting, the higher the productivity. Factory Lighting Productivity\nThe greater the amount of media coverage, the higher the public\nawareness. Observation Public Awareness\nTABLE 2.1 Examples of Dependent and Independent Variables Typically, the inde",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 799
+            },
+            "score": 0.031498
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0069-paragraph-0000",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 69,
+            "text": "Section Summary\n2.1 Approaches to Sociological Research\nUsing the scientific method, a researcher conducts a study in six phases: asking a question, researching\nexisting sources, formulating a hypothesis, research design, collecting & analyzing data, and drawing\nconclusions. The scientific method is useful in that it provides a clear method of organizing a study. Some\nsociologists conduct research through an interpretive framework rather than employing the scientific method.\nScientific sociological studies often observe relationships between variables. Researchers study how one\nvariable influences another. Prior to conducting a study, researchers are careful to apply operational\ndefinitions to their terms and to establish dependent and independent variables.\n2.2 Research Methods\nSociologic",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.030331
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0070-paragraph-0002",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 70,
+            "text": "ntradict\npersonal values and convictions.\nSection Quiz\n2.1 Approaches to Sociological Research\n1 . The 1st step of the scientific method:\na. Collect and analyze data\nb. Summarize the articles\nc. Ask a question about a topic\nd. Create a hypothesis\n2 . A measurement is considered ________ if it actually measures what it is intended to measure, according\nto the topic of the study.\na. reliable\nb. sociological\nc. valid\nd. quantitative\n3 . Sociological studies test relationships in which change in one ________ causes change in another.\na. test subject\nb. behavior\nc. variable\nd. operational definition\n58 2 • Section Quiz\nAccess for free at openstax.org",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 653
+            },
+            "score": 0.03031
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0050-paragraph-0004",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 50,
+            "text": "pendent variable causes the\ndependent variable to change in some way.\n38 2 • Sociological Research\nAccess for free at openstax.org",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 130
+            },
+            "score": 0.02967
+          }
+        ],
+        "context": "[openstax-introduction-sociology-3e-p0050-paragraph-0002 | openstax-introduction-sociology-3e | page 50]\n. For example, a hypothesis might be in the form of an “if, then” statement.\nLet’s relate this to our topic of crime: If unemployment increases, then the crime rate will increase.\nIn scientific research, we formulate hypotheses to include an independent variable (IV), which is the cause of\nthe change, and a dependent variable (DV), which is the effect, or thing that is changed. In the example above,\nunemployment is the independent variable and the crime rate is the dependent variable.\nIn a sociological study, the researcher would establish one form of human behavior as the independent\nvariable and observe the influence it has on a dependent variable. How does gender (the independent variable)\naffect rate of income (the dependent variable)? How does one’s religion (the independent variable)\n\n[openstax-introduction-sociology-3e-p0050-paragraph-0003 | openstax-introduction-sociology-3e | page 50]\naffect family\nsize (the dependent variable)? How is social class (the dependent variable) affected by level of education (the\nindependent variable)?\nHypothesis Independent\nVariable\nDependent\nVariable\nThe greater the availability of affordable housing, the lower the\nhomeless rate. Affordable Housing Homeless Rate\nThe greater the availability of math tutoring, the higher the math\ngrades. Math Tutoring Math Grades\nThe greater the police patrol presence, the safer the neighborhood. Police Patrol Presence Safer Neighborhood\nThe greater the factory lighting, the higher the productivity. Factory Lighting Productivity\nThe greater the amount of media coverage, the higher the public\nawareness. Observation Public Awareness\nTABLE 2.1 Examples of Dependent and Independent Variables Typically, the inde\n\n[openstax-introduction-sociology-3e-p0069-paragraph-0000 | openstax-introduction-sociology-3e | page 69]\nSection Summary\n2.1 Approaches to Sociological Research\nUsing the scientific method, a researcher conducts a study in six phases: asking a question, researching\nexisting sources, formulating a hypothesis, research design, collecting & analyzing data, and drawing\nconclusions. The scientific method is useful in that it provides a clear method of organizing a study. Some\nsociologists conduct research through an interpretive framework rather than employing the scientific method.\nScientific sociological studies often observe relationships between variables. Researchers study how one\nvariable influences another. Prior to conducting a study, researchers are careful to apply operational\ndefinitions to their terms and to establish dependent and independent variables.\n2.2 Research Methods\nSociologic\n\n[openstax-introduction-sociology-3e-p0050-paragraph-0004 | openstax-introduction-sociology-3e | page 50]\npendent variable causes the\ndependent variable to change in some way.\n38 2 • Sociological Research\nAccess for free at openstax.org",
+        "context_ids": [
+          "openstax-introduction-sociology-3e-p0050-paragraph-0002",
+          "openstax-introduction-sociology-3e-p0050-paragraph-0003",
+          "openstax-introduction-sociology-3e-p0069-paragraph-0000",
+          "openstax-introduction-sociology-3e-p0050-paragraph-0004"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ]
+  },
+  {
+    "query_id": "q24",
+    "question": "How did the European Union's 2024 AI Act classify workplace emotion-recognition systems?",
+    "answerable": false,
+    "model": "openai/gpt-4o-mini",
+    "method": "hybrid",
+    "elapsed_s": 6.912,
+    "usage": [
+      {
+        "latency_ms": 1400.53,
+        "prompt_tokens": 277,
+        "completion_tokens": 26,
+        "total_tokens": 303
+      },
+      {
+        "latency_ms": 1418.37,
+        "prompt_tokens": 1143,
+        "completion_tokens": 26,
+        "total_tokens": 1169
+      },
+      {
+        "latency_ms": 1247.68,
+        "prompt_tokens": 1157,
+        "completion_tokens": 26,
+        "total_tokens": 1183
+      },
+      {
+        "latency_ms": 1232.0,
+        "prompt_tokens": 1171,
+        "completion_tokens": 26,
+        "total_tokens": 1197
+      },
+      {
+        "latency_ms": 1547.81,
+        "prompt_tokens": 1185,
+        "completion_tokens": 26,
+        "total_tokens": 1211
+      }
+    ],
+    "total_tokens": 5063,
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "European Union 2024 AI Act workplace emotion-recognition systems classification",
+        "filter": null,
+        "results": [
+          {
+            "id": "openstax-introduction-sociology-3e-p0272-paragraph-0000",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 272,
+            "text": "While you read this chapter, think about the global system that allows U.S. companies to outsource their\nmanufacturing to peripheral nations, where many women and children work in conditions that some\ncharacterize as slave labor. Do people in the United States have a responsibility to foreign workers? Should U.S.\ncorporations be held accountable for what happens to garment factory workers who make their clothing? What\ncan you do as a consumer to help such workers?\n10.1 Global Stratification and Classification\nLEARNING OBJECTIVES\nBy the end of this section, you should be able to:\n• Describe global stratification\n• Differentiate the development history of various classification systems\n• Use terminology from Wallerstein’s world systems approach\n• Explain the World Bank’s classification of ec",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.032002
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0141-paragraph-0001",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 141,
+            "text": "00 wounded (Crampton 2002).\nThe protest affirms that textbooks are a significant tool of socialization in state-run education systems.\nThe Workplace\nFIGURE 5.6 Workplace socialization occurs informally and formally, and may include material and non-material\nculture (Credit: U.S. Department of Agriculture/flickr).\nJust as children spend much of their day at school, many U.S. adults at some point invest a significant amount\nof time at a place of employment. Although socialized into their culture since birth, workers require new\nsocialization into a workplace, in terms of both material culture (such as how to operate the copy machine) and\nnonmaterial culture (such as whether it’s okay to speak directly to the boss or how to share the refrigerator). In\nthe chapter introduction, Noel did not fu",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.03101
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0274-paragraph-0003",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 274,
+            "text": "tional 2012).\nGlobal Classification\nA major concern when discussing global inequality is how to avoid an ethnocentric bias implying that less-\n262 10 • Global Inequality\nAccess for free at openstax.org",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 201
+            },
+            "score": 0.027912
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0080-paragraph-0004",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 80,
+            "text": "music is soft and soothing, with a hint of sadness. You see the protagonist sitting on the\npark bench with a grim expression. Suddenly, the music swells. The woman looks up and sees a man walking\ntoward her. The notes are high and bright, and the pace is bouncy. You feel your heart rise in your chest. This is a\nhappy moment.\nMusic has the ability to evoke emotional responses. In television shows, movies, commercials, and even the\nbackground music in a store, music has a message and seems to easily draw a response from those who hear it –\njoy, sadness, fear, victory. Are these types of musical cues cultural universals?\nIn 2009, a team of psychologists, led by Thomas Fritz of the Max Planck Institute for Human Cognitive and Brain\nSciences in Leipzig, Germany, studied people’s reactions to m",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 799
+            },
+            "score": 0.016393
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0560-paragraph-0001",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 560,
+            "text": "on.” American Sociological Review\n10:242–249.\nDiamond, J., and P. Bellwood. 2003. “Farmers and Their Languages: The First Expansions.” Science April 25,\npp. 597-603.\nDomhoff, G. William. 2011. “Wealth Income and Power.” Who Rules America. Retrieved January 25, 2012\n(http://www2.ucsc.edu/whorulesamerica/power/wealth.html).\nEuropean Union. 2014.\"On the Road to EU Membership.\" Retrieved December 15, 2014. (http://europa.eu/\nabout-eu/countries/on-the-road-to-eu-membership/index_en.htm).\nEuropean Union. 2014. \"EU Member Countries\". Retrieved December 15, 2014. (http://europa.eu/about-eu/\ncountries/member-countries/).\nFidrmuc, Jan. 2002. “Economic Reform, Democracy and Growth During Post-Communist Transition.”\nEuropean Journal of Political Economy 19(30):583–604. Retrieved February 6, 2012\n(http",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.016393
+          }
+        ],
+        "context": "[openstax-introduction-sociology-3e-p0272-paragraph-0000 | openstax-introduction-sociology-3e | page 272]\nWhile you read this chapter, think about the global system that allows U.S. companies to outsource their\nmanufacturing to peripheral nations, where many women and children work in conditions that some\ncharacterize as slave labor. Do people in the United States have a responsibility to foreign workers? Should U.S.\ncorporations be held accountable for what happens to garment factory workers who make their clothing? What\ncan you do as a consumer to help such workers?\n10.1 Global Stratification and Classification\nLEARNING OBJECTIVES\nBy the end of this section, you should be able to:\n• Describe global stratification\n• Differentiate the development history of various classification systems\n• Use terminology from Wallerstein’s world systems approach\n• Explain the World Bank’s classification of ec\n\n[openstax-introduction-sociology-3e-p0141-paragraph-0001 | openstax-introduction-sociology-3e | page 141]\n00 wounded (Crampton 2002).\nThe protest affirms that textbooks are a significant tool of socialization in state-run education systems.\nThe Workplace\nFIGURE 5.6 Workplace socialization occurs informally and formally, and may include material and non-material\nculture (Credit: U.S. Department of Agriculture/flickr).\nJust as children spend much of their day at school, many U.S. adults at some point invest a significant amount\nof time at a place of employment. Although socialized into their culture since birth, workers require new\nsocialization into a workplace, in terms of both material culture (such as how to operate the copy machine) and\nnonmaterial culture (such as whether it’s okay to speak directly to the boss or how to share the refrigerator). In\nthe chapter introduction, Noel did not fu\n\n[openstax-introduction-sociology-3e-p0274-paragraph-0003 | openstax-introduction-sociology-3e | page 274]\ntional 2012).\nGlobal Classification\nA major concern when discussing global inequality is how to avoid an ethnocentric bias implying that less-\n262 10 • Global Inequality\nAccess for free at openstax.org\n\n[openstax-introduction-sociology-3e-p0080-paragraph-0004 | openstax-introduction-sociology-3e | page 80]\nmusic is soft and soothing, with a hint of sadness. You see the protagonist sitting on the\npark bench with a grim expression. Suddenly, the music swells. The woman looks up and sees a man walking\ntoward her. The notes are high and bright, and the pace is bouncy. You feel your heart rise in your chest. This is a\nhappy moment.\nMusic has the ability to evoke emotional responses. In television shows, movies, commercials, and even the\nbackground music in a store, music has a message and seems to easily draw a response from those who hear it –\njoy, sadness, fear, victory. Are these types of musical cues cultural universals?\nIn 2009, a team of psychologists, led by Thomas Fritz of the Max Planck Institute for Human Cognitive and Brain\nSciences in Leipzig, Germany, studied people’s reactions to m",
+        "context_ids": [
+          "openstax-introduction-sociology-3e-p0272-paragraph-0000",
+          "openstax-introduction-sociology-3e-p0141-paragraph-0001",
+          "openstax-introduction-sociology-3e-p0274-paragraph-0003",
+          "openstax-introduction-sociology-3e-p0080-paragraph-0004"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "European Union 2024 AI Act workplace emotion-recognition systems classification",
+        "filter": null,
+        "results": [
+          {
+            "id": "openstax-introduction-sociology-3e-p0272-paragraph-0000",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 272,
+            "text": "While you read this chapter, think about the global system that allows U.S. companies to outsource their\nmanufacturing to peripheral nations, where many women and children work in conditions that some\ncharacterize as slave labor. Do people in the United States have a responsibility to foreign workers? Should U.S.\ncorporations be held accountable for what happens to garment factory workers who make their clothing? What\ncan you do as a consumer to help such workers?\n10.1 Global Stratification and Classification\nLEARNING OBJECTIVES\nBy the end of this section, you should be able to:\n• Describe global stratification\n• Differentiate the development history of various classification systems\n• Use terminology from Wallerstein’s world systems approach\n• Explain the World Bank’s classification of ec",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.032002
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0141-paragraph-0001",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 141,
+            "text": "00 wounded (Crampton 2002).\nThe protest affirms that textbooks are a significant tool of socialization in state-run education systems.\nThe Workplace\nFIGURE 5.6 Workplace socialization occurs informally and formally, and may include material and non-material\nculture (Credit: U.S. Department of Agriculture/flickr).\nJust as children spend much of their day at school, many U.S. adults at some point invest a significant amount\nof time at a place of employment. Although socialized into their culture since birth, workers require new\nsocialization into a workplace, in terms of both material culture (such as how to operate the copy machine) and\nnonmaterial culture (such as whether it’s okay to speak directly to the boss or how to share the refrigerator). In\nthe chapter introduction, Noel did not fu",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.03101
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0274-paragraph-0003",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 274,
+            "text": "tional 2012).\nGlobal Classification\nA major concern when discussing global inequality is how to avoid an ethnocentric bias implying that less-\n262 10 • Global Inequality\nAccess for free at openstax.org",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 201
+            },
+            "score": 0.027912
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0080-paragraph-0004",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 80,
+            "text": "music is soft and soothing, with a hint of sadness. You see the protagonist sitting on the\npark bench with a grim expression. Suddenly, the music swells. The woman looks up and sees a man walking\ntoward her. The notes are high and bright, and the pace is bouncy. You feel your heart rise in your chest. This is a\nhappy moment.\nMusic has the ability to evoke emotional responses. In television shows, movies, commercials, and even the\nbackground music in a store, music has a message and seems to easily draw a response from those who hear it –\njoy, sadness, fear, victory. Are these types of musical cues cultural universals?\nIn 2009, a team of psychologists, led by Thomas Fritz of the Max Planck Institute for Human Cognitive and Brain\nSciences in Leipzig, Germany, studied people’s reactions to m",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 799
+            },
+            "score": 0.016393
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0560-paragraph-0001",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 560,
+            "text": "on.” American Sociological Review\n10:242–249.\nDiamond, J., and P. Bellwood. 2003. “Farmers and Their Languages: The First Expansions.” Science April 25,\npp. 597-603.\nDomhoff, G. William. 2011. “Wealth Income and Power.” Who Rules America. Retrieved January 25, 2012\n(http://www2.ucsc.edu/whorulesamerica/power/wealth.html).\nEuropean Union. 2014.\"On the Road to EU Membership.\" Retrieved December 15, 2014. (http://europa.eu/\nabout-eu/countries/on-the-road-to-eu-membership/index_en.htm).\nEuropean Union. 2014. \"EU Member Countries\". Retrieved December 15, 2014. (http://europa.eu/about-eu/\ncountries/member-countries/).\nFidrmuc, Jan. 2002. “Economic Reform, Democracy and Growth During Post-Communist Transition.”\nEuropean Journal of Political Economy 19(30):583–604. Retrieved February 6, 2012\n(http",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.016393
+          }
+        ],
+        "context": "[openstax-introduction-sociology-3e-p0272-paragraph-0000 | openstax-introduction-sociology-3e | page 272]\nWhile you read this chapter, think about the global system that allows U.S. companies to outsource their\nmanufacturing to peripheral nations, where many women and children work in conditions that some\ncharacterize as slave labor. Do people in the United States have a responsibility to foreign workers? Should U.S.\ncorporations be held accountable for what happens to garment factory workers who make their clothing? What\ncan you do as a consumer to help such workers?\n10.1 Global Stratification and Classification\nLEARNING OBJECTIVES\nBy the end of this section, you should be able to:\n• Describe global stratification\n• Differentiate the development history of various classification systems\n• Use terminology from Wallerstein’s world systems approach\n• Explain the World Bank’s classification of ec\n\n[openstax-introduction-sociology-3e-p0141-paragraph-0001 | openstax-introduction-sociology-3e | page 141]\n00 wounded (Crampton 2002).\nThe protest affirms that textbooks are a significant tool of socialization in state-run education systems.\nThe Workplace\nFIGURE 5.6 Workplace socialization occurs informally and formally, and may include material and non-material\nculture (Credit: U.S. Department of Agriculture/flickr).\nJust as children spend much of their day at school, many U.S. adults at some point invest a significant amount\nof time at a place of employment. Although socialized into their culture since birth, workers require new\nsocialization into a workplace, in terms of both material culture (such as how to operate the copy machine) and\nnonmaterial culture (such as whether it’s okay to speak directly to the boss or how to share the refrigerator). In\nthe chapter introduction, Noel did not fu\n\n[openstax-introduction-sociology-3e-p0274-paragraph-0003 | openstax-introduction-sociology-3e | page 274]\ntional 2012).\nGlobal Classification\nA major concern when discussing global inequality is how to avoid an ethnocentric bias implying that less-\n262 10 • Global Inequality\nAccess for free at openstax.org\n\n[openstax-introduction-sociology-3e-p0080-paragraph-0004 | openstax-introduction-sociology-3e | page 80]\nmusic is soft and soothing, with a hint of sadness. You see the protagonist sitting on the\npark bench with a grim expression. Suddenly, the music swells. The woman looks up and sees a man walking\ntoward her. The notes are high and bright, and the pace is bouncy. You feel your heart rise in your chest. This is a\nhappy moment.\nMusic has the ability to evoke emotional responses. In television shows, movies, commercials, and even the\nbackground music in a store, music has a message and seems to easily draw a response from those who hear it –\njoy, sadness, fear, victory. Are these types of musical cues cultural universals?\nIn 2009, a team of psychologists, led by Thomas Fritz of the Max Planck Institute for Human Cognitive and Brain\nSciences in Leipzig, Germany, studied people’s reactions to m",
+        "context_ids": [
+          "openstax-introduction-sociology-3e-p0272-paragraph-0000",
+          "openstax-introduction-sociology-3e-p0141-paragraph-0001",
+          "openstax-introduction-sociology-3e-p0274-paragraph-0003",
+          "openstax-introduction-sociology-3e-p0080-paragraph-0004"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "European Union 2024 AI Act workplace emotion-recognition systems classification",
+        "filter": null,
+        "results": [
+          {
+            "id": "openstax-introduction-sociology-3e-p0272-paragraph-0000",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 272,
+            "text": "While you read this chapter, think about the global system that allows U.S. companies to outsource their\nmanufacturing to peripheral nations, where many women and children work in conditions that some\ncharacterize as slave labor. Do people in the United States have a responsibility to foreign workers? Should U.S.\ncorporations be held accountable for what happens to garment factory workers who make their clothing? What\ncan you do as a consumer to help such workers?\n10.1 Global Stratification and Classification\nLEARNING OBJECTIVES\nBy the end of this section, you should be able to:\n• Describe global stratification\n• Differentiate the development history of various classification systems\n• Use terminology from Wallerstein’s world systems approach\n• Explain the World Bank’s classification of ec",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.032002
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0141-paragraph-0001",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 141,
+            "text": "00 wounded (Crampton 2002).\nThe protest affirms that textbooks are a significant tool of socialization in state-run education systems.\nThe Workplace\nFIGURE 5.6 Workplace socialization occurs informally and formally, and may include material and non-material\nculture (Credit: U.S. Department of Agriculture/flickr).\nJust as children spend much of their day at school, many U.S. adults at some point invest a significant amount\nof time at a place of employment. Although socialized into their culture since birth, workers require new\nsocialization into a workplace, in terms of both material culture (such as how to operate the copy machine) and\nnonmaterial culture (such as whether it’s okay to speak directly to the boss or how to share the refrigerator). In\nthe chapter introduction, Noel did not fu",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.03101
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0274-paragraph-0003",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 274,
+            "text": "tional 2012).\nGlobal Classification\nA major concern when discussing global inequality is how to avoid an ethnocentric bias implying that less-\n262 10 • Global Inequality\nAccess for free at openstax.org",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 201
+            },
+            "score": 0.027912
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0080-paragraph-0004",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 80,
+            "text": "music is soft and soothing, with a hint of sadness. You see the protagonist sitting on the\npark bench with a grim expression. Suddenly, the music swells. The woman looks up and sees a man walking\ntoward her. The notes are high and bright, and the pace is bouncy. You feel your heart rise in your chest. This is a\nhappy moment.\nMusic has the ability to evoke emotional responses. In television shows, movies, commercials, and even the\nbackground music in a store, music has a message and seems to easily draw a response from those who hear it –\njoy, sadness, fear, victory. Are these types of musical cues cultural universals?\nIn 2009, a team of psychologists, led by Thomas Fritz of the Max Planck Institute for Human Cognitive and Brain\nSciences in Leipzig, Germany, studied people’s reactions to m",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 799
+            },
+            "score": 0.016393
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0560-paragraph-0001",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 560,
+            "text": "on.” American Sociological Review\n10:242–249.\nDiamond, J., and P. Bellwood. 2003. “Farmers and Their Languages: The First Expansions.” Science April 25,\npp. 597-603.\nDomhoff, G. William. 2011. “Wealth Income and Power.” Who Rules America. Retrieved January 25, 2012\n(http://www2.ucsc.edu/whorulesamerica/power/wealth.html).\nEuropean Union. 2014.\"On the Road to EU Membership.\" Retrieved December 15, 2014. (http://europa.eu/\nabout-eu/countries/on-the-road-to-eu-membership/index_en.htm).\nEuropean Union. 2014. \"EU Member Countries\". Retrieved December 15, 2014. (http://europa.eu/about-eu/\ncountries/member-countries/).\nFidrmuc, Jan. 2002. “Economic Reform, Democracy and Growth During Post-Communist Transition.”\nEuropean Journal of Political Economy 19(30):583–604. Retrieved February 6, 2012\n(http",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.016393
+          }
+        ],
+        "context": "[openstax-introduction-sociology-3e-p0272-paragraph-0000 | openstax-introduction-sociology-3e | page 272]\nWhile you read this chapter, think about the global system that allows U.S. companies to outsource their\nmanufacturing to peripheral nations, where many women and children work in conditions that some\ncharacterize as slave labor. Do people in the United States have a responsibility to foreign workers? Should U.S.\ncorporations be held accountable for what happens to garment factory workers who make their clothing? What\ncan you do as a consumer to help such workers?\n10.1 Global Stratification and Classification\nLEARNING OBJECTIVES\nBy the end of this section, you should be able to:\n• Describe global stratification\n• Differentiate the development history of various classification systems\n• Use terminology from Wallerstein’s world systems approach\n• Explain the World Bank’s classification of ec\n\n[openstax-introduction-sociology-3e-p0141-paragraph-0001 | openstax-introduction-sociology-3e | page 141]\n00 wounded (Crampton 2002).\nThe protest affirms that textbooks are a significant tool of socialization in state-run education systems.\nThe Workplace\nFIGURE 5.6 Workplace socialization occurs informally and formally, and may include material and non-material\nculture (Credit: U.S. Department of Agriculture/flickr).\nJust as children spend much of their day at school, many U.S. adults at some point invest a significant amount\nof time at a place of employment. Although socialized into their culture since birth, workers require new\nsocialization into a workplace, in terms of both material culture (such as how to operate the copy machine) and\nnonmaterial culture (such as whether it’s okay to speak directly to the boss or how to share the refrigerator). In\nthe chapter introduction, Noel did not fu\n\n[openstax-introduction-sociology-3e-p0274-paragraph-0003 | openstax-introduction-sociology-3e | page 274]\ntional 2012).\nGlobal Classification\nA major concern when discussing global inequality is how to avoid an ethnocentric bias implying that less-\n262 10 • Global Inequality\nAccess for free at openstax.org\n\n[openstax-introduction-sociology-3e-p0080-paragraph-0004 | openstax-introduction-sociology-3e | page 80]\nmusic is soft and soothing, with a hint of sadness. You see the protagonist sitting on the\npark bench with a grim expression. Suddenly, the music swells. The woman looks up and sees a man walking\ntoward her. The notes are high and bright, and the pace is bouncy. You feel your heart rise in your chest. This is a\nhappy moment.\nMusic has the ability to evoke emotional responses. In television shows, movies, commercials, and even the\nbackground music in a store, music has a message and seems to easily draw a response from those who hear it –\njoy, sadness, fear, victory. Are these types of musical cues cultural universals?\nIn 2009, a team of psychologists, led by Thomas Fritz of the Max Planck Institute for Human Cognitive and Brain\nSciences in Leipzig, Germany, studied people’s reactions to m",
+        "context_ids": [
+          "openstax-introduction-sociology-3e-p0272-paragraph-0000",
+          "openstax-introduction-sociology-3e-p0141-paragraph-0001",
+          "openstax-introduction-sociology-3e-p0274-paragraph-0003",
+          "openstax-introduction-sociology-3e-p0080-paragraph-0004"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "European Union 2024 AI Act workplace emotion-recognition systems classification",
+        "filter": null,
+        "results": [
+          {
+            "id": "openstax-introduction-sociology-3e-p0272-paragraph-0000",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 272,
+            "text": "While you read this chapter, think about the global system that allows U.S. companies to outsource their\nmanufacturing to peripheral nations, where many women and children work in conditions that some\ncharacterize as slave labor. Do people in the United States have a responsibility to foreign workers? Should U.S.\ncorporations be held accountable for what happens to garment factory workers who make their clothing? What\ncan you do as a consumer to help such workers?\n10.1 Global Stratification and Classification\nLEARNING OBJECTIVES\nBy the end of this section, you should be able to:\n• Describe global stratification\n• Differentiate the development history of various classification systems\n• Use terminology from Wallerstein’s world systems approach\n• Explain the World Bank’s classification of ec",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.032002
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0141-paragraph-0001",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 141,
+            "text": "00 wounded (Crampton 2002).\nThe protest affirms that textbooks are a significant tool of socialization in state-run education systems.\nThe Workplace\nFIGURE 5.6 Workplace socialization occurs informally and formally, and may include material and non-material\nculture (Credit: U.S. Department of Agriculture/flickr).\nJust as children spend much of their day at school, many U.S. adults at some point invest a significant amount\nof time at a place of employment. Although socialized into their culture since birth, workers require new\nsocialization into a workplace, in terms of both material culture (such as how to operate the copy machine) and\nnonmaterial culture (such as whether it’s okay to speak directly to the boss or how to share the refrigerator). In\nthe chapter introduction, Noel did not fu",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.03101
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0274-paragraph-0003",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 274,
+            "text": "tional 2012).\nGlobal Classification\nA major concern when discussing global inequality is how to avoid an ethnocentric bias implying that less-\n262 10 • Global Inequality\nAccess for free at openstax.org",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 201
+            },
+            "score": 0.027912
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0080-paragraph-0004",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 80,
+            "text": "music is soft and soothing, with a hint of sadness. You see the protagonist sitting on the\npark bench with a grim expression. Suddenly, the music swells. The woman looks up and sees a man walking\ntoward her. The notes are high and bright, and the pace is bouncy. You feel your heart rise in your chest. This is a\nhappy moment.\nMusic has the ability to evoke emotional responses. In television shows, movies, commercials, and even the\nbackground music in a store, music has a message and seems to easily draw a response from those who hear it –\njoy, sadness, fear, victory. Are these types of musical cues cultural universals?\nIn 2009, a team of psychologists, led by Thomas Fritz of the Max Planck Institute for Human Cognitive and Brain\nSciences in Leipzig, Germany, studied people’s reactions to m",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 799
+            },
+            "score": 0.016393
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0560-paragraph-0001",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 560,
+            "text": "on.” American Sociological Review\n10:242–249.\nDiamond, J., and P. Bellwood. 2003. “Farmers and Their Languages: The First Expansions.” Science April 25,\npp. 597-603.\nDomhoff, G. William. 2011. “Wealth Income and Power.” Who Rules America. Retrieved January 25, 2012\n(http://www2.ucsc.edu/whorulesamerica/power/wealth.html).\nEuropean Union. 2014.\"On the Road to EU Membership.\" Retrieved December 15, 2014. (http://europa.eu/\nabout-eu/countries/on-the-road-to-eu-membership/index_en.htm).\nEuropean Union. 2014. \"EU Member Countries\". Retrieved December 15, 2014. (http://europa.eu/about-eu/\ncountries/member-countries/).\nFidrmuc, Jan. 2002. “Economic Reform, Democracy and Growth During Post-Communist Transition.”\nEuropean Journal of Political Economy 19(30):583–604. Retrieved February 6, 2012\n(http",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.016393
+          }
+        ],
+        "context": "[openstax-introduction-sociology-3e-p0272-paragraph-0000 | openstax-introduction-sociology-3e | page 272]\nWhile you read this chapter, think about the global system that allows U.S. companies to outsource their\nmanufacturing to peripheral nations, where many women and children work in conditions that some\ncharacterize as slave labor. Do people in the United States have a responsibility to foreign workers? Should U.S.\ncorporations be held accountable for what happens to garment factory workers who make their clothing? What\ncan you do as a consumer to help such workers?\n10.1 Global Stratification and Classification\nLEARNING OBJECTIVES\nBy the end of this section, you should be able to:\n• Describe global stratification\n• Differentiate the development history of various classification systems\n• Use terminology from Wallerstein’s world systems approach\n• Explain the World Bank’s classification of ec\n\n[openstax-introduction-sociology-3e-p0141-paragraph-0001 | openstax-introduction-sociology-3e | page 141]\n00 wounded (Crampton 2002).\nThe protest affirms that textbooks are a significant tool of socialization in state-run education systems.\nThe Workplace\nFIGURE 5.6 Workplace socialization occurs informally and formally, and may include material and non-material\nculture (Credit: U.S. Department of Agriculture/flickr).\nJust as children spend much of their day at school, many U.S. adults at some point invest a significant amount\nof time at a place of employment. Although socialized into their culture since birth, workers require new\nsocialization into a workplace, in terms of both material culture (such as how to operate the copy machine) and\nnonmaterial culture (such as whether it’s okay to speak directly to the boss or how to share the refrigerator). In\nthe chapter introduction, Noel did not fu\n\n[openstax-introduction-sociology-3e-p0274-paragraph-0003 | openstax-introduction-sociology-3e | page 274]\ntional 2012).\nGlobal Classification\nA major concern when discussing global inequality is how to avoid an ethnocentric bias implying that less-\n262 10 • Global Inequality\nAccess for free at openstax.org\n\n[openstax-introduction-sociology-3e-p0080-paragraph-0004 | openstax-introduction-sociology-3e | page 80]\nmusic is soft and soothing, with a hint of sadness. You see the protagonist sitting on the\npark bench with a grim expression. Suddenly, the music swells. The woman looks up and sees a man walking\ntoward her. The notes are high and bright, and the pace is bouncy. You feel your heart rise in your chest. This is a\nhappy moment.\nMusic has the ability to evoke emotional responses. In television shows, movies, commercials, and even the\nbackground music in a store, music has a message and seems to easily draw a response from those who hear it –\njoy, sadness, fear, victory. Are these types of musical cues cultural universals?\nIn 2009, a team of psychologists, led by Thomas Fritz of the Max Planck Institute for Human Cognitive and Brain\nSciences in Leipzig, Germany, studied people’s reactions to m",
+        "context_ids": [
+          "openstax-introduction-sociology-3e-p0272-paragraph-0000",
+          "openstax-introduction-sociology-3e-p0141-paragraph-0001",
+          "openstax-introduction-sociology-3e-p0274-paragraph-0003",
+          "openstax-introduction-sociology-3e-p0080-paragraph-0004"
+        ]
+      },
+      {
+        "event": "search_limit"
+      }
+    ]
+  },
+  {
+    "query_id": "q25",
+    "question": "What percentage of remote workers in Singapore reported burnout in the 2025 Ministry of Manpower survey?",
+    "answerable": false,
+    "model": "openai/gpt-4o-mini",
+    "method": "hybrid",
+    "elapsed_s": 6.352,
+    "usage": [
+      {
+        "latency_ms": 1225.71,
+        "prompt_tokens": 279,
+        "completion_tokens": 24,
+        "total_tokens": 303
+      },
+      {
+        "latency_ms": 1186.7,
+        "prompt_tokens": 1143,
+        "completion_tokens": 24,
+        "total_tokens": 1167
+      },
+      {
+        "latency_ms": 1313.98,
+        "prompt_tokens": 1156,
+        "completion_tokens": 24,
+        "total_tokens": 1180
+      },
+      {
+        "latency_ms": 1286.7,
+        "prompt_tokens": 1169,
+        "completion_tokens": 24,
+        "total_tokens": 1193
+      },
+      {
+        "latency_ms": 1265.55,
+        "prompt_tokens": 1182,
+        "completion_tokens": 24,
+        "total_tokens": 1206
+      }
+    ],
+    "total_tokens": 5049,
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "2025 Ministry of Manpower survey remote workers burnout Singapore",
+        "filter": null,
+        "results": [
+          {
+            "id": "openstax-introduction-sociology-3e-p0277-paragraph-0002",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 277,
+            "text": "ght be Parvati or Indira. It might be the middle of the night in that country, yet these service providers\npick up the line saying, “Good morning,” as though they are in the next town over. They know everything about\nyour phone or your modem, often using a remote server to log in to your home computer to accomplish what is\nneeded. These are the workers of the twenty-first century. They are not on factory floors or in traditional\nsweatshops; they are educated, speak at least two languages, and usually have significant technology skills.\nThey are skilled workers, but they are paid a fraction of what similar workers are paid in the United States. For\nBIG PICTURE\n10.1 • Global Stratification and Classification 265",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 719
+            },
+            "score": 0.032787
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0141-paragraph-0001",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 141,
+            "text": "00 wounded (Crampton 2002).\nThe protest affirms that textbooks are a significant tool of socialization in state-run education systems.\nThe Workplace\nFIGURE 5.6 Workplace socialization occurs informally and formally, and may include material and non-material\nculture (Credit: U.S. Department of Agriculture/flickr).\nJust as children spend much of their day at school, many U.S. adults at some point invest a significant amount\nof time at a place of employment. Although socialized into their culture since birth, workers require new\nsocialization into a workplace, in terms of both material culture (such as how to operate the copy machine) and\nnonmaterial culture (such as whether it’s okay to speak directly to the boss or how to share the refrigerator). In\nthe chapter introduction, Noel did not fu",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.016129
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0541-paragraph-0003",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 541,
+            "text": "ds continual\ntraining and retraining. Workers move from rural areas to cities as they become centers of economic activity,\nand the government takes a larger role in providing expanded public services (Kerr et al. 1960).\nSupporters of the theory point to Germany, France, and Japan—countries that rapidly rebuilt their economies\nafter World War II. They point out how, in the 1960s and 1970s, East Asian countries like Singapore, South\nKorea, and Taiwan converged with countries with developed economies. They are now considered developed\ncountries themselves.\n18.1 • Economic Systems 529",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 587
+            },
+            "score": 0.016129
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0292-paragraph-0003",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 292,
+            "text": "primark).\nInstitute for Global Labour and Human Rights. 2014. \"Rana Plaza: A Look Back and Forward.\" Global Labour\nRights. Retrieved November 7, 2014 (http://www.globallabourrights.org/campaigns/factory-collapse-in-\nbangladesh).\nInternational Labour Organization, Department of Communication. 2014. \"Post Rana Plaza: A Vision for the\n280 10 • Further Research\nAccess for free at openstax.org",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 391
+            },
+            "score": 0.015873
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0383-paragraph-0001",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 383,
+            "text": ".\nCertainly, as Boomers age, they will put increasing burdens on the entire U.S. healthcare system. The\nAmerican Geriatrics Society notes that from 2013-2025, there will be a 45 percent increase in demand for\nphysicians who specialize in geriatrics. As a result, over 33,000 specialists will be needed to fill the healthcare\nneeds in 2025. And in 2020, there were only 6,320 such specialists in the United States (AGS 2021).\nUnlike the elderly of previous generations, Boomers do not expect that turning sixty-five means their active\nlives are over. They are not willing to abandon work or leisure activities, but they may need more medical\nsupport to keep living vigorous lives. This desire of a large group of over-sixty-five-year-olds wanting to\ncontinue with a high activity level is driving inno",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.015873
+          }
+        ],
+        "context": "[openstax-introduction-sociology-3e-p0277-paragraph-0002 | openstax-introduction-sociology-3e | page 277]\nght be Parvati or Indira. It might be the middle of the night in that country, yet these service providers\npick up the line saying, “Good morning,” as though they are in the next town over. They know everything about\nyour phone or your modem, often using a remote server to log in to your home computer to accomplish what is\nneeded. These are the workers of the twenty-first century. They are not on factory floors or in traditional\nsweatshops; they are educated, speak at least two languages, and usually have significant technology skills.\nThey are skilled workers, but they are paid a fraction of what similar workers are paid in the United States. For\nBIG PICTURE\n10.1 • Global Stratification and Classification 265\n\n[openstax-introduction-sociology-3e-p0141-paragraph-0001 | openstax-introduction-sociology-3e | page 141]\n00 wounded (Crampton 2002).\nThe protest affirms that textbooks are a significant tool of socialization in state-run education systems.\nThe Workplace\nFIGURE 5.6 Workplace socialization occurs informally and formally, and may include material and non-material\nculture (Credit: U.S. Department of Agriculture/flickr).\nJust as children spend much of their day at school, many U.S. adults at some point invest a significant amount\nof time at a place of employment. Although socialized into their culture since birth, workers require new\nsocialization into a workplace, in terms of both material culture (such as how to operate the copy machine) and\nnonmaterial culture (such as whether it’s okay to speak directly to the boss or how to share the refrigerator). In\nthe chapter introduction, Noel did not fu\n\n[openstax-introduction-sociology-3e-p0541-paragraph-0003 | openstax-introduction-sociology-3e | page 541]\nds continual\ntraining and retraining. Workers move from rural areas to cities as they become centers of economic activity,\nand the government takes a larger role in providing expanded public services (Kerr et al. 1960).\nSupporters of the theory point to Germany, France, and Japan—countries that rapidly rebuilt their economies\nafter World War II. They point out how, in the 1960s and 1970s, East Asian countries like Singapore, South\nKorea, and Taiwan converged with countries with developed economies. They are now considered developed\ncountries themselves.\n18.1 • Economic Systems 529\n\n[openstax-introduction-sociology-3e-p0292-paragraph-0003 | openstax-introduction-sociology-3e | page 292]\nprimark).\nInstitute for Global Labour and Human Rights. 2014. \"Rana Plaza: A Look Back and Forward.\" Global Labour\nRights. Retrieved November 7, 2014 (http://www.globallabourrights.org/campaigns/factory-collapse-in-\nbangladesh).\nInternational Labour Organization, Department of Communication. 2014. \"Post Rana Plaza: A Vision for the\n280 10 • Further Research\nAccess for free at openstax.org",
+        "context_ids": [
+          "openstax-introduction-sociology-3e-p0277-paragraph-0002",
+          "openstax-introduction-sociology-3e-p0141-paragraph-0001",
+          "openstax-introduction-sociology-3e-p0541-paragraph-0003",
+          "openstax-introduction-sociology-3e-p0292-paragraph-0003"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "2025 Ministry of Manpower survey remote workers burnout Singapore",
+        "filter": null,
+        "results": [
+          {
+            "id": "openstax-introduction-sociology-3e-p0277-paragraph-0002",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 277,
+            "text": "ght be Parvati or Indira. It might be the middle of the night in that country, yet these service providers\npick up the line saying, “Good morning,” as though they are in the next town over. They know everything about\nyour phone or your modem, often using a remote server to log in to your home computer to accomplish what is\nneeded. These are the workers of the twenty-first century. They are not on factory floors or in traditional\nsweatshops; they are educated, speak at least two languages, and usually have significant technology skills.\nThey are skilled workers, but they are paid a fraction of what similar workers are paid in the United States. For\nBIG PICTURE\n10.1 • Global Stratification and Classification 265",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 719
+            },
+            "score": 0.032787
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0141-paragraph-0001",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 141,
+            "text": "00 wounded (Crampton 2002).\nThe protest affirms that textbooks are a significant tool of socialization in state-run education systems.\nThe Workplace\nFIGURE 5.6 Workplace socialization occurs informally and formally, and may include material and non-material\nculture (Credit: U.S. Department of Agriculture/flickr).\nJust as children spend much of their day at school, many U.S. adults at some point invest a significant amount\nof time at a place of employment. Although socialized into their culture since birth, workers require new\nsocialization into a workplace, in terms of both material culture (such as how to operate the copy machine) and\nnonmaterial culture (such as whether it’s okay to speak directly to the boss or how to share the refrigerator). In\nthe chapter introduction, Noel did not fu",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.016129
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0541-paragraph-0003",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 541,
+            "text": "ds continual\ntraining and retraining. Workers move from rural areas to cities as they become centers of economic activity,\nand the government takes a larger role in providing expanded public services (Kerr et al. 1960).\nSupporters of the theory point to Germany, France, and Japan—countries that rapidly rebuilt their economies\nafter World War II. They point out how, in the 1960s and 1970s, East Asian countries like Singapore, South\nKorea, and Taiwan converged with countries with developed economies. They are now considered developed\ncountries themselves.\n18.1 • Economic Systems 529",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 587
+            },
+            "score": 0.016129
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0292-paragraph-0003",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 292,
+            "text": "primark).\nInstitute for Global Labour and Human Rights. 2014. \"Rana Plaza: A Look Back and Forward.\" Global Labour\nRights. Retrieved November 7, 2014 (http://www.globallabourrights.org/campaigns/factory-collapse-in-\nbangladesh).\nInternational Labour Organization, Department of Communication. 2014. \"Post Rana Plaza: A Vision for the\n280 10 • Further Research\nAccess for free at openstax.org",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 391
+            },
+            "score": 0.015873
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0383-paragraph-0001",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 383,
+            "text": ".\nCertainly, as Boomers age, they will put increasing burdens on the entire U.S. healthcare system. The\nAmerican Geriatrics Society notes that from 2013-2025, there will be a 45 percent increase in demand for\nphysicians who specialize in geriatrics. As a result, over 33,000 specialists will be needed to fill the healthcare\nneeds in 2025. And in 2020, there were only 6,320 such specialists in the United States (AGS 2021).\nUnlike the elderly of previous generations, Boomers do not expect that turning sixty-five means their active\nlives are over. They are not willing to abandon work or leisure activities, but they may need more medical\nsupport to keep living vigorous lives. This desire of a large group of over-sixty-five-year-olds wanting to\ncontinue with a high activity level is driving inno",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.015873
+          }
+        ],
+        "context": "[openstax-introduction-sociology-3e-p0277-paragraph-0002 | openstax-introduction-sociology-3e | page 277]\nght be Parvati or Indira. It might be the middle of the night in that country, yet these service providers\npick up the line saying, “Good morning,” as though they are in the next town over. They know everything about\nyour phone or your modem, often using a remote server to log in to your home computer to accomplish what is\nneeded. These are the workers of the twenty-first century. They are not on factory floors or in traditional\nsweatshops; they are educated, speak at least two languages, and usually have significant technology skills.\nThey are skilled workers, but they are paid a fraction of what similar workers are paid in the United States. For\nBIG PICTURE\n10.1 • Global Stratification and Classification 265\n\n[openstax-introduction-sociology-3e-p0141-paragraph-0001 | openstax-introduction-sociology-3e | page 141]\n00 wounded (Crampton 2002).\nThe protest affirms that textbooks are a significant tool of socialization in state-run education systems.\nThe Workplace\nFIGURE 5.6 Workplace socialization occurs informally and formally, and may include material and non-material\nculture (Credit: U.S. Department of Agriculture/flickr).\nJust as children spend much of their day at school, many U.S. adults at some point invest a significant amount\nof time at a place of employment. Although socialized into their culture since birth, workers require new\nsocialization into a workplace, in terms of both material culture (such as how to operate the copy machine) and\nnonmaterial culture (such as whether it’s okay to speak directly to the boss or how to share the refrigerator). In\nthe chapter introduction, Noel did not fu\n\n[openstax-introduction-sociology-3e-p0541-paragraph-0003 | openstax-introduction-sociology-3e | page 541]\nds continual\ntraining and retraining. Workers move from rural areas to cities as they become centers of economic activity,\nand the government takes a larger role in providing expanded public services (Kerr et al. 1960).\nSupporters of the theory point to Germany, France, and Japan—countries that rapidly rebuilt their economies\nafter World War II. They point out how, in the 1960s and 1970s, East Asian countries like Singapore, South\nKorea, and Taiwan converged with countries with developed economies. They are now considered developed\ncountries themselves.\n18.1 • Economic Systems 529\n\n[openstax-introduction-sociology-3e-p0292-paragraph-0003 | openstax-introduction-sociology-3e | page 292]\nprimark).\nInstitute for Global Labour and Human Rights. 2014. \"Rana Plaza: A Look Back and Forward.\" Global Labour\nRights. Retrieved November 7, 2014 (http://www.globallabourrights.org/campaigns/factory-collapse-in-\nbangladesh).\nInternational Labour Organization, Department of Communication. 2014. \"Post Rana Plaza: A Vision for the\n280 10 • Further Research\nAccess for free at openstax.org",
+        "context_ids": [
+          "openstax-introduction-sociology-3e-p0277-paragraph-0002",
+          "openstax-introduction-sociology-3e-p0141-paragraph-0001",
+          "openstax-introduction-sociology-3e-p0541-paragraph-0003",
+          "openstax-introduction-sociology-3e-p0292-paragraph-0003"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "2025 Ministry of Manpower survey remote workers burnout Singapore",
+        "filter": null,
+        "results": [
+          {
+            "id": "openstax-introduction-sociology-3e-p0277-paragraph-0002",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 277,
+            "text": "ght be Parvati or Indira. It might be the middle of the night in that country, yet these service providers\npick up the line saying, “Good morning,” as though they are in the next town over. They know everything about\nyour phone or your modem, often using a remote server to log in to your home computer to accomplish what is\nneeded. These are the workers of the twenty-first century. They are not on factory floors or in traditional\nsweatshops; they are educated, speak at least two languages, and usually have significant technology skills.\nThey are skilled workers, but they are paid a fraction of what similar workers are paid in the United States. For\nBIG PICTURE\n10.1 • Global Stratification and Classification 265",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 719
+            },
+            "score": 0.032787
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0141-paragraph-0001",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 141,
+            "text": "00 wounded (Crampton 2002).\nThe protest affirms that textbooks are a significant tool of socialization in state-run education systems.\nThe Workplace\nFIGURE 5.6 Workplace socialization occurs informally and formally, and may include material and non-material\nculture (Credit: U.S. Department of Agriculture/flickr).\nJust as children spend much of their day at school, many U.S. adults at some point invest a significant amount\nof time at a place of employment. Although socialized into their culture since birth, workers require new\nsocialization into a workplace, in terms of both material culture (such as how to operate the copy machine) and\nnonmaterial culture (such as whether it’s okay to speak directly to the boss or how to share the refrigerator). In\nthe chapter introduction, Noel did not fu",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.016129
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0541-paragraph-0003",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 541,
+            "text": "ds continual\ntraining and retraining. Workers move from rural areas to cities as they become centers of economic activity,\nand the government takes a larger role in providing expanded public services (Kerr et al. 1960).\nSupporters of the theory point to Germany, France, and Japan—countries that rapidly rebuilt their economies\nafter World War II. They point out how, in the 1960s and 1970s, East Asian countries like Singapore, South\nKorea, and Taiwan converged with countries with developed economies. They are now considered developed\ncountries themselves.\n18.1 • Economic Systems 529",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 587
+            },
+            "score": 0.016129
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0292-paragraph-0003",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 292,
+            "text": "primark).\nInstitute for Global Labour and Human Rights. 2014. \"Rana Plaza: A Look Back and Forward.\" Global Labour\nRights. Retrieved November 7, 2014 (http://www.globallabourrights.org/campaigns/factory-collapse-in-\nbangladesh).\nInternational Labour Organization, Department of Communication. 2014. \"Post Rana Plaza: A Vision for the\n280 10 • Further Research\nAccess for free at openstax.org",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 391
+            },
+            "score": 0.015873
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0383-paragraph-0001",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 383,
+            "text": ".\nCertainly, as Boomers age, they will put increasing burdens on the entire U.S. healthcare system. The\nAmerican Geriatrics Society notes that from 2013-2025, there will be a 45 percent increase in demand for\nphysicians who specialize in geriatrics. As a result, over 33,000 specialists will be needed to fill the healthcare\nneeds in 2025. And in 2020, there were only 6,320 such specialists in the United States (AGS 2021).\nUnlike the elderly of previous generations, Boomers do not expect that turning sixty-five means their active\nlives are over. They are not willing to abandon work or leisure activities, but they may need more medical\nsupport to keep living vigorous lives. This desire of a large group of over-sixty-five-year-olds wanting to\ncontinue with a high activity level is driving inno",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.015873
+          }
+        ],
+        "context": "[openstax-introduction-sociology-3e-p0277-paragraph-0002 | openstax-introduction-sociology-3e | page 277]\nght be Parvati or Indira. It might be the middle of the night in that country, yet these service providers\npick up the line saying, “Good morning,” as though they are in the next town over. They know everything about\nyour phone or your modem, often using a remote server to log in to your home computer to accomplish what is\nneeded. These are the workers of the twenty-first century. They are not on factory floors or in traditional\nsweatshops; they are educated, speak at least two languages, and usually have significant technology skills.\nThey are skilled workers, but they are paid a fraction of what similar workers are paid in the United States. For\nBIG PICTURE\n10.1 • Global Stratification and Classification 265\n\n[openstax-introduction-sociology-3e-p0141-paragraph-0001 | openstax-introduction-sociology-3e | page 141]\n00 wounded (Crampton 2002).\nThe protest affirms that textbooks are a significant tool of socialization in state-run education systems.\nThe Workplace\nFIGURE 5.6 Workplace socialization occurs informally and formally, and may include material and non-material\nculture (Credit: U.S. Department of Agriculture/flickr).\nJust as children spend much of their day at school, many U.S. adults at some point invest a significant amount\nof time at a place of employment. Although socialized into their culture since birth, workers require new\nsocialization into a workplace, in terms of both material culture (such as how to operate the copy machine) and\nnonmaterial culture (such as whether it’s okay to speak directly to the boss or how to share the refrigerator). In\nthe chapter introduction, Noel did not fu\n\n[openstax-introduction-sociology-3e-p0541-paragraph-0003 | openstax-introduction-sociology-3e | page 541]\nds continual\ntraining and retraining. Workers move from rural areas to cities as they become centers of economic activity,\nand the government takes a larger role in providing expanded public services (Kerr et al. 1960).\nSupporters of the theory point to Germany, France, and Japan—countries that rapidly rebuilt their economies\nafter World War II. They point out how, in the 1960s and 1970s, East Asian countries like Singapore, South\nKorea, and Taiwan converged with countries with developed economies. They are now considered developed\ncountries themselves.\n18.1 • Economic Systems 529\n\n[openstax-introduction-sociology-3e-p0292-paragraph-0003 | openstax-introduction-sociology-3e | page 292]\nprimark).\nInstitute for Global Labour and Human Rights. 2014. \"Rana Plaza: A Look Back and Forward.\" Global Labour\nRights. Retrieved November 7, 2014 (http://www.globallabourrights.org/campaigns/factory-collapse-in-\nbangladesh).\nInternational Labour Organization, Department of Communication. 2014. \"Post Rana Plaza: A Vision for the\n280 10 • Further Research\nAccess for free at openstax.org",
+        "context_ids": [
+          "openstax-introduction-sociology-3e-p0277-paragraph-0002",
+          "openstax-introduction-sociology-3e-p0141-paragraph-0001",
+          "openstax-introduction-sociology-3e-p0541-paragraph-0003",
+          "openstax-introduction-sociology-3e-p0292-paragraph-0003"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "2025 Ministry of Manpower survey remote workers burnout Singapore",
+        "filter": null,
+        "results": [
+          {
+            "id": "openstax-introduction-sociology-3e-p0277-paragraph-0002",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 277,
+            "text": "ght be Parvati or Indira. It might be the middle of the night in that country, yet these service providers\npick up the line saying, “Good morning,” as though they are in the next town over. They know everything about\nyour phone or your modem, often using a remote server to log in to your home computer to accomplish what is\nneeded. These are the workers of the twenty-first century. They are not on factory floors or in traditional\nsweatshops; they are educated, speak at least two languages, and usually have significant technology skills.\nThey are skilled workers, but they are paid a fraction of what similar workers are paid in the United States. For\nBIG PICTURE\n10.1 • Global Stratification and Classification 265",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 719
+            },
+            "score": 0.032787
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0141-paragraph-0001",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 141,
+            "text": "00 wounded (Crampton 2002).\nThe protest affirms that textbooks are a significant tool of socialization in state-run education systems.\nThe Workplace\nFIGURE 5.6 Workplace socialization occurs informally and formally, and may include material and non-material\nculture (Credit: U.S. Department of Agriculture/flickr).\nJust as children spend much of their day at school, many U.S. adults at some point invest a significant amount\nof time at a place of employment. Although socialized into their culture since birth, workers require new\nsocialization into a workplace, in terms of both material culture (such as how to operate the copy machine) and\nnonmaterial culture (such as whether it’s okay to speak directly to the boss or how to share the refrigerator). In\nthe chapter introduction, Noel did not fu",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.016129
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0541-paragraph-0003",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 541,
+            "text": "ds continual\ntraining and retraining. Workers move from rural areas to cities as they become centers of economic activity,\nand the government takes a larger role in providing expanded public services (Kerr et al. 1960).\nSupporters of the theory point to Germany, France, and Japan—countries that rapidly rebuilt their economies\nafter World War II. They point out how, in the 1960s and 1970s, East Asian countries like Singapore, South\nKorea, and Taiwan converged with countries with developed economies. They are now considered developed\ncountries themselves.\n18.1 • Economic Systems 529",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 587
+            },
+            "score": 0.016129
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0292-paragraph-0003",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 292,
+            "text": "primark).\nInstitute for Global Labour and Human Rights. 2014. \"Rana Plaza: A Look Back and Forward.\" Global Labour\nRights. Retrieved November 7, 2014 (http://www.globallabourrights.org/campaigns/factory-collapse-in-\nbangladesh).\nInternational Labour Organization, Department of Communication. 2014. \"Post Rana Plaza: A Vision for the\n280 10 • Further Research\nAccess for free at openstax.org",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 391
+            },
+            "score": 0.015873
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0383-paragraph-0001",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 383,
+            "text": ".\nCertainly, as Boomers age, they will put increasing burdens on the entire U.S. healthcare system. The\nAmerican Geriatrics Society notes that from 2013-2025, there will be a 45 percent increase in demand for\nphysicians who specialize in geriatrics. As a result, over 33,000 specialists will be needed to fill the healthcare\nneeds in 2025. And in 2020, there were only 6,320 such specialists in the United States (AGS 2021).\nUnlike the elderly of previous generations, Boomers do not expect that turning sixty-five means their active\nlives are over. They are not willing to abandon work or leisure activities, but they may need more medical\nsupport to keep living vigorous lives. This desire of a large group of over-sixty-five-year-olds wanting to\ncontinue with a high activity level is driving inno",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.015873
+          }
+        ],
+        "context": "[openstax-introduction-sociology-3e-p0277-paragraph-0002 | openstax-introduction-sociology-3e | page 277]\nght be Parvati or Indira. It might be the middle of the night in that country, yet these service providers\npick up the line saying, “Good morning,” as though they are in the next town over. They know everything about\nyour phone or your modem, often using a remote server to log in to your home computer to accomplish what is\nneeded. These are the workers of the twenty-first century. They are not on factory floors or in traditional\nsweatshops; they are educated, speak at least two languages, and usually have significant technology skills.\nThey are skilled workers, but they are paid a fraction of what similar workers are paid in the United States. For\nBIG PICTURE\n10.1 • Global Stratification and Classification 265\n\n[openstax-introduction-sociology-3e-p0141-paragraph-0001 | openstax-introduction-sociology-3e | page 141]\n00 wounded (Crampton 2002).\nThe protest affirms that textbooks are a significant tool of socialization in state-run education systems.\nThe Workplace\nFIGURE 5.6 Workplace socialization occurs informally and formally, and may include material and non-material\nculture (Credit: U.S. Department of Agriculture/flickr).\nJust as children spend much of their day at school, many U.S. adults at some point invest a significant amount\nof time at a place of employment. Although socialized into their culture since birth, workers require new\nsocialization into a workplace, in terms of both material culture (such as how to operate the copy machine) and\nnonmaterial culture (such as whether it’s okay to speak directly to the boss or how to share the refrigerator). In\nthe chapter introduction, Noel did not fu\n\n[openstax-introduction-sociology-3e-p0541-paragraph-0003 | openstax-introduction-sociology-3e | page 541]\nds continual\ntraining and retraining. Workers move from rural areas to cities as they become centers of economic activity,\nand the government takes a larger role in providing expanded public services (Kerr et al. 1960).\nSupporters of the theory point to Germany, France, and Japan—countries that rapidly rebuilt their economies\nafter World War II. They point out how, in the 1960s and 1970s, East Asian countries like Singapore, South\nKorea, and Taiwan converged with countries with developed economies. They are now considered developed\ncountries themselves.\n18.1 • Economic Systems 529\n\n[openstax-introduction-sociology-3e-p0292-paragraph-0003 | openstax-introduction-sociology-3e | page 292]\nprimark).\nInstitute for Global Labour and Human Rights. 2014. \"Rana Plaza: A Look Back and Forward.\" Global Labour\nRights. Retrieved November 7, 2014 (http://www.globallabourrights.org/campaigns/factory-collapse-in-\nbangladesh).\nInternational Labour Organization, Department of Communication. 2014. \"Post Rana Plaza: A Vision for the\n280 10 • Further Research\nAccess for free at openstax.org",
+        "context_ids": [
+          "openstax-introduction-sociology-3e-p0277-paragraph-0002",
+          "openstax-introduction-sociology-3e-p0141-paragraph-0001",
+          "openstax-introduction-sociology-3e-p0541-paragraph-0003",
+          "openstax-introduction-sociology-3e-p0292-paragraph-0003"
+        ]
+      },
+      {
+        "event": "search_limit"
+      }
+    ]
+  }
+]

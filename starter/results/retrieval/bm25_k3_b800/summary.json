@@ -1,0 +1,16 @@
+{
+  "config": "bm25_k3_b800",
+  "split": "test",
+  "n": 6,
+  "top_k": 3,
+  "budget_chars": 800,
+  "hit_at_1": "4/6 (66.7%)",
+  "hit_at_1_rate": 0.6667,
+  "evidence_hit_at_3": "5/6 (83.3%)",
+  "evidence_hit_at_3_rate": 0.8333,
+  "context_evidence_rate": "0/6 (0.0%)",
+  "context_evidence_rate_num": 0.0,
+  "mrr_at_3": 0.75,
+  "total_time_s": 0.06,
+  "avg_latency_ms": 9.95
+}

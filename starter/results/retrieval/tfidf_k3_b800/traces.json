@@ -1,0 +1,194 @@
+[
+  {
+    "id": "q16",
+    "question": "According to the survey data, at what age do Millennials consider someone to be old?",
+    "latency_ms": 11.33,
+    "hit_at_1": false,
+    "evidence_hit_at_3": true,
+    "context_evidence": false,
+    "first_hit_rank": 3,
+    "top3": [
+      {
+        "id": "openstax-introduction-sociology-3e-p0380-paragraph-0002",
+        "page": 380,
+        "score": 0.3137556596652842,
+        "is_hit": false
+      },
+      {
+        "id": "openstax-introduction-sociology-3e-p0145-paragraph-0000",
+        "page": 145,
+        "score": 0.30191935248877017,
+        "is_hit": false
+      },
+      {
+        "id": "openstax-introduction-sociology-3e-p0381-paragraph-0000",
+        "page": 381,
+        "score": 0.2582006175902298,
+        "is_hit": true
+      }
+    ],
+    "context_ids": [],
+    "context_chars": 0
+  },
+  {
+    "id": "q17",
+    "question": "At what age do Baby Boomers consider the prime of life to be?",
+    "latency_ms": 14.2,
+    "hit_at_1": false,
+    "evidence_hit_at_3": false,
+    "context_evidence": false,
+    "first_hit_rank": null,
+    "top3": [
+      {
+        "id": "openstax-introduction-sociology-3e-p0409-paragraph-0000",
+        "page": 409,
+        "score": 0.36286928976170646,
+        "is_hit": false
+      },
+      {
+        "id": "openstax-introduction-sociology-3e-p0380-paragraph-0002",
+        "page": 380,
+        "score": 0.35869683421819476,
+        "is_hit": false
+      },
+      {
+        "id": "openstax-introduction-sociology-3e-p0382-paragraph-0001",
+        "page": 382,
+        "score": 0.3422090772303268,
+        "is_hit": false
+      }
+    ],
+    "context_ids": [],
+    "context_chars": 0
+  },
+  {
+    "id": "q18",
+    "question": "What was Korea's relationship with Japan in the early twentieth century?",
+    "latency_ms": 10.29,
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "context_evidence": false,
+    "first_hit_rank": 1,
+    "top3": [
+      {
+        "id": "openstax-introduction-sociology-3e-p0141-paragraph-0000",
+        "page": 141,
+        "score": 0.17780035220416346,
+        "is_hit": true
+      },
+      {
+        "id": "openstax-introduction-sociology-3e-p0452-paragraph-0003",
+        "page": 452,
+        "score": 0.15467367113932648,
+        "is_hit": false
+      },
+      {
+        "id": "openstax-introduction-sociology-3e-p0311-paragraph-0001",
+        "page": 311,
+        "score": 0.14970746394624831,
+        "is_hit": false
+      }
+    ],
+    "context_ids": [],
+    "context_chars": 0
+  },
+  {
+    "id": "q19",
+    "question": "What is miscegenation and when was it considered illegal?",
+    "latency_ms": 7.56,
+    "hit_at_1": false,
+    "evidence_hit_at_3": true,
+    "context_evidence": false,
+    "first_hit_rank": 2,
+    "top3": [
+      {
+        "id": "openstax-introduction-sociology-3e-p0457-paragraph-0003",
+        "page": 457,
+        "score": 0.18519035150832144,
+        "is_hit": false
+      },
+      {
+        "id": "openstax-introduction-sociology-3e-p0301-paragraph-0000",
+        "page": 301,
+        "score": 0.18332768881209274,
+        "is_hit": true
+      },
+      {
+        "id": "openstax-introduction-sociology-3e-p0184-paragraph-0002",
+        "page": 184,
+        "score": 0.1674209322526502,
+        "is_hit": false
+      }
+    ],
+    "context_ids": [
+      "openstax-introduction-sociology-3e-p0457-paragraph-0003"
+    ],
+    "context_chars": 339
+  },
+  {
+    "id": "q20",
+    "question": "What did Jerry Newman's undercover work at fast food restaurants reveal?",
+    "latency_ms": 7.56,
+    "hit_at_1": true,
+    "evidence_hit_at_3": true,
+    "context_evidence": false,
+    "first_hit_rank": 1,
+    "top3": [
+      {
+        "id": "openstax-introduction-sociology-3e-p0171-paragraph-0000",
+        "page": 171,
+        "score": 0.4113164361309897,
+        "is_hit": true
+      },
+      {
+        "id": "openstax-introduction-sociology-3e-p0170-paragraph-0005",
+        "page": 170,
+        "score": 0.2225324757101528,
+        "is_hit": false
+      },
+      {
+        "id": "openstax-introduction-sociology-3e-p0178-paragraph-0003",
+        "page": 178,
+        "score": 0.144687215575027,
+        "is_hit": false
+      }
+    ],
+    "context_ids": [
+      "openstax-introduction-sociology-3e-p0170-paragraph-0005"
+    ],
+    "context_chars": 610
+  },
+  {
+    "id": "q21",
+    "question": "What is the role of the independent variable in sociological research as explained in the textbook?",
+    "latency_ms": 9.11,
+    "hit_at_1": false,
+    "evidence_hit_at_3": true,
+    "context_evidence": false,
+    "first_hit_rank": 3,
+    "top3": [
+      {
+        "id": "openstax-introduction-sociology-3e-p0050-paragraph-0002",
+        "page": 50,
+        "score": 0.5104437727759839,
+        "is_hit": false
+      },
+      {
+        "id": "openstax-introduction-sociology-3e-p0050-paragraph-0004",
+        "page": 50,
+        "score": 0.3401387897394676,
+        "is_hit": false
+      },
+      {
+        "id": "openstax-introduction-sociology-3e-p0051-paragraph-0000",
+        "page": 51,
+        "score": 0.31628402893710533,
+        "is_hit": true
+      }
+    ],
+    "context_ids": [
+      "openstax-introduction-sociology-3e-p0050-paragraph-0004"
+    ],
+    "context_chars": 235
+  }
+]

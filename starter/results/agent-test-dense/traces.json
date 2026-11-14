@@ -1,0 +1,1243 @@
+[
+  {
+    "query_id": "q16",
+    "question": "According to the survey data, at what age do Millennials consider someone to be old?",
+    "answerable": true,
+    "model": "openai/gpt-4o-mini",
+    "method": "dense",
+    "elapsed_s": 3.027,
+    "usage": [
+      {
+        "latency_ms": 1407.59,
+        "prompt_tokens": 276,
+        "completion_tokens": 23,
+        "total_tokens": 299
+      },
+      {
+        "latency_ms": 1601.96,
+        "prompt_tokens": 805,
+        "completion_tokens": 41,
+        "total_tokens": 846
+      }
+    ],
+    "total_tokens": 1145,
+    "status": "answered",
+    "answer": "According to the survey data, Millennials consider someone to be old when they turn 59 years old [openstax-introduction-sociology-3e-p0380-paragraph-0002].",
+    "citations": [
+      "openstax-introduction-sociology-3e-p0380-paragraph-0002"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Millennials consider someone to be old age survey data",
+        "filter": null,
+        "results": [
+          {
+            "id": "openstax-introduction-sociology-3e-p0380-paragraph-0002",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 380,
+            "text": "people in\nsociety. As the table demonstrates, different generations have varying perspectives on aging. Researchers\nasked questions about the ages at which people reach certain milestones or new categories in life. Members of\nthe Baby Boom generation indicate that a person is officially \"old\" when they turn 73 years old. Millennials, a\nmuch younger group, felt that people became old when they turned 59. The same survey asked questions\nabout the end of youth and the prime of life (Emling 2017). Interestingly, Boomers and GenXers both felt that\nyouth \"ended\" by age 31 and that the prime of life didn't start until many years later. Millennials felt that people\nreached the prime of life at age 36, before youth ended at age 40. It's worth noting that at the time of the survey,\nthe Millennials w",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.683864747900784
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0378-paragraph-0002",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 378,
+            "text": "al of their families and communities as they were in the past.\nStudying Aging Populations\nFIGURE 13.3 How old are these people? In modern U.S. society, appearance is not a reliable indicator of age. In\naddition to genetic differences, health habits, hair dyes, and attitudes make traditional signs of aging increasingly\nunreliable. (Credit: Jason Hargrove/flickr)\nSince its creation in 1790, the U.S. Census Bureau has been tracking age in the population. Age is an important\nfactor to analyze with accompanying demographic figures, such as income and health. The population chart\nbelow shows projected age distribution patterns for the next several decades.\n366 13 • Aging and the Elderly\nAccess for free at openstax.org",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 721
+            },
+            "score": 0.6443029966725983
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0381-paragraph-0000",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 381,
+            "text": "Boomer response Gen X response Millennial response\nAt what age does youth end? 31 31 40\nAt what age is the prime of life? 50 47 36\nAt what age is someone old? 73 65 59\nTABLE 13.1 A survey conducted by the U.S. Trust gathered opinion data on the aging\nmilestones and categories. Boomers, Gen X people, and Millennials had generally different\nviews.\nDemographically, the U.S. population has undergone a massive shift both in the overall population of elderly\npeople and their share of the total population. Both are significant and impactful on major policy decisions and\nday-to-day life. In 1900, the population of U.S people over sixty-five years old was 3 million, representing about\n4 percent of the total population. That number increased to 33 million in 1994, and was roughly 12 percent of\nthe t",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.6283533791740907
+          }
+        ],
+        "context": "[openstax-introduction-sociology-3e-p0380-paragraph-0002 | openstax-introduction-sociology-3e | page 380]\npeople in\nsociety. As the table demonstrates, different generations have varying perspectives on aging. Researchers\nasked questions about the ages at which people reach certain milestones or new categories in life. Members of\nthe Baby Boom generation indicate that a person is officially \"old\" when they turn 73 years old. Millennials, a\nmuch younger group, felt that people became old when they turned 59. The same survey asked questions\nabout the end of youth and the prime of life (Emling 2017). Interestingly, Boomers and GenXers both felt that\nyouth \"ended\" by age 31 and that the prime of life didn't start until many years later. Millennials felt that people\nreached the prime of life at age 36, before youth ended at age 40. It's worth noting that at the time of the survey,\nthe Millennials w\n\n[openstax-introduction-sociology-3e-p0378-paragraph-0002 | openstax-introduction-sociology-3e | page 378]\nal of their families and communities as they were in the past.\nStudying Aging Populations\nFIGURE 13.3 How old are these people? In modern U.S. society, appearance is not a reliable indicator of age. In\naddition to genetic differences, health habits, hair dyes, and attitudes make traditional signs of aging increasingly\nunreliable. (Credit: Jason Hargrove/flickr)\nSince its creation in 1790, the U.S. Census Bureau has been tracking age in the population. Age is an important\nfactor to analyze with accompanying demographic figures, such as income and health. The population chart\nbelow shows projected age distribution patterns for the next several decades.\n366 13 • Aging and the Elderly\nAccess for free at openstax.org",
+        "context_ids": [
+          "openstax-introduction-sociology-3e-p0380-paragraph-0002",
+          "openstax-introduction-sociology-3e-p0378-paragraph-0002"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ]
+  },
+  {
+    "query_id": "q17",
+    "question": "At what age do Baby Boomers consider the prime of life to be?",
+    "answerable": true,
+    "model": "openai/gpt-4o-mini",
+    "method": "dense",
+    "elapsed_s": 4.236,
+    "usage": [
+      {
+        "latency_ms": 1626.89,
+        "prompt_tokens": 274,
+        "completion_tokens": 20,
+        "total_tokens": 294
+      },
+      {
+        "latency_ms": 2597.55,
+        "prompt_tokens": 842,
+        "completion_tokens": 128,
+        "total_tokens": 970
+      }
+    ],
+    "total_tokens": 1264,
+    "status": "answered",
+    "answer": "Baby Boomers consider the prime of life to start many years after youth ends, with both Boomers and GenXers indicating that youth \"ended\" by age 31. The specific age at which they believe the prime of life begins is not explicitly stated in the retrieved context, but it is noted that Millennials felt the prime of life starts at age 36. Therefore, while the exact age for Baby Boomers is not provided, it is implied that it is later than 31 years old, aligning with their perspective on aging [openstax-introduction-sociology-3e-p0380-paragraph-0002].",
+    "citations": [
+      "openstax-introduction-sociology-3e-p0380-paragraph-0002"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Baby Boomers prime of life age",
+        "filter": null,
+        "results": [
+          {
+            "id": "openstax-introduction-sociology-3e-p0382-paragraph-0000",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 382,
+            "text": "FIGURE 13.6 This U.S. Census graph shows the number of males per 100 females. However, over the past two\ndecades, men have narrowed the percentage by which women outlive them. (Credit: the U.S. Census Bureau)\nBaby Boomers\nOf particular interest to gerontologists today is the population of Baby Boomers, the cohort born between\n1946 and 1964 and now reaching their 60s and 70s. Coming of age in the 1960s and early 1970s, the baby\nboom generation was the first group of children and teenagers with their own spending power and therefore\ntheir own marketing power (Macunovich 2000). As this group has aged, it has redefined what it means to be\nyoung, middle-aged, and now old. People in the Boomer generation do not want to grow old the way their\ngrandparents did; the result is a wide range of produc",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.7181803918002698
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0380-paragraph-0002",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 380,
+            "text": "people in\nsociety. As the table demonstrates, different generations have varying perspectives on aging. Researchers\nasked questions about the ages at which people reach certain milestones or new categories in life. Members of\nthe Baby Boom generation indicate that a person is officially \"old\" when they turn 73 years old. Millennials, a\nmuch younger group, felt that people became old when they turned 59. The same survey asked questions\nabout the end of youth and the prime of life (Emling 2017). Interestingly, Boomers and GenXers both felt that\nyouth \"ended\" by age 31 and that the prime of life didn't start until many years later. Millennials felt that people\nreached the prime of life at age 36, before youth ended at age 40. It's worth noting that at the time of the survey,\nthe Millennials w",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.7167752702985644
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0411-paragraph-0001",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 411,
+            "text": ", Libby. 2011. “The Baby Boom = The BIG Boom in Healthcare.” Forbes, July 22. Retrieved January 31,\n2012 (http://www.forbes.com/sites/sageworks/2011/07/22/the-baby-boom-the-big-boom-in-healthcare/).\nBookman, Ann, and Delia Kimbrel. 2011. “Families and Elder Care in the Twenty-First Century.” The Future of\nChildren 21:117–140.\nBostrom, Josh. 2005. “Aging Baby Boomers Will Drive Health-Care Innovation.” Infoworld. Retrieved January\n31, 2012 (http://www.infoworld.com/t/business/aging-baby-Boomers-will-drive-health-care-\ninnovation-054).\nCohn, D'Vera and Passel, Jeffrey S. 2018. “A Record 64 Million Americans Live in Multigenerational\nHouseholds.” Pew Research Center. (https://www.pewresearch.org/fact-tank/2018/04/05/a-\nrecord-64-million-americans-live-in-multigenerational-households/)\nCongres",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.7122220077309476
+          }
+        ],
+        "context": "[openstax-introduction-sociology-3e-p0382-paragraph-0000 | openstax-introduction-sociology-3e | page 382]\nFIGURE 13.6 This U.S. Census graph shows the number of males per 100 females. However, over the past two\ndecades, men have narrowed the percentage by which women outlive them. (Credit: the U.S. Census Bureau)\nBaby Boomers\nOf particular interest to gerontologists today is the population of Baby Boomers, the cohort born between\n1946 and 1964 and now reaching their 60s and 70s. Coming of age in the 1960s and early 1970s, the baby\nboom generation was the first group of children and teenagers with their own spending power and therefore\ntheir own marketing power (Macunovich 2000). As this group has aged, it has redefined what it means to be\nyoung, middle-aged, and now old. People in the Boomer generation do not want to grow old the way their\ngrandparents did; the result is a wide range of produc\n\n[openstax-introduction-sociology-3e-p0380-paragraph-0002 | openstax-introduction-sociology-3e | page 380]\npeople in\nsociety. As the table demonstrates, different generations have varying perspectives on aging. Researchers\nasked questions about the ages at which people reach certain milestones or new categories in life. Members of\nthe Baby Boom generation indicate that a person is officially \"old\" when they turn 73 years old. Millennials, a\nmuch younger group, felt that people became old when they turned 59. The same survey asked questions\nabout the end of youth and the prime of life (Emling 2017). Interestingly, Boomers and GenXers both felt that\nyouth \"ended\" by age 31 and that the prime of life didn't start until many years later. Millennials felt that people\nreached the prime of life at age 36, before youth ended at age 40. It's worth noting that at the time of the survey,\nthe Millennials w",
+        "context_ids": [
+          "openstax-introduction-sociology-3e-p0382-paragraph-0000",
+          "openstax-introduction-sociology-3e-p0380-paragraph-0002"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ]
+  },
+  {
+    "query_id": "q18",
+    "question": "What was Korea's relationship with Japan in the early twentieth century?",
+    "answerable": true,
+    "model": "openai/gpt-4o-mini",
+    "method": "dense",
+    "elapsed_s": 3.488,
+    "usage": [
+      {
+        "latency_ms": 1199.16,
+        "prompt_tokens": 272,
+        "completion_tokens": 20,
+        "total_tokens": 292
+      },
+      {
+        "latency_ms": 2277.59,
+        "prompt_tokens": 879,
+        "completion_tokens": 127,
+        "total_tokens": 1006
+      }
+    ],
+    "total_tokens": 1298,
+    "status": "answered",
+    "answer": "In the early twentieth century, Korea was under Japanese colonial rule from 1910 to 1945. During this period, Japan was considered one of Asia's more aggressive nations. The relationship was marked by significant oppression, including the forced sexual slavery of Korean women during World War II, which Japan has been criticized for downplaying in its historical narratives. Additionally, a major Korean independence demonstration in 1919 was dismissed by some Japanese textbooks as a \"riot,\" despite the violent suppression by Japanese soldiers that resulted in thousands of deaths [openstax-introduction-sociology-3e-p0141-paragraph-0000].",
+    "citations": [
+      "openstax-introduction-sociology-3e-p0141-paragraph-0000"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Korea Japan relationship early twentieth century",
+        "filter": null,
+        "results": [
+          {
+            "id": "openstax-introduction-sociology-3e-p0141-paragraph-0000",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 141,
+            "text": "the textbooks glossed over negative events in Japan’s history at the expense of other Asian countries.\nIn the early 1900s, Japan was one of Asia’s more aggressive nations. For instance, it held Korea as a colony\nbetween 1910 and 1945. Today, Koreans argue that the Japanese are whitewashing that colonial history through\nthese textbooks. One major criticism is that they do not mention that, during World War II, the Japanese forced\nKorean women into sexual slavery. The textbooks describe the women as having been “drafted” to work, a\neuphemism that downplays the brutality of what actually occurred. Some Japanese textbooks dismiss an\nimportant Korean independence demonstration in 1919 as a “riot.” In reality, Japanese soldiers attacked\npeaceful demonstrators, leaving roughly 6,000 dead and 15,0",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.6171188992703185
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0153-paragraph-0002",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 153,
+            "text": "neontommy.com/news/2011/01/princess-effect-\nare-girls-too-tangled-disneys-fantasy).\nRoberts, Donald F., Ulla G. Foehr, and Victoria Rideout. 2005. “Parents, Children, and Media: A Kaiser Family\nFoundation Survey.” The Henry J. Kaiser Family Foundation. Retrieved February 14, 2012\n(http://www.kff.org/entmedia/upload/7638.pdf).\nRose, Steve. 2011. “Studio Ghibli: Leave the Boys Behind.” The Guardian, July 14. Retrieved August 2, 2011.\n(http://www.guardian.co.uk/film/2011/jul/14/studio-ghibli-arrietty-heroines).\n“South Koreans Sever Fingers in Anti-Japan Protest.” 2001. The Telegraph. Retrieved January 31, 2012\n(http://www.telegraph.co.uk/news/1337272/South-Koreans-sever-fingers-in-anti-Japan-protest.html).\nU.S. Bureau of Labor Statistics. 2014. “Number of Jobs Held, Labor Market Activity, and",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.45734145225037726
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0319-paragraph-0003",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 319,
+            "text": "government that negotiated with the U.S.\ngovernment to ensure the well-being of their immigrants. Japanese men were able to bring their wives and\nfamilies to the United States, and were thus able to produce second- and third-generation Japanese Americans\nmore quickly than their Chinese counterparts.\nThe most recent large-scale Asian immigration came from Korea and Vietnam and largely took place during\nthe second half of the twentieth century. While Korean immigration has been fairly gradual, Vietnamese\nimmigration occurred primarily post-1975, after the fall of Saigon and the establishment of restrictive\ncommunist policies in Vietnam. Whereas many Asian immigrants came to the United States to seek better\neconomic opportunities, Vietnamese immigrants came as political refugees, seeking asyl",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.4422423969185833
+          }
+        ],
+        "context": "[openstax-introduction-sociology-3e-p0141-paragraph-0000 | openstax-introduction-sociology-3e | page 141]\nthe textbooks glossed over negative events in Japan’s history at the expense of other Asian countries.\nIn the early 1900s, Japan was one of Asia’s more aggressive nations. For instance, it held Korea as a colony\nbetween 1910 and 1945. Today, Koreans argue that the Japanese are whitewashing that colonial history through\nthese textbooks. One major criticism is that they do not mention that, during World War II, the Japanese forced\nKorean women into sexual slavery. The textbooks describe the women as having been “drafted” to work, a\neuphemism that downplays the brutality of what actually occurred. Some Japanese textbooks dismiss an\nimportant Korean independence demonstration in 1919 as a “riot.” In reality, Japanese soldiers attacked\npeaceful demonstrators, leaving roughly 6,000 dead and 15,0\n\n[openstax-introduction-sociology-3e-p0153-paragraph-0002 | openstax-introduction-sociology-3e | page 153]\nneontommy.com/news/2011/01/princess-effect-\nare-girls-too-tangled-disneys-fantasy).\nRoberts, Donald F., Ulla G. Foehr, and Victoria Rideout. 2005. “Parents, Children, and Media: A Kaiser Family\nFoundation Survey.” The Henry J. Kaiser Family Foundation. Retrieved February 14, 2012\n(http://www.kff.org/entmedia/upload/7638.pdf).\nRose, Steve. 2011. “Studio Ghibli: Leave the Boys Behind.” The Guardian, July 14. Retrieved August 2, 2011.\n(http://www.guardian.co.uk/film/2011/jul/14/studio-ghibli-arrietty-heroines).\n“South Koreans Sever Fingers in Anti-Japan Protest.” 2001. The Telegraph. Retrieved January 31, 2012\n(http://www.telegraph.co.uk/news/1337272/South-Koreans-sever-fingers-in-anti-Japan-protest.html).\nU.S. Bureau of Labor Statistics. 2014. “Number of Jobs Held, Labor Market Activity, and",
+        "context_ids": [
+          "openstax-introduction-sociology-3e-p0141-paragraph-0000",
+          "openstax-introduction-sociology-3e-p0153-paragraph-0002"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ]
+  },
+  {
+    "query_id": "q19",
+    "question": "What is miscegenation and when was it considered illegal?",
+    "answerable": true,
+    "model": "openai/gpt-4o-mini",
+    "method": "dense",
+    "elapsed_s": 3.83,
+    "usage": [
+      {
+        "latency_ms": 1159.87,
+        "prompt_tokens": 272,
+        "completion_tokens": 18,
+        "total_tokens": 290
+      },
+      {
+        "latency_ms": 2658.91,
+        "prompt_tokens": 952,
+        "completion_tokens": 90,
+        "total_tokens": 1042
+      }
+    ],
+    "total_tokens": 1332,
+    "status": "answered",
+    "answer": "Miscegenation refers to intermarriage between races, and it was criminalized through antimiscegenation laws, particularly in the Southern United States during the Jim Crow era. These laws were in effect until the landmark Supreme Court case Loving v. Virginia in 1967, which struck down the last of these laws, declaring them unconstitutional [openstax-introduction-sociology-3e-p0311-paragraph-0000].",
+    "citations": [
+      "openstax-introduction-sociology-3e-p0311-paragraph-0000"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "miscegenation illegal",
+        "filter": {
+          "document_type": "textbook"
+        },
+        "results": [
+          {
+            "id": "openstax-introduction-sociology-3e-p0345-paragraph-0003",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 345,
+            "text": "dual can decide for\nthemselves (Behrens 2021). If a physical trait or medical condition prohibits a baby from urinating or\nperforming another bodily function (which is very rare), then a medical procedure such as surgery will be\nneeded; in other cases, hormonal issues related to intersex characteristics may require medical intervention.\n12.1 • Sex, Gender, Identity, and Expression 333",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 387
+            },
+            "score": 0.37253066217422304
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0311-paragraph-0000",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 311,
+            "text": "Amalgamation\nAmalgamation is the process by which a minority group and a majority group combine to form a new group.\nAmalgamation creates the classic “melting pot” analogy; unlike the “salad bowl,” in which each culture retains\nits individuality, the “melting pot” ideal sees the combination of cultures that results in a new culture entirely.\nAmalgamation in the form of miscegenation is achieved through intermarriage between races. In the United\nStates, antimiscegenation laws, which criminalized interracial marriage, flourished in the South during the\nJim Crow era. It wasn’t until 1967’s Loving v. Virginia that the last antimiscegenation law was struck from the\nbooks, making these laws unconstitutional.\nGenocide\nGenocide, the deliberate annihilation of a targeted (usually subordinate) group",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.34916215373787596
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0421-paragraph-0001",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 421,
+            "text": "the same poll. But the poll\nalso found that polygamy was among the least acceptable behaviors considered in the study; for example,\npolygamy was far less acceptable than consensual sex between teenagers, though it was more acceptable than\na married person having an affair (Brenan 2020). The act of entering into marriage while still married to\nanother person is referred to as bigamy and is considered a felony in most states.\nResidency and Lines of Descent\nWhen considering one’s lineage, most people in the United States look to both their father’s and mother’s\nsides. Both paternal and maternal ancestors are considered part of one’s family. This pattern of tracing kinship\nis called bilateral descent. Note that kinship, or one’s traceable ancestry, can be based on blood or marriage\nor adoptio",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 799
+            },
+            "score": 0.3395175551254901
+          }
+        ],
+        "context": "[openstax-introduction-sociology-3e-p0345-paragraph-0003 | openstax-introduction-sociology-3e | page 345]\ndual can decide for\nthemselves (Behrens 2021). If a physical trait or medical condition prohibits a baby from urinating or\nperforming another bodily function (which is very rare), then a medical procedure such as surgery will be\nneeded; in other cases, hormonal issues related to intersex characteristics may require medical intervention.\n12.1 • Sex, Gender, Identity, and Expression 333\n\n[openstax-introduction-sociology-3e-p0311-paragraph-0000 | openstax-introduction-sociology-3e | page 311]\nAmalgamation\nAmalgamation is the process by which a minority group and a majority group combine to form a new group.\nAmalgamation creates the classic “melting pot” analogy; unlike the “salad bowl,” in which each culture retains\nits individuality, the “melting pot” ideal sees the combination of cultures that results in a new culture entirely.\nAmalgamation in the form of miscegenation is achieved through intermarriage between races. In the United\nStates, antimiscegenation laws, which criminalized interracial marriage, flourished in the South during the\nJim Crow era. It wasn’t until 1967’s Loving v. Virginia that the last antimiscegenation law was struck from the\nbooks, making these laws unconstitutional.\nGenocide\nGenocide, the deliberate annihilation of a targeted (usually subordinate) group\n\n[openstax-introduction-sociology-3e-p0421-paragraph-0001 | openstax-introduction-sociology-3e | page 421]\nthe same poll. But the poll\nalso found that polygamy was among the least acceptable behaviors considered in the study; for example,\npolygamy was far less acceptable than consensual sex between teenagers, though it was more acceptable than\na married person having an affair (Brenan 2020). The act of entering into marriage while still married to\nanother person is referred to as bigamy and is considered a felony in most states.\nResidency and Lines of Descent\nWhen considering one’s lineage, most people in the United States look to both their father’s and mother’s\nsides. Both paternal and maternal ancestors are considered part of one’s family. This pattern of tracing kinship\nis called bilateral descent. Note that kinship, or one’s traceable ancestry, can be based on blood or marriage\nor adoptio",
+        "context_ids": [
+          "openstax-introduction-sociology-3e-p0345-paragraph-0003",
+          "openstax-introduction-sociology-3e-p0311-paragraph-0000",
+          "openstax-introduction-sociology-3e-p0421-paragraph-0001"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ]
+  },
+  {
+    "query_id": "q20",
+    "question": "What did Jerry Newman's undercover work at fast food restaurants reveal?",
+    "answerable": true,
+    "model": "openai/gpt-4o-mini",
+    "method": "dense",
+    "elapsed_s": 3.551,
+    "usage": [
+      {
+        "latency_ms": 1039.17,
+        "prompt_tokens": 272,
+        "completion_tokens": 20,
+        "total_tokens": 292
+      },
+      {
+        "latency_ms": 2501.03,
+        "prompt_tokens": 737,
+        "completion_tokens": 120,
+        "total_tokens": 857
+      }
+    ],
+    "total_tokens": 1149,
+    "status": "answered",
+    "answer": "Jerry Newman's undercover work at fast food restaurants revealed that, contrary to common perceptions, these jobs require significant skill and effort. In his book, \"My Secret Life on the McJob,\" he documented his experiences working at seven fast food locations. Newman found that the employees were honest and hardworking, and he noted that management was often impressive. He also highlighted that having a fast-food service job on an applicant's résumé could be seen as a positive indicator of reliability and the ability to handle pressure [openstax-introduction-sociology-3e-p0171-paragraph-0000].",
+    "citations": [
+      "openstax-introduction-sociology-3e-p0171-paragraph-0000"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Jerry Newman undercover work fast food restaurants",
+        "filter": null,
+        "results": [
+          {
+            "id": "openstax-introduction-sociology-3e-p0171-paragraph-0000",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 171,
+            "text": "McJob rather than a real job.\nBut business school professor Jerry Newman went undercover and worked behind the counter at seven fast food\nrestaurants to discover what really goes on there. His book, My Secret Life on the McJob, documents his experience.\nUnlike Schossler, Newman found that these restaurants offer much good alongside the bad. Specifically, he asserted\nthat the employees were honest and hardworking, that management was often impressive, and that the jobs\nrequired a lot more skill and effort than most people imagined. In the book, Newman cites a pharmaceutical\nexecutive who says a fast-food service job on an applicant’s résumé is a plus because it indicates the employee is\nreliable and can handle pressure.\nBusinesses like Chipotle, Panera, and Costco attempt to combat many of",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 799
+            },
+            "score": 0.7066706341998719
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0170-paragraph-0005",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 170,
+            "text": "Food Nation: The Dark Side of the All-American Meal by Eric Schossler, paint\nan ugly picture of what goes in, what goes on, and what comes out of fast food chains. From their environmental\nimpact to their role in the U.S. obesity epidemic, fast food chains are connected to numerous societal ills.\nFurthermore, working at a fast food restaurant is often disparaged, and even referred to dismissively, as having a\nSOCIOLOGY IN THE REAL WORLD\n158 6 • Groups and Organization\nAccess for free at openstax.org",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 504
+            },
+            "score": 0.44342196834771785
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0178-paragraph-0003",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 178,
+            "text": ".\nFuchs, Victor R.. 1997. “Managed Care and Merger Mania,” JAMA 277.11 (920-921).\nGoffman, Erving. 1961. Asylums: Essays on the Social Situation of Mental Patients and Other Inmates. Chicago,\nIL: Aldine.\nMichels, Robert. 1949 [1911]. Political Parties. Glencoe, IL: Free Press.\nNewman, Jerry. 2007. My Secret Life on the McJob. New York: McGraw-Hill.\nRitzer, George. 1993. The McDonaldization of Society. Thousand Oaks, CA: Pine Forge.\nSchlosser, Eric. 2001. Fast Food Nation: The Dark Side of the All-American Meal. Boston: Houghton Mifflin\nCompany.\nUnited States Department of Labor. Bureau of Labor Statistics Occupational Outlook Handbook, 2010–2011\nEdition. Retrieved February 10, 2012 (http://www.bls.gov/oco/ocos162.htm).\n166 6 • References\nAccess for free at openstax.org",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 779
+            },
+            "score": 0.39422246078165574
+          }
+        ],
+        "context": "[openstax-introduction-sociology-3e-p0171-paragraph-0000 | openstax-introduction-sociology-3e | page 171]\nMcJob rather than a real job.\nBut business school professor Jerry Newman went undercover and worked behind the counter at seven fast food\nrestaurants to discover what really goes on there. His book, My Secret Life on the McJob, documents his experience.\nUnlike Schossler, Newman found that these restaurants offer much good alongside the bad. Specifically, he asserted\nthat the employees were honest and hardworking, that management was often impressive, and that the jobs\nrequired a lot more skill and effort than most people imagined. In the book, Newman cites a pharmaceutical\nexecutive who says a fast-food service job on an applicant’s résumé is a plus because it indicates the employee is\nreliable and can handle pressure.\nBusinesses like Chipotle, Panera, and Costco attempt to combat many of\n\n[openstax-introduction-sociology-3e-p0170-paragraph-0005 | openstax-introduction-sociology-3e | page 170]\nFood Nation: The Dark Side of the All-American Meal by Eric Schossler, paint\nan ugly picture of what goes in, what goes on, and what comes out of fast food chains. From their environmental\nimpact to their role in the U.S. obesity epidemic, fast food chains are connected to numerous societal ills.\nFurthermore, working at a fast food restaurant is often disparaged, and even referred to dismissively, as having a\nSOCIOLOGY IN THE REAL WORLD\n158 6 • Groups and Organization\nAccess for free at openstax.org",
+        "context_ids": [
+          "openstax-introduction-sociology-3e-p0171-paragraph-0000",
+          "openstax-introduction-sociology-3e-p0170-paragraph-0005"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ]
+  },
+  {
+    "query_id": "q21",
+    "question": "What is the role of the independent variable in sociological research as explained in the textbook?",
+    "answerable": true,
+    "model": "openai/gpt-4o-mini",
+    "method": "dense",
+    "elapsed_s": 5.809,
+    "usage": [
+      {
+        "latency_ms": 1079.79,
+        "prompt_tokens": 277,
+        "completion_tokens": 19,
+        "total_tokens": 296
+      },
+      {
+        "latency_ms": 1102.28,
+        "prompt_tokens": 769,
+        "completion_tokens": 21,
+        "total_tokens": 790
+      },
+      {
+        "latency_ms": 1155.97,
+        "prompt_tokens": 778,
+        "completion_tokens": 21,
+        "total_tokens": 799
+      },
+      {
+        "latency_ms": 1187.25,
+        "prompt_tokens": 786,
+        "completion_tokens": 21,
+        "total_tokens": 807
+      },
+      {
+        "latency_ms": 1239.67,
+        "prompt_tokens": 794,
+        "completion_tokens": 21,
+        "total_tokens": 815
+      }
+    ],
+    "total_tokens": 3507,
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "independent variable sociological research",
+        "filter": {
+          "document_type": "textbook"
+        },
+        "results": [
+          {
+            "id": "openstax-introduction-sociology-3e-p0056-paragraph-0000",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 56,
+            "text": "FIGURE 2.5 Sociological researchers travel across countries and cultures to interact with and observe subjects in\ntheir natural environments. (Credit: IMLS Digital Collections and Content/flickr)\nWhile field research often begins in a specific setting, the study’s purpose is to observe specific behaviors in\nthat setting. Field work is optimal for observing how people think and behave. It seeks to understand why they\nbehave that way. However, researchers may struggle to narrow down cause and effect when there are so many\nvariables floating around in a natural environment. And while field research looks for correlation, its small\nsample size does not allow for establishing a causal relationship between two variables. Indeed, much of the\ndata gathered in sociology do not identify a cause and",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 799
+            },
+            "score": 0.6279392501392198
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0049-paragraph-0001",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 49,
+            "text": "ey might also study\nenvironmental influences and patterns of behavior that lead to crime, substance abuse, divorce, poverty,\nunplanned pregnancies, or illness. And, because sociological studies are not all focused on negative behaviors\nor challenging situations, social researchers might study vacation trends, healthy eating habits, neighborhood\norganizations, higher education patterns, games, parks, and exercise habits.\nSociologists can use the scientific method not only to collect but also to interpret and analyze data. They\ndeliberately apply scientific logic and objectivity. They are interested in—but not attached to—the results. They\nwork outside of their own political or social agendas. This does not mean researchers do not have their own\npersonalities, complete with preferences and o",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.5815836981057452
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0049-paragraph-0000",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 49,
+            "text": "FIGURE 2.2 The Scientific Method. 6 steps of the scientific method are an essential tool in research.\nSociological research does not reduce knowledge to right or wrong facts. Results of studies tend to provide\npeople with insights they did not have before—explanations of human behaviors and social practices and\naccess to knowledge of other cultures, rituals and beliefs, or trends and attitudes.\nIn general, sociologists tackle questions about the role of social characteristics in outcomes or results. For\nexample, how do different communities fare in terms of psychological well-being, community cohesiveness,\nrange of vocation, wealth, crime rates, and so on? Are communities functioning smoothly? Sociologists often\nlook between the cracks to discover obstacles to meeting basic human needs. Th",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.5792912304998485
+          }
+        ],
+        "context": "[openstax-introduction-sociology-3e-p0056-paragraph-0000 | openstax-introduction-sociology-3e | page 56]\nFIGURE 2.5 Sociological researchers travel across countries and cultures to interact with and observe subjects in\ntheir natural environments. (Credit: IMLS Digital Collections and Content/flickr)\nWhile field research often begins in a specific setting, the study’s purpose is to observe specific behaviors in\nthat setting. Field work is optimal for observing how people think and behave. It seeks to understand why they\nbehave that way. However, researchers may struggle to narrow down cause and effect when there are so many\nvariables floating around in a natural environment. And while field research looks for correlation, its small\nsample size does not allow for establishing a causal relationship between two variables. Indeed, much of the\ndata gathered in sociology do not identify a cause and\n\n[openstax-introduction-sociology-3e-p0049-paragraph-0001 | openstax-introduction-sociology-3e | page 49]\ney might also study\nenvironmental influences and patterns of behavior that lead to crime, substance abuse, divorce, poverty,\nunplanned pregnancies, or illness. And, because sociological studies are not all focused on negative behaviors\nor challenging situations, social researchers might study vacation trends, healthy eating habits, neighborhood\norganizations, higher education patterns, games, parks, and exercise habits.\nSociologists can use the scientific method not only to collect but also to interpret and analyze data. They\ndeliberately apply scientific logic and objectivity. They are interested in—but not attached to—the results. They\nwork outside of their own political or social agendas. This does not mean researchers do not have their own\npersonalities, complete with preferences and o",
+        "context_ids": [
+          "openstax-introduction-sociology-3e-p0056-paragraph-0000",
+          "openstax-introduction-sociology-3e-p0049-paragraph-0001"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "role of independent variable in sociological research",
+        "filter": {
+          "document_type": "textbook"
+        },
+        "results": [
+          {
+            "id": "openstax-introduction-sociology-3e-p0050-paragraph-0002",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 50,
+            "text": ". For example, a hypothesis might be in the form of an “if, then” statement.\nLet’s relate this to our topic of crime: If unemployment increases, then the crime rate will increase.\nIn scientific research, we formulate hypotheses to include an independent variable (IV), which is the cause of\nthe change, and a dependent variable (DV), which is the effect, or thing that is changed. In the example above,\nunemployment is the independent variable and the crime rate is the dependent variable.\nIn a sociological study, the researcher would establish one form of human behavior as the independent\nvariable and observe the influence it has on a dependent variable. How does gender (the independent variable)\naffect rate of income (the dependent variable)? How does one’s religion (the independent variable)",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.6632251883724007
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0050-paragraph-0003",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 50,
+            "text": "affect family\nsize (the dependent variable)? How is social class (the dependent variable) affected by level of education (the\nindependent variable)?\nHypothesis Independent\nVariable\nDependent\nVariable\nThe greater the availability of affordable housing, the lower the\nhomeless rate. Affordable Housing Homeless Rate\nThe greater the availability of math tutoring, the higher the math\ngrades. Math Tutoring Math Grades\nThe greater the police patrol presence, the safer the neighborhood. Police Patrol Presence Safer Neighborhood\nThe greater the factory lighting, the higher the productivity. Factory Lighting Productivity\nThe greater the amount of media coverage, the higher the public\nawareness. Observation Public Awareness\nTABLE 2.1 Examples of Dependent and Independent Variables Typically, the inde",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 799
+            },
+            "score": 0.6288421091779101
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0056-paragraph-0000",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 56,
+            "text": "FIGURE 2.5 Sociological researchers travel across countries and cultures to interact with and observe subjects in\ntheir natural environments. (Credit: IMLS Digital Collections and Content/flickr)\nWhile field research often begins in a specific setting, the study’s purpose is to observe specific behaviors in\nthat setting. Field work is optimal for observing how people think and behave. It seeks to understand why they\nbehave that way. However, researchers may struggle to narrow down cause and effect when there are so many\nvariables floating around in a natural environment. And while field research looks for correlation, its small\nsample size does not allow for establishing a causal relationship between two variables. Indeed, much of the\ndata gathered in sociology do not identify a cause and",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 799
+            },
+            "score": 0.6196134689689778
+          }
+        ],
+        "context": "[openstax-introduction-sociology-3e-p0056-paragraph-0000 | openstax-introduction-sociology-3e | page 56]\nFIGURE 2.5 Sociological researchers travel across countries and cultures to interact with and observe subjects in\ntheir natural environments. (Credit: IMLS Digital Collections and Content/flickr)\nWhile field research often begins in a specific setting, the study’s purpose is to observe specific behaviors in\nthat setting. Field work is optimal for observing how people think and behave. It seeks to understand why they\nbehave that way. However, researchers may struggle to narrow down cause and effect when there are so many\nvariables floating around in a natural environment. And while field research looks for correlation, its small\nsample size does not allow for establishing a causal relationship between two variables. Indeed, much of the\ndata gathered in sociology do not identify a cause and\n\n[openstax-introduction-sociology-3e-p0049-paragraph-0001 | openstax-introduction-sociology-3e | page 49]\ney might also study\nenvironmental influences and patterns of behavior that lead to crime, substance abuse, divorce, poverty,\nunplanned pregnancies, or illness. And, because sociological studies are not all focused on negative behaviors\nor challenging situations, social researchers might study vacation trends, healthy eating habits, neighborhood\norganizations, higher education patterns, games, parks, and exercise habits.\nSociologists can use the scientific method not only to collect but also to interpret and analyze data. They\ndeliberately apply scientific logic and objectivity. They are interested in—but not attached to—the results. They\nwork outside of their own political or social agendas. This does not mean researchers do not have their own\npersonalities, complete with preferences and o",
+        "context_ids": [
+          "openstax-introduction-sociology-3e-p0056-paragraph-0000",
+          "openstax-introduction-sociology-3e-p0049-paragraph-0001"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "independent variable role in sociological research",
+        "filter": {
+          "document_type": "textbook"
+        },
+        "results": [
+          {
+            "id": "openstax-introduction-sociology-3e-p0050-paragraph-0002",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 50,
+            "text": ". For example, a hypothesis might be in the form of an “if, then” statement.\nLet’s relate this to our topic of crime: If unemployment increases, then the crime rate will increase.\nIn scientific research, we formulate hypotheses to include an independent variable (IV), which is the cause of\nthe change, and a dependent variable (DV), which is the effect, or thing that is changed. In the example above,\nunemployment is the independent variable and the crime rate is the dependent variable.\nIn a sociological study, the researcher would establish one form of human behavior as the independent\nvariable and observe the influence it has on a dependent variable. How does gender (the independent variable)\naffect rate of income (the dependent variable)? How does one’s religion (the independent variable)",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.6510320136041845
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0056-paragraph-0000",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 56,
+            "text": "FIGURE 2.5 Sociological researchers travel across countries and cultures to interact with and observe subjects in\ntheir natural environments. (Credit: IMLS Digital Collections and Content/flickr)\nWhile field research often begins in a specific setting, the study’s purpose is to observe specific behaviors in\nthat setting. Field work is optimal for observing how people think and behave. It seeks to understand why they\nbehave that way. However, researchers may struggle to narrow down cause and effect when there are so many\nvariables floating around in a natural environment. And while field research looks for correlation, its small\nsample size does not allow for establishing a causal relationship between two variables. Indeed, much of the\ndata gathered in sociology do not identify a cause and",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 799
+            },
+            "score": 0.6446915413153953
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0049-paragraph-0000",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 49,
+            "text": "FIGURE 2.2 The Scientific Method. 6 steps of the scientific method are an essential tool in research.\nSociological research does not reduce knowledge to right or wrong facts. Results of studies tend to provide\npeople with insights they did not have before—explanations of human behaviors and social practices and\naccess to knowledge of other cultures, rituals and beliefs, or trends and attitudes.\nIn general, sociologists tackle questions about the role of social characteristics in outcomes or results. For\nexample, how do different communities fare in terms of psychological well-being, community cohesiveness,\nrange of vocation, wealth, crime rates, and so on? Are communities functioning smoothly? Sociologists often\nlook between the cracks to discover obstacles to meeting basic human needs. Th",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.6265530675962434
+          }
+        ],
+        "context": "[openstax-introduction-sociology-3e-p0056-paragraph-0000 | openstax-introduction-sociology-3e | page 56]\nFIGURE 2.5 Sociological researchers travel across countries and cultures to interact with and observe subjects in\ntheir natural environments. (Credit: IMLS Digital Collections and Content/flickr)\nWhile field research often begins in a specific setting, the study’s purpose is to observe specific behaviors in\nthat setting. Field work is optimal for observing how people think and behave. It seeks to understand why they\nbehave that way. However, researchers may struggle to narrow down cause and effect when there are so many\nvariables floating around in a natural environment. And while field research looks for correlation, its small\nsample size does not allow for establishing a causal relationship between two variables. Indeed, much of the\ndata gathered in sociology do not identify a cause and\n\n[openstax-introduction-sociology-3e-p0049-paragraph-0001 | openstax-introduction-sociology-3e | page 49]\ney might also study\nenvironmental influences and patterns of behavior that lead to crime, substance abuse, divorce, poverty,\nunplanned pregnancies, or illness. And, because sociological studies are not all focused on negative behaviors\nor challenging situations, social researchers might study vacation trends, healthy eating habits, neighborhood\norganizations, higher education patterns, games, parks, and exercise habits.\nSociologists can use the scientific method not only to collect but also to interpret and analyze data. They\ndeliberately apply scientific logic and objectivity. They are interested in—but not attached to—the results. They\nwork outside of their own political or social agendas. This does not mean researchers do not have their own\npersonalities, complete with preferences and o",
+        "context_ids": [
+          "openstax-introduction-sociology-3e-p0056-paragraph-0000",
+          "openstax-introduction-sociology-3e-p0049-paragraph-0001"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "independent variable role in sociological research",
+        "filter": {
+          "document_type": "textbook"
+        },
+        "results": [
+          {
+            "id": "openstax-introduction-sociology-3e-p0050-paragraph-0002",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 50,
+            "text": ". For example, a hypothesis might be in the form of an “if, then” statement.\nLet’s relate this to our topic of crime: If unemployment increases, then the crime rate will increase.\nIn scientific research, we formulate hypotheses to include an independent variable (IV), which is the cause of\nthe change, and a dependent variable (DV), which is the effect, or thing that is changed. In the example above,\nunemployment is the independent variable and the crime rate is the dependent variable.\nIn a sociological study, the researcher would establish one form of human behavior as the independent\nvariable and observe the influence it has on a dependent variable. How does gender (the independent variable)\naffect rate of income (the dependent variable)? How does one’s religion (the independent variable)",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.6510320136041845
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0056-paragraph-0000",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 56,
+            "text": "FIGURE 2.5 Sociological researchers travel across countries and cultures to interact with and observe subjects in\ntheir natural environments. (Credit: IMLS Digital Collections and Content/flickr)\nWhile field research often begins in a specific setting, the study’s purpose is to observe specific behaviors in\nthat setting. Field work is optimal for observing how people think and behave. It seeks to understand why they\nbehave that way. However, researchers may struggle to narrow down cause and effect when there are so many\nvariables floating around in a natural environment. And while field research looks for correlation, its small\nsample size does not allow for establishing a causal relationship between two variables. Indeed, much of the\ndata gathered in sociology do not identify a cause and",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 799
+            },
+            "score": 0.6446915413153953
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0049-paragraph-0000",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 49,
+            "text": "FIGURE 2.2 The Scientific Method. 6 steps of the scientific method are an essential tool in research.\nSociological research does not reduce knowledge to right or wrong facts. Results of studies tend to provide\npeople with insights they did not have before—explanations of human behaviors and social practices and\naccess to knowledge of other cultures, rituals and beliefs, or trends and attitudes.\nIn general, sociologists tackle questions about the role of social characteristics in outcomes or results. For\nexample, how do different communities fare in terms of psychological well-being, community cohesiveness,\nrange of vocation, wealth, crime rates, and so on? Are communities functioning smoothly? Sociologists often\nlook between the cracks to discover obstacles to meeting basic human needs. Th",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.6265530675962434
+          }
+        ],
+        "context": "[openstax-introduction-sociology-3e-p0056-paragraph-0000 | openstax-introduction-sociology-3e | page 56]\nFIGURE 2.5 Sociological researchers travel across countries and cultures to interact with and observe subjects in\ntheir natural environments. (Credit: IMLS Digital Collections and Content/flickr)\nWhile field research often begins in a specific setting, the study’s purpose is to observe specific behaviors in\nthat setting. Field work is optimal for observing how people think and behave. It seeks to understand why they\nbehave that way. However, researchers may struggle to narrow down cause and effect when there are so many\nvariables floating around in a natural environment. And while field research looks for correlation, its small\nsample size does not allow for establishing a causal relationship between two variables. Indeed, much of the\ndata gathered in sociology do not identify a cause and\n\n[openstax-introduction-sociology-3e-p0049-paragraph-0001 | openstax-introduction-sociology-3e | page 49]\ney might also study\nenvironmental influences and patterns of behavior that lead to crime, substance abuse, divorce, poverty,\nunplanned pregnancies, or illness. And, because sociological studies are not all focused on negative behaviors\nor challenging situations, social researchers might study vacation trends, healthy eating habits, neighborhood\norganizations, higher education patterns, games, parks, and exercise habits.\nSociologists can use the scientific method not only to collect but also to interpret and analyze data. They\ndeliberately apply scientific logic and objectivity. They are interested in—but not attached to—the results. They\nwork outside of their own political or social agendas. This does not mean researchers do not have their own\npersonalities, complete with preferences and o",
+        "context_ids": [
+          "openstax-introduction-sociology-3e-p0056-paragraph-0000",
+          "openstax-introduction-sociology-3e-p0049-paragraph-0001"
+        ]
+      },
+      {
+        "event": "search_limit"
+      }
+    ]
+  },
+  {
+    "query_id": "q24",
+    "question": "How did the European Union's 2024 AI Act classify workplace emotion-recognition systems?",
+    "answerable": false,
+    "model": "openai/gpt-4o-mini",
+    "method": "dense",
+    "elapsed_s": 6.658,
+    "usage": [
+      {
+        "latency_ms": 1186.5,
+        "prompt_tokens": 277,
+        "completion_tokens": 26,
+        "total_tokens": 303
+      },
+      {
+        "latency_ms": 1412.54,
+        "prompt_tokens": 804,
+        "completion_tokens": 26,
+        "total_tokens": 830
+      },
+      {
+        "latency_ms": 1523.55,
+        "prompt_tokens": 818,
+        "completion_tokens": 26,
+        "total_tokens": 844
+      },
+      {
+        "latency_ms": 1196.25,
+        "prompt_tokens": 832,
+        "completion_tokens": 26,
+        "total_tokens": 858
+      },
+      {
+        "latency_ms": 1296.08,
+        "prompt_tokens": 846,
+        "completion_tokens": 26,
+        "total_tokens": 872
+      }
+    ],
+    "total_tokens": 3707,
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "European Union 2024 AI Act workplace emotion-recognition systems classification",
+        "filter": null,
+        "results": [
+          {
+            "id": "openstax-introduction-sociology-3e-p0080-paragraph-0004",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 80,
+            "text": "music is soft and soothing, with a hint of sadness. You see the protagonist sitting on the\npark bench with a grim expression. Suddenly, the music swells. The woman looks up and sees a man walking\ntoward her. The notes are high and bright, and the pace is bouncy. You feel your heart rise in your chest. This is a\nhappy moment.\nMusic has the ability to evoke emotional responses. In television shows, movies, commercials, and even the\nbackground music in a store, music has a message and seems to easily draw a response from those who hear it –\njoy, sadness, fear, victory. Are these types of musical cues cultural universals?\nIn 2009, a team of psychologists, led by Thomas Fritz of the Max Planck Institute for Human Cognitive and Brain\nSciences in Leipzig, Germany, studied people’s reactions to m",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 799
+            },
+            "score": 0.4048671116471701
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0172-paragraph-0001",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 172,
+            "text": "nsensus-building before moving into\naction\ndyad a two-member group\nexplicit rules the types of rules in a bureaucracy; rules that are outlined, recorded, and standardized\nexpressive function a group function that serves an emotional need\nexpressive leader a leader who is concerned with process and with ensuring everyone’s emotional wellbeing\nformal organizations large, impersonal organizations\ngroup any collection of at least two people who interact with some frequency and who share some sense of\naligned identity\nhierarchy of authority a clear chain of command found in a bureaucracy\nimpersonality the removal of personal feelings from a professional situation\nin-group a group a person belongs to and feels is an integral part of his identity\ninstrumental function being oriented toward a task",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.3865349175584967
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0272-paragraph-0000",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 272,
+            "text": "While you read this chapter, think about the global system that allows U.S. companies to outsource their\nmanufacturing to peripheral nations, where many women and children work in conditions that some\ncharacterize as slave labor. Do people in the United States have a responsibility to foreign workers? Should U.S.\ncorporations be held accountable for what happens to garment factory workers who make their clothing? What\ncan you do as a consumer to help such workers?\n10.1 Global Stratification and Classification\nLEARNING OBJECTIVES\nBy the end of this section, you should be able to:\n• Describe global stratification\n• Differentiate the development history of various classification systems\n• Use terminology from Wallerstein’s world systems approach\n• Explain the World Bank’s classification of ec",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.3251532393891359
+          }
+        ],
+        "context": "[openstax-introduction-sociology-3e-p0080-paragraph-0004 | openstax-introduction-sociology-3e | page 80]\nmusic is soft and soothing, with a hint of sadness. You see the protagonist sitting on the\npark bench with a grim expression. Suddenly, the music swells. The woman looks up and sees a man walking\ntoward her. The notes are high and bright, and the pace is bouncy. You feel your heart rise in your chest. This is a\nhappy moment.\nMusic has the ability to evoke emotional responses. In television shows, movies, commercials, and even the\nbackground music in a store, music has a message and seems to easily draw a response from those who hear it –\njoy, sadness, fear, victory. Are these types of musical cues cultural universals?\nIn 2009, a team of psychologists, led by Thomas Fritz of the Max Planck Institute for Human Cognitive and Brain\nSciences in Leipzig, Germany, studied people’s reactions to m\n\n[openstax-introduction-sociology-3e-p0172-paragraph-0001 | openstax-introduction-sociology-3e | page 172]\nnsensus-building before moving into\naction\ndyad a two-member group\nexplicit rules the types of rules in a bureaucracy; rules that are outlined, recorded, and standardized\nexpressive function a group function that serves an emotional need\nexpressive leader a leader who is concerned with process and with ensuring everyone’s emotional wellbeing\nformal organizations large, impersonal organizations\ngroup any collection of at least two people who interact with some frequency and who share some sense of\naligned identity\nhierarchy of authority a clear chain of command found in a bureaucracy\nimpersonality the removal of personal feelings from a professional situation\nin-group a group a person belongs to and feels is an integral part of his identity\ninstrumental function being oriented toward a task",
+        "context_ids": [
+          "openstax-introduction-sociology-3e-p0080-paragraph-0004",
+          "openstax-introduction-sociology-3e-p0172-paragraph-0001"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "European Union 2024 AI Act workplace emotion-recognition systems classification",
+        "filter": null,
+        "results": [
+          {
+            "id": "openstax-introduction-sociology-3e-p0080-paragraph-0004",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 80,
+            "text": "music is soft and soothing, with a hint of sadness. You see the protagonist sitting on the\npark bench with a grim expression. Suddenly, the music swells. The woman looks up and sees a man walking\ntoward her. The notes are high and bright, and the pace is bouncy. You feel your heart rise in your chest. This is a\nhappy moment.\nMusic has the ability to evoke emotional responses. In television shows, movies, commercials, and even the\nbackground music in a store, music has a message and seems to easily draw a response from those who hear it –\njoy, sadness, fear, victory. Are these types of musical cues cultural universals?\nIn 2009, a team of psychologists, led by Thomas Fritz of the Max Planck Institute for Human Cognitive and Brain\nSciences in Leipzig, Germany, studied people’s reactions to m",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 799
+            },
+            "score": 0.4048671116471701
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0172-paragraph-0001",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 172,
+            "text": "nsensus-building before moving into\naction\ndyad a two-member group\nexplicit rules the types of rules in a bureaucracy; rules that are outlined, recorded, and standardized\nexpressive function a group function that serves an emotional need\nexpressive leader a leader who is concerned with process and with ensuring everyone’s emotional wellbeing\nformal organizations large, impersonal organizations\ngroup any collection of at least two people who interact with some frequency and who share some sense of\naligned identity\nhierarchy of authority a clear chain of command found in a bureaucracy\nimpersonality the removal of personal feelings from a professional situation\nin-group a group a person belongs to and feels is an integral part of his identity\ninstrumental function being oriented toward a task",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.3865349175584967
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0272-paragraph-0000",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 272,
+            "text": "While you read this chapter, think about the global system that allows U.S. companies to outsource their\nmanufacturing to peripheral nations, where many women and children work in conditions that some\ncharacterize as slave labor. Do people in the United States have a responsibility to foreign workers? Should U.S.\ncorporations be held accountable for what happens to garment factory workers who make their clothing? What\ncan you do as a consumer to help such workers?\n10.1 Global Stratification and Classification\nLEARNING OBJECTIVES\nBy the end of this section, you should be able to:\n• Describe global stratification\n• Differentiate the development history of various classification systems\n• Use terminology from Wallerstein’s world systems approach\n• Explain the World Bank’s classification of ec",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.3251532393891359
+          }
+        ],
+        "context": "[openstax-introduction-sociology-3e-p0080-paragraph-0004 | openstax-introduction-sociology-3e | page 80]\nmusic is soft and soothing, with a hint of sadness. You see the protagonist sitting on the\npark bench with a grim expression. Suddenly, the music swells. The woman looks up and sees a man walking\ntoward her. The notes are high and bright, and the pace is bouncy. You feel your heart rise in your chest. This is a\nhappy moment.\nMusic has the ability to evoke emotional responses. In television shows, movies, commercials, and even the\nbackground music in a store, music has a message and seems to easily draw a response from those who hear it –\njoy, sadness, fear, victory. Are these types of musical cues cultural universals?\nIn 2009, a team of psychologists, led by Thomas Fritz of the Max Planck Institute for Human Cognitive and Brain\nSciences in Leipzig, Germany, studied people’s reactions to m\n\n[openstax-introduction-sociology-3e-p0172-paragraph-0001 | openstax-introduction-sociology-3e | page 172]\nnsensus-building before moving into\naction\ndyad a two-member group\nexplicit rules the types of rules in a bureaucracy; rules that are outlined, recorded, and standardized\nexpressive function a group function that serves an emotional need\nexpressive leader a leader who is concerned with process and with ensuring everyone’s emotional wellbeing\nformal organizations large, impersonal organizations\ngroup any collection of at least two people who interact with some frequency and who share some sense of\naligned identity\nhierarchy of authority a clear chain of command found in a bureaucracy\nimpersonality the removal of personal feelings from a professional situation\nin-group a group a person belongs to and feels is an integral part of his identity\ninstrumental function being oriented toward a task",
+        "context_ids": [
+          "openstax-introduction-sociology-3e-p0080-paragraph-0004",
+          "openstax-introduction-sociology-3e-p0172-paragraph-0001"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "European Union 2024 AI Act workplace emotion-recognition systems classification",
+        "filter": null,
+        "results": [
+          {
+            "id": "openstax-introduction-sociology-3e-p0080-paragraph-0004",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 80,
+            "text": "music is soft and soothing, with a hint of sadness. You see the protagonist sitting on the\npark bench with a grim expression. Suddenly, the music swells. The woman looks up and sees a man walking\ntoward her. The notes are high and bright, and the pace is bouncy. You feel your heart rise in your chest. This is a\nhappy moment.\nMusic has the ability to evoke emotional responses. In television shows, movies, commercials, and even the\nbackground music in a store, music has a message and seems to easily draw a response from those who hear it –\njoy, sadness, fear, victory. Are these types of musical cues cultural universals?\nIn 2009, a team of psychologists, led by Thomas Fritz of the Max Planck Institute for Human Cognitive and Brain\nSciences in Leipzig, Germany, studied people’s reactions to m",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 799
+            },
+            "score": 0.4048671116471701
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0172-paragraph-0001",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 172,
+            "text": "nsensus-building before moving into\naction\ndyad a two-member group\nexplicit rules the types of rules in a bureaucracy; rules that are outlined, recorded, and standardized\nexpressive function a group function that serves an emotional need\nexpressive leader a leader who is concerned with process and with ensuring everyone’s emotional wellbeing\nformal organizations large, impersonal organizations\ngroup any collection of at least two people who interact with some frequency and who share some sense of\naligned identity\nhierarchy of authority a clear chain of command found in a bureaucracy\nimpersonality the removal of personal feelings from a professional situation\nin-group a group a person belongs to and feels is an integral part of his identity\ninstrumental function being oriented toward a task",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.3865349175584967
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0272-paragraph-0000",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 272,
+            "text": "While you read this chapter, think about the global system that allows U.S. companies to outsource their\nmanufacturing to peripheral nations, where many women and children work in conditions that some\ncharacterize as slave labor. Do people in the United States have a responsibility to foreign workers? Should U.S.\ncorporations be held accountable for what happens to garment factory workers who make their clothing? What\ncan you do as a consumer to help such workers?\n10.1 Global Stratification and Classification\nLEARNING OBJECTIVES\nBy the end of this section, you should be able to:\n• Describe global stratification\n• Differentiate the development history of various classification systems\n• Use terminology from Wallerstein’s world systems approach\n• Explain the World Bank’s classification of ec",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.3251532393891359
+          }
+        ],
+        "context": "[openstax-introduction-sociology-3e-p0080-paragraph-0004 | openstax-introduction-sociology-3e | page 80]\nmusic is soft and soothing, with a hint of sadness. You see the protagonist sitting on the\npark bench with a grim expression. Suddenly, the music swells. The woman looks up and sees a man walking\ntoward her. The notes are high and bright, and the pace is bouncy. You feel your heart rise in your chest. This is a\nhappy moment.\nMusic has the ability to evoke emotional responses. In television shows, movies, commercials, and even the\nbackground music in a store, music has a message and seems to easily draw a response from those who hear it –\njoy, sadness, fear, victory. Are these types of musical cues cultural universals?\nIn 2009, a team of psychologists, led by Thomas Fritz of the Max Planck Institute for Human Cognitive and Brain\nSciences in Leipzig, Germany, studied people’s reactions to m\n\n[openstax-introduction-sociology-3e-p0172-paragraph-0001 | openstax-introduction-sociology-3e | page 172]\nnsensus-building before moving into\naction\ndyad a two-member group\nexplicit rules the types of rules in a bureaucracy; rules that are outlined, recorded, and standardized\nexpressive function a group function that serves an emotional need\nexpressive leader a leader who is concerned with process and with ensuring everyone’s emotional wellbeing\nformal organizations large, impersonal organizations\ngroup any collection of at least two people who interact with some frequency and who share some sense of\naligned identity\nhierarchy of authority a clear chain of command found in a bureaucracy\nimpersonality the removal of personal feelings from a professional situation\nin-group a group a person belongs to and feels is an integral part of his identity\ninstrumental function being oriented toward a task",
+        "context_ids": [
+          "openstax-introduction-sociology-3e-p0080-paragraph-0004",
+          "openstax-introduction-sociology-3e-p0172-paragraph-0001"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "European Union 2024 AI Act workplace emotion-recognition systems classification",
+        "filter": null,
+        "results": [
+          {
+            "id": "openstax-introduction-sociology-3e-p0080-paragraph-0004",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 80,
+            "text": "music is soft and soothing, with a hint of sadness. You see the protagonist sitting on the\npark bench with a grim expression. Suddenly, the music swells. The woman looks up and sees a man walking\ntoward her. The notes are high and bright, and the pace is bouncy. You feel your heart rise in your chest. This is a\nhappy moment.\nMusic has the ability to evoke emotional responses. In television shows, movies, commercials, and even the\nbackground music in a store, music has a message and seems to easily draw a response from those who hear it –\njoy, sadness, fear, victory. Are these types of musical cues cultural universals?\nIn 2009, a team of psychologists, led by Thomas Fritz of the Max Planck Institute for Human Cognitive and Brain\nSciences in Leipzig, Germany, studied people’s reactions to m",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 799
+            },
+            "score": 0.4048671116471701
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0172-paragraph-0001",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 172,
+            "text": "nsensus-building before moving into\naction\ndyad a two-member group\nexplicit rules the types of rules in a bureaucracy; rules that are outlined, recorded, and standardized\nexpressive function a group function that serves an emotional need\nexpressive leader a leader who is concerned with process and with ensuring everyone’s emotional wellbeing\nformal organizations large, impersonal organizations\ngroup any collection of at least two people who interact with some frequency and who share some sense of\naligned identity\nhierarchy of authority a clear chain of command found in a bureaucracy\nimpersonality the removal of personal feelings from a professional situation\nin-group a group a person belongs to and feels is an integral part of his identity\ninstrumental function being oriented toward a task",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.3865349175584967
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0272-paragraph-0000",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 272,
+            "text": "While you read this chapter, think about the global system that allows U.S. companies to outsource their\nmanufacturing to peripheral nations, where many women and children work in conditions that some\ncharacterize as slave labor. Do people in the United States have a responsibility to foreign workers? Should U.S.\ncorporations be held accountable for what happens to garment factory workers who make their clothing? What\ncan you do as a consumer to help such workers?\n10.1 Global Stratification and Classification\nLEARNING OBJECTIVES\nBy the end of this section, you should be able to:\n• Describe global stratification\n• Differentiate the development history of various classification systems\n• Use terminology from Wallerstein’s world systems approach\n• Explain the World Bank’s classification of ec",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.3251532393891359
+          }
+        ],
+        "context": "[openstax-introduction-sociology-3e-p0080-paragraph-0004 | openstax-introduction-sociology-3e | page 80]\nmusic is soft and soothing, with a hint of sadness. You see the protagonist sitting on the\npark bench with a grim expression. Suddenly, the music swells. The woman looks up and sees a man walking\ntoward her. The notes are high and bright, and the pace is bouncy. You feel your heart rise in your chest. This is a\nhappy moment.\nMusic has the ability to evoke emotional responses. In television shows, movies, commercials, and even the\nbackground music in a store, music has a message and seems to easily draw a response from those who hear it –\njoy, sadness, fear, victory. Are these types of musical cues cultural universals?\nIn 2009, a team of psychologists, led by Thomas Fritz of the Max Planck Institute for Human Cognitive and Brain\nSciences in Leipzig, Germany, studied people’s reactions to m\n\n[openstax-introduction-sociology-3e-p0172-paragraph-0001 | openstax-introduction-sociology-3e | page 172]\nnsensus-building before moving into\naction\ndyad a two-member group\nexplicit rules the types of rules in a bureaucracy; rules that are outlined, recorded, and standardized\nexpressive function a group function that serves an emotional need\nexpressive leader a leader who is concerned with process and with ensuring everyone’s emotional wellbeing\nformal organizations large, impersonal organizations\ngroup any collection of at least two people who interact with some frequency and who share some sense of\naligned identity\nhierarchy of authority a clear chain of command found in a bureaucracy\nimpersonality the removal of personal feelings from a professional situation\nin-group a group a person belongs to and feels is an integral part of his identity\ninstrumental function being oriented toward a task",
+        "context_ids": [
+          "openstax-introduction-sociology-3e-p0080-paragraph-0004",
+          "openstax-introduction-sociology-3e-p0172-paragraph-0001"
+        ]
+      },
+      {
+        "event": "search_limit"
+      }
+    ]
+  },
+  {
+    "query_id": "q25",
+    "question": "What percentage of remote workers in Singapore reported burnout in the 2025 Ministry of Manpower survey?",
+    "answerable": false,
+    "model": "openai/gpt-4o-mini",
+    "method": "dense",
+    "elapsed_s": 8.842,
+    "usage": [
+      {
+        "latency_ms": 3567.21,
+        "prompt_tokens": 279,
+        "completion_tokens": 25,
+        "total_tokens": 304
+      },
+      {
+        "latency_ms": 1142.68,
+        "prompt_tokens": 802,
+        "completion_tokens": 25,
+        "total_tokens": 827
+      },
+      {
+        "latency_ms": 1240.83,
+        "prompt_tokens": 816,
+        "completion_tokens": 25,
+        "total_tokens": 841
+      },
+      {
+        "latency_ms": 1511.82,
+        "prompt_tokens": 830,
+        "completion_tokens": 25,
+        "total_tokens": 855
+      },
+      {
+        "latency_ms": 1332.45,
+        "prompt_tokens": 844,
+        "completion_tokens": 25,
+        "total_tokens": 869
+      }
+    ],
+    "total_tokens": 3696,
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "remote workers Singapore burnout 2025 Ministry of Manpower survey",
+        "filter": null,
+        "results": [
+          {
+            "id": "openstax-introduction-sociology-3e-p0277-paragraph-0002",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 277,
+            "text": "ght be Parvati or Indira. It might be the middle of the night in that country, yet these service providers\npick up the line saying, “Good morning,” as though they are in the next town over. They know everything about\nyour phone or your modem, often using a remote server to log in to your home computer to accomplish what is\nneeded. These are the workers of the twenty-first century. They are not on factory floors or in traditional\nsweatshops; they are educated, speak at least two languages, and usually have significant technology skills.\nThey are skilled workers, but they are paid a fraction of what similar workers are paid in the United States. For\nBIG PICTURE\n10.1 • Global Stratification and Classification 265",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 719
+            },
+            "score": 0.3619123945338198
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0141-paragraph-0001",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 141,
+            "text": "00 wounded (Crampton 2002).\nThe protest affirms that textbooks are a significant tool of socialization in state-run education systems.\nThe Workplace\nFIGURE 5.6 Workplace socialization occurs informally and formally, and may include material and non-material\nculture (Credit: U.S. Department of Agriculture/flickr).\nJust as children spend much of their day at school, many U.S. adults at some point invest a significant amount\nof time at a place of employment. Although socialized into their culture since birth, workers require new\nsocialization into a workplace, in terms of both material culture (such as how to operate the copy machine) and\nnonmaterial culture (such as whether it’s okay to speak directly to the boss or how to share the refrigerator). In\nthe chapter introduction, Noel did not fu",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.3465840854646823
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0283-paragraph-0003",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 283,
+            "text": "South Korea\nholding much more wealth than India and Cambodia. In fact, most poverty is concentrated in South Asia. One\nof the most pressing causes of poverty in Asia is simply the pressure that the size of the population puts on its\nresources. Unlike Africa, many people living in poverty reside in urban areas, often in crowded, unhygenic\nconditions with limited access to water and resources. Estimates indicate that Asia has 60 percent of the\nworld's people who live in slums (WorldVision 2019). Those who find work often do so in garment factories or\nother manufacturing facilities, where pay is very low and the demands are incredibly high. (See the feature\nbelow on sweatshop labor.) Children are sent to work in these conditions as well.\nAsia is also frequently impacted by natural disasters.",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 799
+            },
+            "score": 0.3273491408955088
+          }
+        ],
+        "context": "[openstax-introduction-sociology-3e-p0277-paragraph-0002 | openstax-introduction-sociology-3e | page 277]\nght be Parvati or Indira. It might be the middle of the night in that country, yet these service providers\npick up the line saying, “Good morning,” as though they are in the next town over. They know everything about\nyour phone or your modem, often using a remote server to log in to your home computer to accomplish what is\nneeded. These are the workers of the twenty-first century. They are not on factory floors or in traditional\nsweatshops; they are educated, speak at least two languages, and usually have significant technology skills.\nThey are skilled workers, but they are paid a fraction of what similar workers are paid in the United States. For\nBIG PICTURE\n10.1 • Global Stratification and Classification 265\n\n[openstax-introduction-sociology-3e-p0141-paragraph-0001 | openstax-introduction-sociology-3e | page 141]\n00 wounded (Crampton 2002).\nThe protest affirms that textbooks are a significant tool of socialization in state-run education systems.\nThe Workplace\nFIGURE 5.6 Workplace socialization occurs informally and formally, and may include material and non-material\nculture (Credit: U.S. Department of Agriculture/flickr).\nJust as children spend much of their day at school, many U.S. adults at some point invest a significant amount\nof time at a place of employment. Although socialized into their culture since birth, workers require new\nsocialization into a workplace, in terms of both material culture (such as how to operate the copy machine) and\nnonmaterial culture (such as whether it’s okay to speak directly to the boss or how to share the refrigerator). In\nthe chapter introduction, Noel did not fu",
+        "context_ids": [
+          "openstax-introduction-sociology-3e-p0277-paragraph-0002",
+          "openstax-introduction-sociology-3e-p0141-paragraph-0001"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "2025 Ministry of Manpower survey remote workers Singapore burnout percentage",
+        "filter": null,
+        "results": [
+          {
+            "id": "openstax-introduction-sociology-3e-p0277-paragraph-0002",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 277,
+            "text": "ght be Parvati or Indira. It might be the middle of the night in that country, yet these service providers\npick up the line saying, “Good morning,” as though they are in the next town over. They know everything about\nyour phone or your modem, often using a remote server to log in to your home computer to accomplish what is\nneeded. These are the workers of the twenty-first century. They are not on factory floors or in traditional\nsweatshops; they are educated, speak at least two languages, and usually have significant technology skills.\nThey are skilled workers, but they are paid a fraction of what similar workers are paid in the United States. For\nBIG PICTURE\n10.1 • Global Stratification and Classification 265",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 719
+            },
+            "score": 0.34777602088069653
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0141-paragraph-0001",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 141,
+            "text": "00 wounded (Crampton 2002).\nThe protest affirms that textbooks are a significant tool of socialization in state-run education systems.\nThe Workplace\nFIGURE 5.6 Workplace socialization occurs informally and formally, and may include material and non-material\nculture (Credit: U.S. Department of Agriculture/flickr).\nJust as children spend much of their day at school, many U.S. adults at some point invest a significant amount\nof time at a place of employment. Although socialized into their culture since birth, workers require new\nsocialization into a workplace, in terms of both material culture (such as how to operate the copy machine) and\nnonmaterial culture (such as whether it’s okay to speak directly to the boss or how to share the refrigerator). In\nthe chapter introduction, Noel did not fu",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.3386371113618708
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0283-paragraph-0003",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 283,
+            "text": "South Korea\nholding much more wealth than India and Cambodia. In fact, most poverty is concentrated in South Asia. One\nof the most pressing causes of poverty in Asia is simply the pressure that the size of the population puts on its\nresources. Unlike Africa, many people living in poverty reside in urban areas, often in crowded, unhygenic\nconditions with limited access to water and resources. Estimates indicate that Asia has 60 percent of the\nworld's people who live in slums (WorldVision 2019). Those who find work often do so in garment factories or\nother manufacturing facilities, where pay is very low and the demands are incredibly high. (See the feature\nbelow on sweatshop labor.) Children are sent to work in these conditions as well.\nAsia is also frequently impacted by natural disasters.",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 799
+            },
+            "score": 0.3274398763614119
+          }
+        ],
+        "context": "[openstax-introduction-sociology-3e-p0277-paragraph-0002 | openstax-introduction-sociology-3e | page 277]\nght be Parvati or Indira. It might be the middle of the night in that country, yet these service providers\npick up the line saying, “Good morning,” as though they are in the next town over. They know everything about\nyour phone or your modem, often using a remote server to log in to your home computer to accomplish what is\nneeded. These are the workers of the twenty-first century. They are not on factory floors or in traditional\nsweatshops; they are educated, speak at least two languages, and usually have significant technology skills.\nThey are skilled workers, but they are paid a fraction of what similar workers are paid in the United States. For\nBIG PICTURE\n10.1 • Global Stratification and Classification 265\n\n[openstax-introduction-sociology-3e-p0141-paragraph-0001 | openstax-introduction-sociology-3e | page 141]\n00 wounded (Crampton 2002).\nThe protest affirms that textbooks are a significant tool of socialization in state-run education systems.\nThe Workplace\nFIGURE 5.6 Workplace socialization occurs informally and formally, and may include material and non-material\nculture (Credit: U.S. Department of Agriculture/flickr).\nJust as children spend much of their day at school, many U.S. adults at some point invest a significant amount\nof time at a place of employment. Although socialized into their culture since birth, workers require new\nsocialization into a workplace, in terms of both material culture (such as how to operate the copy machine) and\nnonmaterial culture (such as whether it’s okay to speak directly to the boss or how to share the refrigerator). In\nthe chapter introduction, Noel did not fu",
+        "context_ids": [
+          "openstax-introduction-sociology-3e-p0277-paragraph-0002",
+          "openstax-introduction-sociology-3e-p0141-paragraph-0001"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "2025 Ministry of Manpower survey remote workers Singapore burnout percentage",
+        "filter": null,
+        "results": [
+          {
+            "id": "openstax-introduction-sociology-3e-p0277-paragraph-0002",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 277,
+            "text": "ght be Parvati or Indira. It might be the middle of the night in that country, yet these service providers\npick up the line saying, “Good morning,” as though they are in the next town over. They know everything about\nyour phone or your modem, often using a remote server to log in to your home computer to accomplish what is\nneeded. These are the workers of the twenty-first century. They are not on factory floors or in traditional\nsweatshops; they are educated, speak at least two languages, and usually have significant technology skills.\nThey are skilled workers, but they are paid a fraction of what similar workers are paid in the United States. For\nBIG PICTURE\n10.1 • Global Stratification and Classification 265",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 719
+            },
+            "score": 0.34777602088069653
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0141-paragraph-0001",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 141,
+            "text": "00 wounded (Crampton 2002).\nThe protest affirms that textbooks are a significant tool of socialization in state-run education systems.\nThe Workplace\nFIGURE 5.6 Workplace socialization occurs informally and formally, and may include material and non-material\nculture (Credit: U.S. Department of Agriculture/flickr).\nJust as children spend much of their day at school, many U.S. adults at some point invest a significant amount\nof time at a place of employment. Although socialized into their culture since birth, workers require new\nsocialization into a workplace, in terms of both material culture (such as how to operate the copy machine) and\nnonmaterial culture (such as whether it’s okay to speak directly to the boss or how to share the refrigerator). In\nthe chapter introduction, Noel did not fu",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.3386371113618708
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0283-paragraph-0003",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 283,
+            "text": "South Korea\nholding much more wealth than India and Cambodia. In fact, most poverty is concentrated in South Asia. One\nof the most pressing causes of poverty in Asia is simply the pressure that the size of the population puts on its\nresources. Unlike Africa, many people living in poverty reside in urban areas, often in crowded, unhygenic\nconditions with limited access to water and resources. Estimates indicate that Asia has 60 percent of the\nworld's people who live in slums (WorldVision 2019). Those who find work often do so in garment factories or\nother manufacturing facilities, where pay is very low and the demands are incredibly high. (See the feature\nbelow on sweatshop labor.) Children are sent to work in these conditions as well.\nAsia is also frequently impacted by natural disasters.",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 799
+            },
+            "score": 0.3274398763614119
+          }
+        ],
+        "context": "[openstax-introduction-sociology-3e-p0277-paragraph-0002 | openstax-introduction-sociology-3e | page 277]\nght be Parvati or Indira. It might be the middle of the night in that country, yet these service providers\npick up the line saying, “Good morning,” as though they are in the next town over. They know everything about\nyour phone or your modem, often using a remote server to log in to your home computer to accomplish what is\nneeded. These are the workers of the twenty-first century. They are not on factory floors or in traditional\nsweatshops; they are educated, speak at least two languages, and usually have significant technology skills.\nThey are skilled workers, but they are paid a fraction of what similar workers are paid in the United States. For\nBIG PICTURE\n10.1 • Global Stratification and Classification 265\n\n[openstax-introduction-sociology-3e-p0141-paragraph-0001 | openstax-introduction-sociology-3e | page 141]\n00 wounded (Crampton 2002).\nThe protest affirms that textbooks are a significant tool of socialization in state-run education systems.\nThe Workplace\nFIGURE 5.6 Workplace socialization occurs informally and formally, and may include material and non-material\nculture (Credit: U.S. Department of Agriculture/flickr).\nJust as children spend much of their day at school, many U.S. adults at some point invest a significant amount\nof time at a place of employment. Although socialized into their culture since birth, workers require new\nsocialization into a workplace, in terms of both material culture (such as how to operate the copy machine) and\nnonmaterial culture (such as whether it’s okay to speak directly to the boss or how to share the refrigerator). In\nthe chapter introduction, Noel did not fu",
+        "context_ids": [
+          "openstax-introduction-sociology-3e-p0277-paragraph-0002",
+          "openstax-introduction-sociology-3e-p0141-paragraph-0001"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "2025 Ministry of Manpower survey remote workers Singapore burnout percentage",
+        "filter": null,
+        "results": [
+          {
+            "id": "openstax-introduction-sociology-3e-p0277-paragraph-0002",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 277,
+            "text": "ght be Parvati or Indira. It might be the middle of the night in that country, yet these service providers\npick up the line saying, “Good morning,” as though they are in the next town over. They know everything about\nyour phone or your modem, often using a remote server to log in to your home computer to accomplish what is\nneeded. These are the workers of the twenty-first century. They are not on factory floors or in traditional\nsweatshops; they are educated, speak at least two languages, and usually have significant technology skills.\nThey are skilled workers, but they are paid a fraction of what similar workers are paid in the United States. For\nBIG PICTURE\n10.1 • Global Stratification and Classification 265",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 719
+            },
+            "score": 0.34777602088069653
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0141-paragraph-0001",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 141,
+            "text": "00 wounded (Crampton 2002).\nThe protest affirms that textbooks are a significant tool of socialization in state-run education systems.\nThe Workplace\nFIGURE 5.6 Workplace socialization occurs informally and formally, and may include material and non-material\nculture (Credit: U.S. Department of Agriculture/flickr).\nJust as children spend much of their day at school, many U.S. adults at some point invest a significant amount\nof time at a place of employment. Although socialized into their culture since birth, workers require new\nsocialization into a workplace, in terms of both material culture (such as how to operate the copy machine) and\nnonmaterial culture (such as whether it’s okay to speak directly to the boss or how to share the refrigerator). In\nthe chapter introduction, Noel did not fu",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 800
+            },
+            "score": 0.3386371113618708
+          },
+          {
+            "id": "openstax-introduction-sociology-3e-p0283-paragraph-0003",
+            "source_id": "openstax-introduction-sociology-3e",
+            "source": "openstax-introduction-sociology-3e",
+            "page": 283,
+            "text": "South Korea\nholding much more wealth than India and Cambodia. In fact, most poverty is concentrated in South Asia. One\nof the most pressing causes of poverty in Asia is simply the pressure that the size of the population puts on its\nresources. Unlike Africa, many people living in poverty reside in urban areas, often in crowded, unhygenic\nconditions with limited access to water and resources. Estimates indicate that Asia has 60 percent of the\nworld's people who live in slums (WorldVision 2019). Those who find work often do so in garment factories or\nother manufacturing facilities, where pay is very low and the demands are incredibly high. (See the feature\nbelow on sweatshop labor.) Children are sent to work in these conditions as well.\nAsia is also frequently impacted by natural disasters.",
+            "metadata": {
+              "strategy": "B",
+              "has_text": true,
+              "chunk_strategy": "paragraph",
+              "char_count": 799
+            },
+            "score": 0.3274398763614119
+          }
+        ],
+        "context": "[openstax-introduction-sociology-3e-p0277-paragraph-0002 | openstax-introduction-sociology-3e | page 277]\nght be Parvati or Indira. It might be the middle of the night in that country, yet these service providers\npick up the line saying, “Good morning,” as though they are in the next town over. They know everything about\nyour phone or your modem, often using a remote server to log in to your home computer to accomplish what is\nneeded. These are the workers of the twenty-first century. They are not on factory floors or in traditional\nsweatshops; they are educated, speak at least two languages, and usually have significant technology skills.\nThey are skilled workers, but they are paid a fraction of what similar workers are paid in the United States. For\nBIG PICTURE\n10.1 • Global Stratification and Classification 265\n\n[openstax-introduction-sociology-3e-p0141-paragraph-0001 | openstax-introduction-sociology-3e | page 141]\n00 wounded (Crampton 2002).\nThe protest affirms that textbooks are a significant tool of socialization in state-run education systems.\nThe Workplace\nFIGURE 5.6 Workplace socialization occurs informally and formally, and may include material and non-material\nculture (Credit: U.S. Department of Agriculture/flickr).\nJust as children spend much of their day at school, many U.S. adults at some point invest a significant amount\nof time at a place of employment. Although socialized into their culture since birth, workers require new\nsocialization into a workplace, in terms of both material culture (such as how to operate the copy machine) and\nnonmaterial culture (such as whether it’s okay to speak directly to the boss or how to share the refrigerator). In\nthe chapter introduction, Noel did not fu",
+        "context_ids": [
+          "openstax-introduction-sociology-3e-p0277-paragraph-0002",
+          "openstax-introduction-sociology-3e-p0141-paragraph-0001"
+        ]
+      },
+      {
+        "event": "search_limit"
+      }
+    ]
+  }
+]

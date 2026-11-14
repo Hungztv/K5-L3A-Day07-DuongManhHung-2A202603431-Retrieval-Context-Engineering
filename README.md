@@ -31,3 +31,25 @@ Index một tài liệu thực tế từ **100 trang** có bảng, ảnh và bi�
 ![Các bước thử nghiệm trên dev và đánh giá trên test](assets/experiment-loop.svg)
 
 Nộp code, cách chạy, cấu hình, benchmark, trace và [báo cáo](report/individual/MSSV_HoTen.md). Thời gian ở [checkpoints](CHECKPOINTS.md) là gợi ý, có thể điều chỉnh theo lớp và phạm vi thử nghiệm.
+
+## Tái lập bài làm (Dương Mạnh Hùng — `2A202603431`)
+
+1. Cài dependencies (Python 3.12, không cần Docker):
+   ```powershell
+   pip install -r requirements.txt
+   ```
+2. Chuẩn bị dữ liệu Day 6 tại `starter/qdrant_db/` (collection `strategy_B`, `all-MiniLM-L6-v2` 384 chiều) và tạo `.env` từ `.env.example` với `OPENROUTER_API_KEY`.
+3. Chạy kiểm thử và tái tạo benchmark:
+   ```powershell
+   python -m unittest discover -s tests -v
+   python src/export_day6.py
+   python src/build_benchmark.py
+   python src/verify_absence.py
+   ```
+4. Chạy benchmark retrieval và agent:
+   ```powershell
+   python src/eval_retrieval.py --split dev
+   python src/eval_retrieval.py --split test
+   python src/openrouter_agent.py --split test --method hybrid --top-k 5 --budget 3200 --output starter/results/agent-test-hybrid
+   python starter/agent_metrics.py --cases starter/results/agent-test-hybrid/cases.json --traces starter/results/agent-test-hybrid/traces.json --reviews starter/results/agent-test-hybrid/reviews.json --split test --output starter/results/agent-test-hybrid/summary.json
+   ```

@@ -1,0 +1,9 @@
+# Day 7 — versions used for the reported runs (Windows, Python 3.12.10, CPU, no Docker)
+qdrant-client==1.20.0
+sentence-transformers==5.7.0
+transformers==5.22.2
+torch==2.15.0
+numpy==2.5.4
+openai==3.48.0
+python-dotenv==1.2.4
+pypdf==6.21.4

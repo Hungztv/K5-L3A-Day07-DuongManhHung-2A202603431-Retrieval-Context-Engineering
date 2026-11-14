@@ -1,0 +1,357 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "question": "What is a latent function in sociology, and can it be harmful?",
+    "gold": [
+      {
+        "source_id": "openstax-introduction-sociology-3e",
+        "page": 31,
+        "evidence": "Latent functions can be beneficial, neutral, or harmful. Social processes that have undesirable consequences for the operation of society are called dysfunctions."
+      }
+    ],
+    "expected_answer": "Latent functions are unintended consequences of social processes. They can be beneficial, neutral, or harmful. Harmful latent functions are called dysfunctions.",
+    "filter": null,
+    "answerable": true
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "question": "What are examples of dysfunctions in education according to structural-functional theory?",
+    "gold": [
+      {
+        "source_id": "openstax-introduction-sociology-3e",
+        "page": 31,
+        "evidence": "In education, examples of dysfunction include getting bad grades, truancy, dropping out, not graduating, and not finding suitable employment."
+      }
+    ],
+    "expected_answer": "Examples of dysfunction in education include getting bad grades, truancy, dropping out, not graduating, and not finding suitable employment.",
+    "filter": null,
+    "answerable": true
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "question": "What is the main criticism of structural-functional theory?",
+    "gold": [
+      {
+        "source_id": "openstax-introduction-sociology-3e",
+        "page": 31,
+        "evidence": "One criticism of the structural-functional theory is that it can't adequately explain social change"
+      }
+    ],
+    "expected_answer": "One criticism of the structural-functional theory is that it cannot adequately explain social change.",
+    "filter": null,
+    "answerable": true
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "question": "What is the Agricultural Revolution and when did it occur?",
+    "gold": [
+      {
+        "source_id": "openstax-introduction-sociology-3e",
+        "page": 111,
+        "evidence": "Around 10,000 B.C.E., an explosion of new technology known as the Agricultural Revolution made farming possible—and profitable."
+      }
+    ],
+    "expected_answer": "The Agricultural Revolution was an explosion of new technology that made farming possible and profitable, occurring around 10,000 B.C.E.",
+    "filter": null,
+    "answerable": true
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "question": "How did farmers improve harvests during the Agricultural Revolution?",
+    "gold": [
+      {
+        "source_id": "openstax-introduction-sociology-3e",
+        "page": 111,
+        "evidence": "Farmers learned to rotate the types of crops grown on their fields and to reuse waste products such as manure as fertilizer, which led to better harvests and bigger surpluses of food."
+      }
+    ],
+    "expected_answer": "Farmers learned to rotate the types of crops grown on their fields and to reuse waste products such as manure as fertilizer, which led to better harvests and bigger food surpluses.",
+    "filter": null,
+    "answerable": true
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "question": "According to conflict theorists, what divided people in Marx's time?",
+    "gold": [
+      {
+        "source_id": "openstax-introduction-sociology-3e",
+        "page": 261,
+        "evidence": "People were divided into two main groups: they either owned factories or worked in them. In Marx's time, bourgeois capitalists owned high-producing businesses, factories, and land."
+      }
+    ],
+    "expected_answer": "Marx believed people were divided into two main groups: those who owned factories (bourgeois capitalists) and those who worked in them (proletariats).",
+    "filter": null,
+    "answerable": true
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "question": "How did Karl Marx explain social stratification in the industrial era?",
+    "gold": [
+      {
+        "source_id": "openstax-introduction-sociology-3e",
+        "page": 261,
+        "evidence": "Marx believed social stratification resulted from people's relationship to production."
+      }
+    ],
+    "expected_answer": "Marx believed social stratification resulted from people's relationship to production. The bourgeoisie owned capital and means of production, while the proletariat performed manual labor.",
+    "filter": null,
+    "answerable": true
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "question": "What did music research find about the emotions recognized by tribal members listening to Western piano?",
+    "gold": [
+      {
+        "source_id": "openstax-introduction-sociology-3e",
+        "page": 81,
+        "evidence": "they were able to recognize three basic emotions: happiness, sadness, and fear. Music, the study suggested, is a sort of universal language."
+      }
+    ],
+    "expected_answer": "Tribal members were able to recognize three basic emotions: happiness, sadness, and fear, suggesting music is a kind of universal language.",
+    "filter": null,
+    "answerable": true
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "question": "What is cyberfeminism?",
+    "gold": [
+      {
+        "source_id": "openstax-introduction-sociology-3e",
+        "page": 231,
+        "evidence": "cyberfeminism, the application to, and promotion of, feminism online."
+      }
+    ],
+    "expected_answer": "Cyberfeminism is the application to, and promotion of, feminism online.",
+    "filter": null,
+    "answerable": true
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "question": "What is the control theory in sociology?",
+    "gold": [
+      {
+        "source_id": "openstax-introduction-sociology-3e",
+        "page": 201,
+        "evidence": "control theory a theory that states social control is directly affected by the strength of social bonds and that deviance results from a feeling of disconnection from society"
+      }
+    ],
+    "expected_answer": "Control theory is a theory that states social control is directly affected by the strength of social bonds and that deviance results from a feeling of disconnection from society.",
+    "filter": null,
+    "answerable": true
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "question": "What is corporate crime?",
+    "gold": [
+      {
+        "source_id": "openstax-introduction-sociology-3e",
+        "page": 201,
+        "evidence": "corporate crime crime committed by white-collar workers in a business environment"
+      }
+    ],
+    "expected_answer": "Corporate crime is crime committed by white-collar workers in a business environment.",
+    "filter": null,
+    "answerable": true
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "question": "What is the conflict theory of criminal deviance?",
+    "gold": [
+      {
+        "source_id": "openstax-introduction-sociology-3e",
+        "page": 201,
+        "evidence": "conflict theory a theory that examines social and economic factors as the causes of criminal deviance"
+      }
+    ],
+    "expected_answer": "Conflict theory examines social and economic factors as the causes of criminal deviance.",
+    "filter": {
+      "document_type": "textbook"
+    },
+    "answerable": true
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "question": "How is polygamy described in terms of prevalence in societies where it is most common?",
+    "gold": [
+      {
+        "source_id": "openstax-introduction-sociology-3e",
+        "page": 421,
+        "evidence": "only an average of 11 percent of the population lives in arrangements that include more than one spouse"
+      }
+    ],
+    "expected_answer": "In societies where polygamy is most common, only an average of 11 percent of the population lives in arrangements that include more than one spouse.",
+    "filter": null,
+    "answerable": true
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "question": "What are the key concepts of Taoism according to the textbook?",
+    "gold": [
+      {
+        "source_id": "openstax-introduction-sociology-3e",
+        "page": 461,
+        "evidence": "The ying-yang symbol and the concept of polar forces are central Taoist ideas"
+      }
+    ],
+    "expected_answer": "The ying-yang symbol and the concept of polar forces are central Taoist ideas. Taoism is concerned with a more spiritual level of being, in contrast to Confucianism which focuses on day-to-day rules of conduct.",
+    "filter": null,
+    "answerable": true
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "question": "What happened to maternal deaths according to Millennium Development Goal 5?",
+    "gold": [
+      {
+        "source_id": "openstax-introduction-sociology-3e",
+        "page": 581,
+        "evidence": "Much progress has been made on MDG 5, with maternal deaths decreasing by 34 percent."
+      }
+    ],
+    "expected_answer": "Much progress was made on MDG 5, with maternal deaths decreasing by 34 percent. However, almost all maternal deaths occurred in developing countries, with the African region still experiencing high numbers.",
+    "filter": {
+      "document_type": "textbook"
+    },
+    "answerable": true
+  },
+  {
+    "id": "q16",
+    "split": "test",
+    "question": "According to the survey data, at what age do Millennials consider someone to be old?",
+    "gold": [
+      {
+        "source_id": "openstax-introduction-sociology-3e",
+        "page": 381,
+        "evidence": "At what age is someone old? 73 65 59"
+      }
+    ],
+    "expected_answer": "According to the survey, Millennials consider someone to be old at age 59.",
+    "filter": null,
+    "answerable": true
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "question": "At what age do Baby Boomers consider the prime of life to be?",
+    "gold": [
+      {
+        "source_id": "openstax-introduction-sociology-3e",
+        "page": 381,
+        "evidence": "At what age is the prime of life? 50 47 36"
+      }
+    ],
+    "expected_answer": "Baby Boomers consider the prime of life to be at age 50.",
+    "filter": null,
+    "answerable": true
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "question": "What was Korea's relationship with Japan in the early twentieth century?",
+    "gold": [
+      {
+        "source_id": "openstax-introduction-sociology-3e",
+        "page": 141,
+        "evidence": "it held Korea as a colony between 1910 and 1945."
+      }
+    ],
+    "expected_answer": "Japan held Korea as a colony between 1910 and 1945. Koreans argue that Japanese textbooks whitewash this colonial history.",
+    "filter": null,
+    "answerable": true
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "question": "What is miscegenation and when was it considered illegal?",
+    "gold": [
+      {
+        "source_id": "openstax-introduction-sociology-3e",
+        "page": 301,
+        "evidence": "Prior to the twentieth century, racial intermarriage (referred to as miscegenation) was extremely rare, and in many places, illegal."
+      }
+    ],
+    "expected_answer": "Miscegenation refers to racial intermarriage. Prior to the twentieth century, racial intermarriage was extremely rare, and in many places, illegal.",
+    "filter": {
+      "document_type": "textbook"
+    },
+    "answerable": true
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "question": "What did Jerry Newman's undercover work at fast food restaurants reveal?",
+    "gold": [
+      {
+        "source_id": "openstax-introduction-sociology-3e",
+        "page": 171,
+        "evidence": "Newman found that these restaurants offer much good alongside the bad. Specifically, he asserted that the employees were honest and hardworking, that management was often impressive, and that the jobs required a lot more sk"
+      }
+    ],
+    "expected_answer": "Newman found that fast food restaurants offered much good alongside the bad. Employees were honest and hardworking, management was often impressive, and the jobs required a lot more skill than expected.",
+    "filter": null,
+    "answerable": true
+  },
+  {
+    "id": "q21",
+    "split": "test",
+    "question": "What is the role of the independent variable in sociological research as explained in the textbook?",
+    "gold": [
+      {
+        "source_id": "openstax-introduction-sociology-3e",
+        "page": 51,
+        "evidence": "a researcher might hypothesize that teaching children proper hygiene (the independent variable) will boost their sense of self-esteem (the dependent variable)"
+      }
+    ],
+    "expected_answer": "The independent variable is the variable that is manipulated or changed in a hypothesis. For example, teaching proper hygiene (independent variable) may affect self-esteem (dependent variable).",
+    "filter": {
+      "document_type": "textbook"
+    },
+    "answerable": true
+  },
+  {
+    "id": "q22",
+    "split": "dev",
+    "question": "What are the main changes in Vietnam's 2024 Law on Social Insurance regarding voluntary pension contributions?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Verified across all 2,726 chunks (src/verify_absence.py): 'Vietnam' appears in 16 chunks, 'pension' in 1 chunk (p.383), 'social insurance' in 0 chunks, '2024' in 0 chunks, and co-occurrence of (Vietnam+social insurance / Vietnam+pension / Vietnam+2024) is 0."
+  },
+  {
+    "id": "q23",
+    "split": "dev",
+    "question": "What was the exact global Gini coefficient reported by the World Bank in 2025?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Verified across all 2,726 chunks (src/verify_absence.py): 'Gini' appears in 4 chunks, 'World Bank' in 27 chunks, '2025' in 1 chunk (p.383), and co-occurrence of (Gini+2025 / World Bank+2025) is 0."
+  },
+  {
+    "id": "q24",
+    "split": "test",
+    "question": "How did the European Union's 2024 AI Act classify workplace emotion-recognition systems?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Verified across all 2,726 chunks (src/verify_absence.py): 'AI Act' (0 chunks), 'emotion recognition' (0 chunks), '2024' (0 chunks), and co-occurrence of (European Union+artificial intelligence) is 0."
+  },
+  {
+    "id": "q25",
+    "split": "test",
+    "question": "What percentage of remote workers in Singapore reported burnout in the 2025 Ministry of Manpower survey?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Verified across all 2,726 chunks (src/verify_absence.py): 'burnout' (0 chunks), 'remote work' (0 chunks), 'Ministry of Manpower' (0 chunks), and co-occurrence of (Singapore+burnout / Singapore+2025) is 0."
+  }
+]

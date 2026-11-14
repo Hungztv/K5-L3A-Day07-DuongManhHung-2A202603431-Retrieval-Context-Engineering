@@ -1,0 +1,164 @@
+{
+  "q22": {
+    "keywords": {
+      "Vietnam": {
+        "n_chunks": 16,
+        "pages_sample": [
+          274,
+          275,
+          279,
+          283,
+          299,
+          314,
+          319,
+          320,
+          357,
+          398
+        ]
+      },
+      "Vietnamese": {
+        "n_chunks": 4,
+        "pages_sample": [
+          299,
+          319,
+          320
+        ]
+      },
+      "social insurance": {
+        "n_chunks": 0,
+        "pages_sample": []
+      },
+      "pension": {
+        "n_chunks": 1,
+        "pages_sample": [
+          383
+        ]
+      },
+      "2024": {
+        "n_chunks": 0,
+        "pages_sample": []
+      }
+    },
+    "co_occurrence_hits": {
+      "Vietnam + social insurance": [],
+      "Vietnam + pension": [],
+      "Vietnam + 2024": []
+    },
+    "absent_verified": true
+  },
+  "q23": {
+    "keywords": {
+      "Gini": {
+        "n_chunks": 4,
+        "pages_sample": [
+          272,
+          273,
+          288,
+          662
+        ]
+      },
+      "World Bank": {
+        "n_chunks": 27,
+        "pages_sample": [
+          226,
+          238,
+          241,
+          272,
+          274,
+          276,
+          278,
+          279,
+          280,
+          281
+        ]
+      },
+      "2025": {
+        "n_chunks": 1,
+        "pages_sample": [
+          383
+        ]
+      }
+    },
+    "co_occurrence_hits": {
+      "Gini + 2025": [],
+      "World Bank + 2025": []
+    },
+    "absent_verified": true
+  },
+  "q24": {
+    "keywords": {
+      "AI Act": {
+        "n_chunks": 0,
+        "pages_sample": []
+      },
+      "artificial intelligence": {
+        "n_chunks": 2,
+        "pages_sample": [
+          37,
+          170
+        ]
+      },
+      "emotion recognition": {
+        "n_chunks": 0,
+        "pages_sample": []
+      },
+      "European Union": {
+        "n_chunks": 5,
+        "pages_sample": [
+          4,
+          542,
+          560,
+          614,
+          633
+        ]
+      },
+      "2024": {
+        "n_chunks": 0,
+        "pages_sample": []
+      }
+    },
+    "co_occurrence_hits": {
+      "AI Act": [],
+      "emotion recognition": [],
+      "European Union + artificial intelligence": []
+    },
+    "absent_verified": true
+  },
+  "q25": {
+    "keywords": {
+      "Singapore": {
+        "n_chunks": 5,
+        "pages_sample": [
+          478,
+          541,
+          557,
+          580
+        ]
+      },
+      "burnout": {
+        "n_chunks": 0,
+        "pages_sample": []
+      },
+      "remote work": {
+        "n_chunks": 0,
+        "pages_sample": []
+      },
+      "Ministry of Manpower": {
+        "n_chunks": 0,
+        "pages_sample": []
+      },
+      "2025": {
+        "n_chunks": 1,
+        "pages_sample": [
+          383
+        ]
+      }
+    },
+    "co_occurrence_hits": {
+      "Singapore + burnout": [],
+      "Ministry of Manpower": [],
+      "Singapore + 2025": []
+    },
+    "absent_verified": true
+  }
+}
